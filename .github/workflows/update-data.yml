@@ -1,0 +1,40 @@
+name: Update signaux RSS
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-signaux:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Update signaux from RSS
+        run: python scripts/update-signaux.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/signaux.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement dans signaux.json"
+          else
+            git commit -m "chore: update signaux RSS [automated]"
+            git push
+          fi

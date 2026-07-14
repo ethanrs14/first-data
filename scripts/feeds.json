@@ -1,0 +1,27 @@
+{
+  "sport": [
+    "https://www.lemonde.fr/sport/rss_full.xml",
+    "https://www.francetvinfo.fr/sports.rss"
+  ],
+  "tech": [
+    "https://www.frandroid.com/feed",
+    "https://www.numerama.com/feed/",
+    "https://feeds.arstechnica.com/arstechnica/index"
+  ],
+  "gaming": [
+    "https://www.jeuxvideo.com/rss/rss.xml",
+    "https://feeds.ign.com/ign/games-all"
+  ],
+  "retail": [
+    "https://www.lemonde.fr/economie/rss_full.xml",
+    "https://www.usine-digitale.fr/rss/thematique/retail.rss"
+  ],
+  "famille": [
+    "https://www.francetvinfo.fr/societe.rss",
+    "https://www.lemonde.fr/societe/rss_full.xml"
+  ],
+  "maison": [
+    "https://www.lemonde.fr/planete/rss_full.xml",
+    "https://www.francetvinfo.fr/environnement.rss"
+  ]
+}
