@@ -1,0 +1,58 @@
+[
+  {
+    "motCle": "TV 4K",
+    "categorie": "sport",
+    "score": 78,
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-10T06:00:00.000Z"
+  },
+  {
+    "motCle": "barbecue",
+    "categorie": "sport",
+    "score": 62,
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-10T06:00:00.000Z"
+  },
+  {
+    "motCle": "PS5 Pro",
+    "categorie": "gaming",
+    "score": 91,
+    "evenementLieId": "gta6-lancement",
+    "derniereMaj": "2026-07-12T06:00:00.000Z"
+  },
+  {
+    "motCle": "climatiseurs",
+    "categorie": "maison",
+    "score": 85,
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-13T06:00:00.000Z"
+  },
+  {
+    "motCle": "console Switch 2",
+    "categorie": "gaming",
+    "score": 88,
+    "evenementLieId": "nintendo-switch2",
+    "derniereMaj": "2026-07-11T06:00:00.000Z"
+  },
+  {
+    "motCle": "cartables",
+    "categorie": "famille",
+    "score": 45,
+    "evenementLieId": "rentree-2026",
+    "derniereMaj": "2026-07-08T06:00:00.000Z"
+  },
+  {
+    "motCle": "MacBook",
+    "categorie": "tech",
+    "score": 55,
+    "evenementLieId": "apple-wwdc-2026",
+    "derniereMaj": "2026-07-09T06:00:00.000Z"
+  },
+  {
+    "motCle": "électroménager",
+    "categorie": "retail",
+    "score": 40,
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-05T06:00:00.000Z"
+  }
+]
