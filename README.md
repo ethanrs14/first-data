@@ -27,9 +27,12 @@ Le script `scripts/update-signaux.py` :
 
 1. Lit `data/calendrier-dur.json`
 2. Récupère les flux RSS par catégorie (`scripts/feeds.json`)
-3. Compte les mentions des `produitsAsurveiller` avec pondération récence
-4. Booste le score si des mots de tension apparaissent (rupture, stock, pénurie…)
-5. Écrit `data/signaux.json` et commit si changement
+3. Compte les mentions des `produitsAsurveiller` avec synonymes (`scripts/synonyms.json`)
+4. Pondère par récence et booste si mots de tension (rupture, stock, pénurie…)
+5. Fusionne avec les signaux existants (décroissance 80 % si plus de match RSS)
+6. Écrit `data/signaux.json` et commit si changement
+
+Paramètres clés : 80 articles/flux, score min 10, événements pertinents jusqu'à 14 jours après leur fin.
 
 ### Tester en local
 

@@ -13,12 +13,16 @@ from pathlib import Path
 import feedparser
 
 ROOT = Path(__file__).resolve().parent.parent
+SCRIPTS_DIR = Path(__file__).resolve().parent
 CALENDRIER_PATH = ROOT / "data" / "calendrier-dur.json"
 SIGNAUX_PATH = ROOT / "data" / "signaux.json"
-FEEDS_PATH = Path(__file__).resolve().parent / "feeds.json"
+FEEDS_PATH = SCRIPTS_DIR / "feeds.json"
+SYNONYMS_PATH = SCRIPTS_DIR / "synonyms.json"
 
-MAX_ENTRIES_PER_FEED = 40
-MIN_SCORE = 15
+MAX_ENTRIES_PER_FEED = 80
+MIN_SCORE = 10
+DECAY_FACTOR = 0.8
+RELEVANCE_GRACE_DAYS = 14
 
 TENSION_KEYWORDS = [
     "rupture",
@@ -61,6 +65,12 @@ def load_json(path: Path) -> list | dict:
         return json.load(f)
 
 
+def load_synonyms() -> dict[str, list[str]]:
+    if not SYNONYMS_PATH.exists():
+        return {}
+    return load_json(SYNONYMS_PATH)
+
+
 def parse_entry_date(entry: feedparser.FeedParserDict) -> datetime | None:
     for attr in ("published_parsed", "updated_parsed"):
         parsed = getattr(entry, attr, None)
@@ -79,11 +89,15 @@ def recency_weight(entry_date: datetime | None, now: datetime) -> float:
     return 0.5
 
 
-def keyword_variants(keyword: str) -> list[str]:
+def keyword_variants(keyword: str, synonyms: dict[str, list[str]]) -> list[str]:
     base = normalize(keyword)
-    variants = {base}
-    variants.add(base.replace("-", " "))
-    variants.add(re.sub(r"\s+", " ", base))
+    variants = {base, base.replace("-", " "), re.sub(r"\s+", " ", base)}
+
+    for synonym in synonyms.get(keyword, []):
+        normalized = normalize(synonym)
+        variants.add(normalized)
+        variants.add(normalized.replace("-", " "))
+
     return [v for v in variants if len(v) >= 3]
 
 
@@ -137,8 +151,9 @@ def count_keyword_in_category(
     keyword: str,
     entries: list[tuple[feedparser.FeedParserDict, datetime | None]],
     now: datetime,
+    synonyms: dict[str, list[str]],
 ) -> tuple[float, int]:
-    variants = keyword_variants(keyword)
+    variants = keyword_variants(keyword, synonyms)
     weighted = 0.0
     tension_hits = 0
 
@@ -153,39 +168,88 @@ def count_keyword_in_category(
     return weighted, tension_hits
 
 
-def is_upcoming(date_debut: str, now: datetime) -> bool:
+def is_relevant(event: dict, now: datetime) -> bool:
+    """Événement en cours ou à venir (fin >= now - 14 jours)."""
+    end_str = event.get("dateFin") or event["dateDebut"]
     try:
-        start = datetime.fromisoformat(date_debut.replace("Z", "+00:00"))
+        end = datetime.fromisoformat(end_str.replace("Z", "+00:00"))
     except ValueError:
         return True
-    return start >= now - timedelta(days=30)
+    return end >= now - timedelta(days=RELEVANCE_GRACE_DAYS)
+
+
+def signal_key(signal: dict) -> tuple[str, str]:
+    return signal["evenementLieId"], signal["motCle"]
+
+
+def merge_signaux(
+    new_signaux: list[dict],
+    old_signaux: list[dict],
+    relevant_event_ids: set[str],
+    now: datetime,
+) -> list[dict]:
+    """Fusionne nouveaux signaux RSS + anciens avec décroissance."""
+    merged: dict[tuple[str, str], dict] = {
+        signal_key(s): s for s in new_signaux
+    }
+
+    for old in old_signaux:
+        key = signal_key(old)
+        if key in merged:
+            continue
+        if old["evenementLieId"] not in relevant_event_ids:
+            continue
+
+        decayed = int(old["score"] * DECAY_FACTOR)
+        if decayed < MIN_SCORE:
+            continue
+
+        merged[key] = {
+            **old,
+            "score": decayed,
+            "derniereMaj": now.isoformat().replace("+00:00", "Z"),
+        }
+
+    return sorted(
+        merged.values(),
+        key=lambda s: (-s["score"], s["evenementLieId"], s["motCle"]),
+    )
 
 
 def main() -> int:
     print("Chargement du calendrier et des flux RSS…")
     calendrier = load_json(CALENDRIER_PATH)
     feeds_by_category = load_json(FEEDS_PATH)
+    synonyms = load_synonyms()
+
+    old_signaux: list[dict] = []
+    if SIGNAUX_PATH.exists():
+        old_signaux = load_json(SIGNAUX_PATH)
 
     now = datetime.now(timezone.utc)
     feed_cache = build_feed_cache(feeds_by_category)
 
-    signaux = []
+    new_signaux: list[dict] = []
+    relevant_event_ids: set[str] = set()
 
     for event in calendrier:
-        if not is_upcoming(event["dateDebut"], now):
+        if not is_relevant(event, now):
             continue
 
+        relevant_event_ids.add(event["id"])
         categorie = event["categorie"]
         entries = feed_cache.get(categorie, [])
 
         for produit in event["produitsAsurveiller"]:
-            weighted, tension_hits = count_keyword_in_category(produit, entries, now)
+            weighted, tension_hits = count_keyword_in_category(
+                produit, entries, now, synonyms
+            )
             score = score_mentions(weighted, tension_hits)
 
             if score < MIN_SCORE:
                 continue
 
-            signaux.append(
+            new_signaux.append(
                 {
                     "motCle": produit,
                     "categorie": categorie,
@@ -195,13 +259,14 @@ def main() -> int:
                 }
             )
 
-    signaux.sort(key=lambda s: (-s["score"], s["evenementLieId"], s["motCle"]))
+    signaux = merge_signaux(new_signaux, old_signaux, relevant_event_ids, now)
 
     with SIGNAUX_PATH.open("w", encoding="utf-8") as f:
         json.dump(signaux, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
-    print(f"\n✓ {len(signaux)} signaux écrits dans {SIGNAUX_PATH}")
+    print(f"\n✓ {len(new_signaux)} nouveaux signaux RSS")
+    print(f"✓ {len(signaux)} signaux au total écrits dans {SIGNAUX_PATH}")
     return 0
 
 
