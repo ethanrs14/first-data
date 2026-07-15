@@ -25,14 +25,38 @@ Un workflow GitHub Actions (`.github/workflows/update-data.yml`) s'exécute :
 
 Le script `scripts/update-signaux.py` :
 
-1. Lit `data/calendrier-dur.json`
+1. Lit `data/calendrier-dur.json` et `scripts/produits-cibles.json` (termes, synonymes, exclusions par produit)
 2. Récupère les flux RSS par catégorie (`scripts/feeds.json`)
-3. Compte les mentions des `produitsAsurveiller` avec synonymes (`scripts/synonyms.json`)
-4. Pondère par récence et booste si mots de tension (rupture, stock, pénurie…)
-5. Fusionne avec les signaux existants (décroissance 80 % si plus de match RSS)
-6. Écrit `data/signaux.json` et commit si changement
+3. Cible chaque produit avec matching précis (termes requis, exclusions, détection tension stock)
+4. Attache jusqu'à 3 **articles sources** par produit (titre, URL, source, extrait)
+5. Calcule un `niveau` : `confirme` | `surveille` | `faible`
+6. Fusionne avec les signaux existants (décroissance 80 %)
+7. Écrit `data/signaux.json` et commit si changement
 
-Paramètres clés : 80 articles/flux, score min 10, événements pertinents jusqu'à 14 jours après leur fin.
+### Couche 3 — Produits émergents (découverte dynamique)
+
+En plus des produits prédéfinis du calendrier, le script détecte les **modèles/marques qui explosent** dans les flux RSS :
+
+1. Lit `scripts/marques.json` (Midea, Daikin, Sony, Apple… par catégorie)
+2. Extrait les combinaisons **marque + modèle** dans les articles (`Midea porta split`)
+3. Filtre les faux positifs (exclusions, produits déjà listés dans le calendrier)
+4. Score boosté si mots de tension + proximité avec une catégorie produit (`climatiseur`)
+5. Écrit des signaux `type: "emergent"` — le produit star de l'année, sans mise à jour manuelle
+
+L'app affiche ces signaux en **Produit star** (badge ambre) en priorité sur le dashboard.
+
+### Ajouter / affiner un produit cible
+
+Édite `scripts/produits-cibles.json` :
+
+```json
+"climatiseurs": {
+  "label": "Climatiseurs portables",
+  "termesPrincipaux": ["climatiseur", "clim portable"],
+  "synonymes": ["air conditionne"],
+  "exclusions": ["climat", "rechauffement climatique"]
+}
+```
 
 ### Tester en local
 

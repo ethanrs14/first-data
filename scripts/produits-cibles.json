@@ -1,0 +1,212 @@
+{
+  "TV 4K": {
+    "label": "TV 4K / OLED",
+    "termesPrincipaux": ["tv 4k", "television 4k", "televiseur 4k", "ecran oled", "tv oled"],
+    "synonymes": ["ultra hd", "uhd", "qled"],
+    "exclusions": ["tv show", "reality tv"]
+  },
+  "barbecue": {
+    "label": "Barbecues",
+    "termesPrincipaux": ["barbecue", "barbecues", "bbq"],
+    "synonymes": ["grill", "plancha", "barbecue a charbon"],
+    "exclusions": []
+  },
+  "bières": {
+    "label": "Bières",
+    "termesPrincipaux": ["biere", "bieres"],
+    "synonymes": ["pack biere", "fut biere"],
+    "exclusions": ["biere sans alcool"]
+  },
+  "drapeaux": {
+    "label": "Drapeaux / fan flags",
+    "termesPrincipaux": ["drapeau", "drapeaux", "fan flag"],
+    "synonymes": ["supporters", "maillot equipe de france"],
+    "exclusions": []
+  },
+  "billets": {
+    "label": "Billets / places",
+    "termesPrincipaux": ["billet", "billets", "ticket", "places"],
+    "synonymes": ["billetterie", "revente billets"],
+    "exclusions": ["ticket restaurant"]
+  },
+  "merchandising": {
+    "label": "Merchandising officiel",
+    "termesPrincipaux": ["merchandising", "produits derives", "boutique officielle"],
+    "synonymes": ["merch", "collection officielle"],
+    "exclusions": []
+  },
+  "hôtels": {
+    "label": "Hôtels",
+    "termesPrincipaux": ["hotel", "hotels", "hebergement"],
+    "synonymes": ["reservation hotel", "nuit hotel"],
+    "exclusions": []
+  },
+  "transports": {
+    "label": "Transports",
+    "termesPrincipaux": ["train", "transport", "billet de train", "sncf"],
+    "synonymes": ["metro", "navette", "vol"],
+    "exclusions": []
+  },
+  "MacBook": {
+    "label": "MacBook",
+    "termesPrincipaux": ["macbook", "mac book"],
+    "synonymes": ["macbook pro", "macbook air", "apple silicon"],
+    "exclusions": []
+  },
+  "iPad": {
+    "label": "iPad",
+    "termesPrincipaux": ["ipad"],
+    "synonymes": ["ipad pro", "ipad air", "tablette apple"],
+    "exclusions": []
+  },
+  "accessoires Apple": {
+    "label": "Accessoires Apple",
+    "termesPrincipaux": ["airpods", "apple watch", "magic keyboard"],
+    "synonymes": ["accessoire apple", "coque iphone"],
+    "exclusions": []
+  },
+  "PS5 Pro": {
+    "label": "PS5 Pro",
+    "termesPrincipaux": ["ps5 pro", "playstation 5 pro"],
+    "synonymes": ["ps5", "playstation 5", "sony ps5"],
+    "exclusions": ["ps5 slim"]
+  },
+  "manettes": {
+    "label": "Manettes",
+    "termesPrincipaux": ["manette", "manettes", "dualsense"],
+    "synonymes": ["controller", "gamepad"],
+    "exclusions": []
+  },
+  "stockage SSD": {
+    "label": "Stockage SSD",
+    "termesPrincipaux": ["ssd", "disque ssd", "nvme"],
+    "synonymes": ["stockage ps5", "carte memoire"],
+    "exclusions": []
+  },
+  "cartes cadeau": {
+    "label": "Cartes cadeau",
+    "termesPrincipaux": ["carte cadeau", "cartes cadeau", "gift card"],
+    "synonymes": ["code psn", "code xbox"],
+    "exclusions": []
+  },
+  "électroménager": {
+    "label": "Électroménager",
+    "termesPrincipaux": ["electromenager", "gros electromenager", "lave-linge", "lave linge", "frigo", "refrigerateur"],
+    "synonymes": ["machine a laver", "seche-linge"],
+    "exclusions": []
+  },
+  "TV": {
+    "label": "Téléviseurs",
+    "termesPrincipaux": ["television", "televiseur", "ecran tv", "tv "],
+    "synonymes": ["smart tv", "tv connectee"],
+    "exclusions": ["tv show"]
+  },
+  "smartphones": {
+    "label": "Smartphones",
+    "termesPrincipaux": ["smartphone", "smartphones", "iphone", "telephone"],
+    "synonymes": ["android", "galaxy", "pixel"],
+    "exclusions": []
+  },
+  "consoles": {
+    "label": "Consoles de jeux",
+    "termesPrincipaux": ["console de jeux", "console ps5", "xbox", "nintendo switch"],
+    "synonymes": ["playstation", "console gaming"],
+    "exclusions": ["console administrateur"]
+  },
+  "cartables": {
+    "label": "Cartables",
+    "termesPrincipaux": ["cartable", "cartables", "sac a dos scolaire"],
+    "synonymes": ["sac ecole", "fournitures scolaires"],
+    "exclusions": []
+  },
+  "fournitures": {
+    "label": "Fournitures scolaires",
+    "termesPrincipaux": ["fourniture scolaire", "fournitures", "cahiers", "stylos"],
+    "synonymes": ["calculatrice", "trousse"],
+    "exclusions": []
+  },
+  "ordinateurs": {
+    "label": "Ordinateurs",
+    "termesPrincipaux": ["pc portable", "laptop", "ordinateur portable", "chromebook"],
+    "synonymes": ["macbook", "pc gamer"],
+    "exclusions": []
+  },
+  "vêtements": {
+    "label": "Vêtements",
+    "termesPrincipaux": ["vetements", "habits", "mode"],
+    "synonymes": ["collection", "soldes vetements"],
+    "exclusions": []
+  },
+  "climatiseurs": {
+    "label": "Climatiseurs portables",
+    "termesPrincipaux": ["climatiseur", "climatiseurs", "clim portable", "climatisation"],
+    "synonymes": ["clim mobile", "air conditionne", "clim split"],
+    "exclusions": ["climat", "rechauffement climatique"]
+  },
+  "ventilateurs": {
+    "label": "Ventilateurs",
+    "termesPrincipaux": ["ventilateur", "ventilateurs"],
+    "synonymes": ["brumisateur", "rafraichisseur d air", "ventilo"],
+    "exclusions": []
+  },
+  "piscines gonflables": {
+    "label": "Piscines gonflables",
+    "termesPrincipaux": ["piscine gonflable", "piscines gonflables", "piscine hors sol"],
+    "synonymes": ["piscine intex", "piscine de jardin"],
+    "exclusions": []
+  },
+  "maillots": {
+    "label": "Maillots",
+    "termesPrincipaux": ["maillot", "maillots", "equipe de france"],
+    "synonymes": ["tenue officielle", "maillot domicile"],
+    "exclusions": []
+  },
+  "snacks": {
+    "label": "Snacks / apéro",
+    "termesPrincipaux": ["chips", "snack", "snacks", "apero"],
+    "synonymes": ["nourriture stadium", "biere snack"],
+    "exclusions": []
+  },
+  "projecteurs": {
+    "label": "Projecteurs",
+    "termesPrincipaux": ["projecteur", "videoprojecteur"],
+    "synonymes": ["ecran projection", "home cinema"],
+    "exclusions": ["projecteur laser industriel"]
+  },
+  "console Switch 2": {
+    "label": "Nintendo Switch 2",
+    "termesPrincipaux": ["switch 2", "nintendo switch 2"],
+    "synonymes": ["console switch 2", "nintendo switch"],
+    "exclusions": ["interrupteur", "switch reseau"]
+  },
+  "jeux launch": {
+    "label": "Jeux de lancement",
+    "termesPrincipaux": ["jeu de lancement", "launch title", "day one"],
+    "synonymes": ["exclusivite launch", "sortie day one"],
+    "exclusions": []
+  },
+  "étuis": {
+    "label": "Étuis / coques",
+    "termesPrincipaux": ["etui", "etuis", "coque", "coques"],
+    "synonymes": ["protection switch", "housse"],
+    "exclusions": []
+  },
+  "cartes SD": {
+    "label": "Cartes SD",
+    "termesPrincipaux": ["carte sd", "cartes sd", "micro sd"],
+    "synonymes": ["memoire sd", "carte memoire"],
+    "exclusions": []
+  },
+  "chaussures": {
+    "label": "Chaussures",
+    "termesPrincipaux": ["chaussure", "chaussures", "baskets", "sneakers"],
+    "synonymes": ["soldes chaussures"],
+    "exclusions": []
+  },
+  "high-tech": {
+    "label": "High-tech",
+    "termesPrincipaux": ["high-tech", "hightech", "electronique"],
+    "synonymes": ["tech soldes", "promo tech"],
+    "exclusions": []
+  }
+}

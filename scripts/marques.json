@@ -1,0 +1,21 @@
+{
+  "sport": [
+    "samsung", "lg", "sony", "panasonic", "philips", "tcl", "hisense", "nike", "adidas", "puma"
+  ],
+  "tech": [
+    "apple", "samsung", "google", "microsoft", "dell", "lenovo", "asus", "hp", "huawei", "xiaomi", "oneplus"
+  ],
+  "gaming": [
+    "sony", "playstation", "nintendo", "microsoft", "xbox", "valve", "steam", "razer", "logitech", "steelseries"
+  ],
+  "retail": [
+    "dyson", "samsung", "lg", "bosch", "siemens", "philips", "seb", "moulinex", "krups", "delonghi"
+  ],
+  "famille": [
+    "eastpak", "kipling", "jansport", "hp", "lenovo", "acer", "apple", "tex", "bic", "maped"
+  ],
+  "maison": [
+    "midea", "daikin", "atlantic", "delonghi", "rowenta", "trotec", "samsung", "lg", "bosch", "haier",
+    "electrolux", "whirlpool", "intex", "bestway", "dyson", "qlima", "mondial", "oneconcept"
+  ]
+}
