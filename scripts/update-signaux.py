@@ -228,7 +228,10 @@ def compute_niveau(score: int, tension_hits: int) -> str:
 
 def fetch_feed_entries(url: str) -> list[feedparser.FeedParserDict]:
     try:
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(
+            url,
+            agent="FirstDataBot/1.0 (+https://github.com/ethanrs14/first-data)",
+        )
         if feed.bozo and not feed.entries:
             print(f"  ⚠ Flux invalide ou vide : {url}", file=sys.stderr)
             return []

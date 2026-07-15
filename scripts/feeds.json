@@ -1,27 +1,42 @@
 {
   "sport": [
     "https://www.lemonde.fr/sport/rss_full.xml",
-    "https://www.francetvinfo.fr/sports.rss"
+    "https://www.francetvinfo.fr/sports.rss",
+    "https://www.dealabs.com/rss/hot"
   ],
   "tech": [
     "https://www.frandroid.com/feed",
     "https://www.numerama.com/feed/",
-    "https://feeds.arstechnica.com/arstechnica/index"
+    "https://feeds.arstechnica.com/arstechnica/index",
+    "https://www.dealabs.com/rss/groupe/high-tech",
+    "https://www.dealabs.com/rss/groupe/informatique",
+    "https://www.dealabs.com/rss/groupe/telephonie",
+    "https://www.promoalert.com/fluxgen/rssOffre.php?nbOffre=10&informatique&imageson"
   ],
   "gaming": [
     "https://www.jeuxvideo.com/rss/rss.xml",
-    "https://feeds.ign.com/ign/games-all"
+    "https://feeds.ign.com/ign/games-all",
+    "https://www.dealabs.com/rss/groupe/jeux-video",
+    "https://www.dealabs.com/rss/hot"
   ],
   "retail": [
     "https://www.lemonde.fr/economie/rss_full.xml",
-    "https://www.lsa-conso.fr/rss.xml"
+    "https://www.lsa-conso.fr/rss.xml",
+    "https://www.dealabs.com/rss/bons-plans",
+    "https://www.dealabs.com/rss/groupe/mode",
+    "https://www.promoalert.com/fluxgen/rssOffre.php?nbOffre=10&personne&alimentation"
   ],
   "famille": [
     "https://www.francetvinfo.fr/societe.rss",
-    "https://www.lemonde.fr/societe/rss_full.xml"
+    "https://www.lemonde.fr/societe/rss_full.xml",
+    "https://www.promoalert.com/fluxgen/rssOffre.php?nbOffre=10&personne&loisir"
   ],
   "maison": [
     "https://www.lemonde.fr/planete/rss_full.xml",
-    "https://www.francetvinfo.fr/environnement.rss"
+    "https://www.francetvinfo.fr/environnement.rss",
+    "https://www.dealabs.com/rss/groupe/electromenager",
+    "https://www.dealabs.com/rss/groupe/jardin",
+    "https://www.dealabs.com/rss/groupe/bricolage",
+    "https://www.promoalert.com/fluxgen/rssOffre.php?nbOffre=10&electromenager&maison"
   ]
 }

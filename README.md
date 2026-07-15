@@ -69,6 +69,20 @@ python scripts/update-signaux.py
 
 Édite `scripts/feeds.json` et ajoute l'URL dans la catégorie correspondante (`sport`, `tech`, `gaming`, `retail`, `famille`, `maison`).
 
+**Dealabs** — flux par groupe (bons plans, modèles précis) :
+- Hot : `https://www.dealabs.com/rss/hot`
+- High-tech : `https://www.dealabs.com/rss/groupe/high-tech`
+- Jeux vidéo : `https://www.dealabs.com/rss/groupe/jeux-video`
+- Électroménager : `https://www.dealabs.com/rss/groupe/electromenager`
+- (ajouter `/rss/groupe/<slug>` pour d'autres catégories Dealabs)
+
+**PromoAlert** — promos retail avec noms de produits (Boulanger, Darty, etc.) :
+- Générer via [fluxgen/genFluxOffre.php](https://www.promoalert.com/fluxgen/genFluxOffre.php)
+- Format : `https://www.promoalert.com/fluxgen/rssOffre.php?nbOffre=10&electromenager&imageson`
+- Catégories disponibles : `alimentation`, `personne`, `maison`, `electromenager`, `imageson`, `informatique`, `loisir`, `sortievoyage`, `auto`
+
+> Note : les flux PromoAlert peuvent renvoyer une erreur 500 temporairement côté serveur. Le script les ignore gracieusement et continue avec les autres flux.
+
 ## Calendrier dur (manuel)
 
 Quand une date ou un événement change :
