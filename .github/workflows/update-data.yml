@@ -5,6 +5,10 @@ on:
     - cron: '0 6 * * 1'
   workflow_dispatch:
 
+concurrency:
+  group: update-signaux-${{ github.repository }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -16,7 +20,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sync with remote
+        run: git pull --rebase origin main
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,20 +42,26 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data/signaux.json
           if git diff --staged --quiet; then
             echo "Aucun changement dans signaux.json"
             exit 0
           fi
+
           git commit -m "chore: update signaux RSS [automated]"
-          for attempt in 1 2 3; do
-            git pull --rebase origin main
-            if git push origin main; then
+
+          for attempt in 1 2 3 4 5; do
+            echo "Tentative push $attempt/5..."
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            if git push origin HEAD:refs/heads/main; then
               echo "Push réussi"
               exit 0
             fi
-            echo "Push rejeté, tentative $attempt/3..."
-            sleep 3
+            echo "Push rejeté, nouvelle tentative dans 5s..."
+            sleep 5
           done
-          echo "Échec du push après 3 tentatives"
+
+          echo "Échec du push après 5 tentatives"
           exit 1
