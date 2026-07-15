@@ -139,9 +139,36 @@
   },
   "climatiseurs": {
     "label": "Climatiseurs portables",
-    "termesPrincipaux": ["climatiseur", "climatiseurs", "clim portable", "climatisation"],
-    "synonymes": ["clim mobile", "air conditionne", "clim split"],
-    "exclusions": ["climat", "rechauffement climatique"]
+    "termesPrincipaux": [
+      "climatiseur portable",
+      "climatiseurs portables",
+      "climatiseur mobile",
+      "clim portable",
+      "clim mobile"
+    ],
+    "synonymes": [
+      "climatiseur nomade",
+      "climatiseur sur roulette",
+      "clim sur pied",
+      "air conditionne mobile",
+      "air conditionne portable"
+    ],
+    "exclusions": [
+      "climat",
+      "rechauffement climatique",
+      "climatiseur split",
+      "clim split",
+      "monosplit",
+      "multisplit",
+      "quadri-split",
+      "split reversible",
+      "split inverter",
+      "unite interieure",
+      "unite exterieure",
+      "mural",
+      "gainable",
+      "cassette"
+    ]
   },
   "ventilateurs": {
     "label": "Ventilateurs",

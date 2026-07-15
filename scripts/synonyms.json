@@ -20,7 +20,7 @@
   "fournitures": ["fourniture scolaire", "cahiers", "stylos"],
   "ordinateurs": ["pc portable", "laptop", "chromebook"],
   "vêtements": ["vetements", "habits", "mode"],
-  "climatiseurs": ["climatisation", "clim", "clim portable", "air conditionne"],
+  "climatiseurs": ["clim portable", "clim mobile", "climatiseur portable", "climatiseur mobile", "air conditionne portable"],
   "ventilateurs": ["ventilateur", "brumisateur", "rafraichisseur air"],
   "piscines gonflables": ["piscine gonflable", "piscine hors sol"],
   "maillots": ["maillot", "equipement fan"],
