@@ -1,9 +1,389 @@
 [
   {
+    "motCle": "consoles",
+    "produitLabel": "Consoles de jeux",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "[PS+] Control Ultimate Edition: Le Jeu + DLC La Fondation + DLC AWE (5,99€ pour les Non Abonnés) sur PS5 & PS4 (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/ps-control-ultimate-edition-avec-dlc-la-fondation-dlc-awe-599eur-pour-les-non-abonnes-sur-ps5-ps4-dematerialise-3375700",
+        "source": "dealabs.com",
+        "date": "2026-07-14T23:25:12Z",
+        "extrait": "3,99€ - PlayStation Store Offre sur le PSN. Control Ultimate Edition réunit le jeu original et ses deux extensions (\"\"La Fondation\"\" et \"\"AWE\"\") dans un pack a…",
+        "tension": true
+      },
+      {
+        "titre": "Everybody 1-2 Switch sur Nintendo Switch 1|2",
+        "url": "https://www.dealabs.com/bons-plans/everybody-1-2-switch-3375704",
+        "source": "dealabs.com",
+        "date": "2026-07-14T23:34:33Z",
+        "extrait": "7,51€ - Boulanger Everybody 1-2-Switch ! est un jeu vidéo de 2023. C'est la suite de 1-2-Switch et c'est une collection de 17 mini-jeux en équipe. Pourquoi Eve…",
+        "tension": false
+      },
+      {
+        "titre": "Assassin's Creed Shadows sur Nintendo Switch 2 - Version Française",
+        "url": "https://www.dealabs.com/bons-plans/assassins-creed-shadows-nintendo-switch-2-version-francaise-3375672",
+        "source": "dealabs.com",
+        "date": "2026-07-14T22:06:09Z",
+        "extrait": "28,99€ - JoyBuy Assassin's Creed Shadows pour Nintendo Switch 2 - édition carte de jeu physique française. L'épique action-aventure en monde ouvert se déroulan…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "smartphones",
+    "produitLabel": "Smartphones",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Sélection de Jeux PS4 & PS5 en promotion - Ex : Captain Tsubasa: Rise of New Champions (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/selection-de-jeux-ps4-ps5-en-promotion-ex-control-ultimate-edition-dematerialise-3375695",
+        "source": "dealabs.com",
+        "date": "2026-07-14T23:00:08Z",
+        "extrait": "4,79€ - PlayStation Store La Super Promo d’été du PlayStation Store commence ce mercredi 15 juillet. Pendant une durée limitée, économisez jusqu’à 75 % sur plu…",
+        "tension": true
+      },
+      {
+        "titre": "Everybody 1-2 Switch sur Nintendo Switch 1|2",
+        "url": "https://www.dealabs.com/bons-plans/everybody-1-2-switch-3375704",
+        "source": "dealabs.com",
+        "date": "2026-07-14T23:34:33Z",
+        "extrait": "7,51€ - Boulanger Everybody 1-2-Switch ! est un jeu vidéo de 2023. C'est la suite de 1-2-Switch et c'est une collection de 17 mini-jeux en équipe. Pourquoi Eve…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "climatiseurs",
+    "produitLabel": "Climatiseurs portables",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-daikin-atxc35c-arxc35c-12000-btu-35-kw-inverter-r32-aa-wi-fi-ready-dagimarket-3375537",
+        "source": "dealabs.com",
+        "date": "2026-07-14T17:15:29Z",
+        "extrait": "433€ - Dagimarket Le Daikin ATXC35C / ARXC35C est un climatiseur monosplit réversible Inverter de 12 000 BTU (3,5 kW) utilisant le fluide frigorigène R32. Il c…",
+        "tension": true
+      },
+      {
+        "titre": "Climatiseur split réversible Daitsu Artic Pro DS-12KZ-2 - Wi-Fi intégré, 12 000 BTU",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-daitsu-artic-pro-12000-btu-avec-wifi-integre-3375775",
+        "source": "dealabs.com",
+        "date": "2026-07-15T06:36:50Z",
+        "extrait": "322,38€ - ClimaConvenienza Prix très correct pour ce climatiseur avec un SEER de 8,5 (y) **caractéristiques techniques :** - Puissance : 12000 Btu - Wi-Fi inté…",
+        "tension": false
+      },
+      {
+        "titre": "[Membres] Climatiseur Mobile Klarstein AireLux Smart - 14000 BTU, Gris",
+        "url": "https://www.dealabs.com/bons-plans/klarstein-airelux-smart-14000-btu-climatiseur-mobile-gris-3375588",
+        "source": "dealabs.com",
+        "date": "2026-07-14T18:34:28Z",
+        "extrait": "756,99€ - Klarstein Marque fiable je pense, mieux que beaucoup d'offres décevantes.... Reduction pour nouveaux comptes 73€ et voir si cumulable newsletter... A…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "ventilateurs",
+    "produitLabel": "Ventilateurs",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-daikin-atxc35c-arxc35c-12000-btu-35-kw-inverter-r32-aa-wi-fi-ready-dagimarket-3375537",
+        "source": "dealabs.com",
+        "date": "2026-07-14T17:15:29Z",
+        "extrait": "433€ - Dagimarket Le Daikin ATXC35C / ARXC35C est un climatiseur monosplit réversible Inverter de 12 000 BTU (3,5 kW) utilisant le fluide frigorigène R32. Il c…",
+        "tension": true
+      },
+      {
+        "titre": "Ventilateur de Plafond Iralan - avec Lumière, 6 Vitesses, 52\"",
+        "url": "https://www.dealabs.com/bons-plans/iralan-ventilateur-de-plafond-avec-lumiere-6-vitesses-52-pouces-3375384",
+        "source": "dealabs.com",
+        "date": "2026-07-14T12:13:42Z",
+        "extrait": "59,87€ - AliExpress Il s'agit d'un ventilateur éclairé moderne et simple qui utilise des lumières LED de haute qualité et offre 3 températures de couleur. Le m…",
+        "tension": true
+      },
+      {
+        "titre": "[Membres] Climatiseur Mobile Klarstein AireLux Smart - 14000 BTU, Gris",
+        "url": "https://www.dealabs.com/bons-plans/klarstein-airelux-smart-14000-btu-climatiseur-mobile-gris-3375588",
+        "source": "dealabs.com",
+        "date": "2026-07-14T18:34:28Z",
+        "extrait": "756,99€ - Klarstein Marque fiable je pense, mieux que beaucoup d'offres décevantes.... Reduction pour nouveaux comptes 73€ et voir si cumulable newsletter... A…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "drapeaux",
+    "produitLabel": "Drapeaux / fan flags",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "\"On mérite la défaite\" : les supporters de l'équipe de France abattus après l'élimination de la Coupe du monde en demi-finale.",
+        "url": "https://www.franceinfo.fr/sports/foot/equipe-de-france/on-merite-la-defaite-les-supporters-de-l-equipe-de-france-abattus-apres-l-elimination-de-la-coupe-du-monde-en-demi-finale_8108432.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-15T07:10:42Z",
+        "extrait": "Le rêve d'une troisième étoile s'est arrêté mardi 14 juillet à Dallas. Battus 2-0 par l'Espagne, les Bleus quittent la Coupe du monde aux portes de la finale.…",
+        "tension": false
+      },
+      {
+        "titre": "TEMOIGNAGES. \"Dégoûté\", \"coup de marteau\", \"incompréhensible\"... Les supporters sous le choc après l'élimination de l'équipe de France contre l'Espagne",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/temoignages-degoute-coup-de-marteau-incomprehensible-apres-la-defaite-de-l-equipe-de-france-la-deception-des-supporters_8108327.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-15T07:00:56Z",
+        "extrait": "Les Bleus ont échoué à se qualifier pour une troisième finale de mondial de foot d'affilée, mardi, face à la \"Roja\" au grand dam de leur fans.",
+        "tension": false
+      },
+      {
+        "titre": "REPORTAGE. \"C'est sûr qu'on va la gagner cette Coupe du monde !\" : en Espagne, la joie immense des supporters de la \"Roja\" après la victoire \"méritée\" contre la France",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/reportage-c-est-sur-qu-on-va-la-gagner-cette-coupe-du-monde-en-espagne-la-joie-immense-des-supporters-de-la-roja-apres-la-victoire-contre-la-france_8108357.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-15T06:08:51Z",
+        "extrait": "Les Espagnols ont donné une leçon aux Bleus en demi-finale de la Coupe du monde et se sont imposés 2 à 0 à Arlington, près de Dallas, offrant un moment de joie…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "maillots",
+    "produitLabel": "Maillots",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Coupe du monde 2026 : les Bleus ont perdu la maîtrise de leur sujet",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/15/coupe-du-monde-2026-en-demi-finales-les-bleus-ont-perdu-la-maitrise-de-leur-sujet_6723516_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-15T07:00:03Z",
+        "extrait": "Surclassée par l’Espagne, l’équipe de France n’a rien montré de ce qui avait fait d’elle l’une des sélections les plus redoutables de la compétition.",
+        "tension": false
+      },
+      {
+        "titre": "Coupe du monde 2026 : une nuit de fête en Espagne après la qualification de la Roja en finale",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/15/cette-fois-c-est-pour-de-vrai-nous-sommes-en-finale-en-espagne-une-nuit-de-fete-apres-la-qualification-de-la-roja-en-finale-de-la-coupe-du-monde-2026_6723508_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-15T06:33:43Z",
+        "extrait": "Des places de Madrid aux rues de Saragosse, le pays a célébré jusque tard dans la nuit la victoire sur l’équipe de France (2-0) en demi-finales du Mondial. Sei…",
+        "tension": false
+      },
+      {
+        "titre": "Coupe du monde 2026 : la « génération magnifique » de l’Espagne, impitoyable machine à gagner",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/15/coupe-du-monde-2026-la-generation-magnifique-de-l-espagne-impitoyable-machine-a-gagner_6723501_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-15T05:28:18Z",
+        "extrait": "Collectif soudé et sûr de sa force, la Roja s’est qualifiée pour la finale du Mondial 2026 en dominant, mardi, l’équipe de France (2-0). Un succès qui valide l…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "chaussures",
+    "produitLabel": "Chaussures",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Baskets New Balance 509 Black / Black du 40 au 47.5",
+        "url": "https://www.dealabs.com/bons-plans/new-balance-509-black-black-du-40-au-475-3375044",
+        "source": "dealabs.com",
+        "date": "2026-07-13T19:31:53Z",
+        "extrait": "65,60€ - Asphaltgold Le New Balance 509 apporte une bouffée d'air frais dans les rues. Avec son design minimaliste en noir classique, il s'intègre parfaitement…",
+        "tension": false
+      },
+      {
+        "titre": "Pantalon loose en coton lin - Camel ou Blanc, taille 34 à 48",
+        "url": "https://www.dealabs.com/bons-plans/pantalon-loose-en-coton-lin-camel-ou-blanc-taille-34-a-48-3375412",
+        "source": "dealabs.com",
+        "date": "2026-07-14T13:06:30Z",
+        "extrait": "20€ - Jules Adoptez une allure décontractée avec ce pantalon chino en mélange de coton et lin. Sa coupe loose et son effet lavé en font une pièce maîtresse pou…",
+        "tension": false
+      },
+      {
+        "titre": "Lot de 6 paires de chaussettes de sport en bambou pour femme 39-42 35-38 - Avec silicone antidérapant (via coupon - vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/lot-de-6-paires-de-chaussettes-de-sport-en-bambou-pour-femme-39-42-35-38-avec-silicone-antiderapant-3375335",
+        "source": "dealabs.com",
+        "date": "2026-07-14T11:11:01Z",
+        "extrait": "7,14€ - Amazon AUCUN RISQUE DE GLISSEMENT : les chaussettes en bambou sont dotées de coussinets antidérapants en silicone qui s'adaptent en douceur au pied tou…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "vêtements",
+    "produitLabel": "Vêtements",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "[PS+] Control Ultimate Edition: Le Jeu + DLC La Fondation + DLC AWE (5,99€ pour les Non Abonnés) sur PS5 & PS4 (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/ps-control-ultimate-edition-avec-dlc-la-fondation-dlc-awe-599eur-pour-les-non-abonnes-sur-ps5-ps4-dematerialise-3375700",
+        "source": "dealabs.com",
+        "date": "2026-07-14T23:25:12Z",
+        "extrait": "3,99€ - PlayStation Store Offre sur le PSN. Control Ultimate Edition réunit le jeu original et ses deux extensions (\"\"La Fondation\"\" et \"\"AWE\"\") dans un pack a…",
+        "tension": true
+      },
+      {
+        "titre": "Le Slip français s’aventure en Bourse",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/14/le-slip-francais-s-aventure-en-bourse_6723297_3234.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-14T11:56:18Z",
+        "extrait": "La marque de sous-vêtements masculins créée en 2011 lève 3,7 millions d’euros sur le segment Euronext Growth Paris, consacré aux PME. Ces fonds doivent lui per…",
+        "tension": false
+      },
+      {
+        "titre": "Everybody 1-2 Switch sur Nintendo Switch 1|2",
+        "url": "https://www.dealabs.com/bons-plans/everybody-1-2-switch-3375704",
+        "source": "dealabs.com",
+        "date": "2026-07-14T23:34:33Z",
+        "extrait": "7,51€ - Boulanger Everybody 1-2-Switch ! est un jeu vidéo de 2023. C'est la suite de 1-2-Switch et c'est une collection de 17 mini-jeux en équipe. Pourquoi Eve…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "daikin atxc35c",
+    "produitLabel": "Daikin Atxc35c",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-daikin-atxc35c-arxc35c-12000-btu-35-kw-inverter-r32-aa-wi-fi-ready-dagimarket-3375537",
+        "source": "dealabs.com",
+        "date": "2026-07-14T17:15:29Z",
+        "extrait": "433€ - Dagimarket Le Daikin ATXC35C / ARXC35C est un climatiseur monosplit réversible Inverter de 12 000 BTU (3,5 kW) utilisant le fluide frigorigène R32. Il c…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "daikin brp069b45 en option",
+    "produitLabel": "Daikin Brp069b45 En Option",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-daikin-atxc35c-arxc35c-12000-btu-35-kw-inverter-r32-aa-wi-fi-ready-dagimarket-3375537",
+        "source": "dealabs.com",
+        "date": "2026-07-14T17:15:29Z",
+        "extrait": "433€ - Dagimarket Le Daikin ATXC35C / ARXC35C est un climatiseur monosplit réversible Inverter de 12 000 BTU (3,5 kW) utilisant le fluide frigorigène R32. Il c…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "dyson v8 advanced",
+    "produitLabel": "Dyson V8 Advanced",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Aspirateur Dyson V8 Advanced",
+        "url": "https://www.dealabs.com/bons-plans/aspirateur-dyson-v8-advanced-3375595",
+        "source": "dealabs.com",
+        "date": "2026-07-14T18:58:25Z",
+        "extrait": "249,99€ - Carrefour Aspirateur Dyson v8 advanced Indisponible en livraison et en drive. La remise sera effectué en caisse dans la limite de 1200 pièces. Vérifi…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "piscines gonflables",
+    "produitLabel": "Piscines gonflables",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Robot Piscine sans Fil Gosvor LiteVac 800 - Aspirateur Automatique Piscine Hors Sol, 80 Min d’Autonomie",
+        "url": "https://www.dealabs.com/bons-plans/gosvor-litevac-800-robot-piscine-sans-fil-aspirateur-automatique-piscine-hors-sol-80-min-dautonomie-3374673",
+        "source": "dealabs.com",
+        "date": "2026-07-13T09:50:17Z",
+        "extrait": "64€ - AliExpress Gosvor Pool Cleaner Robot: Ideal Pool Type: Above Ground Pool Size: 760sq.ft (80m) /30ft (9m) in length Mobile App: NO Battery Life: Auto Mode…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "billets",
+    "produitLabel": "Billets / places",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "jo-2028-paris",
+    "derniereMaj": "2026-07-15T08:17:29.959304Z",
+    "articles": [
+      {
+        "titre": "Coupe du monde 2026 : une nuit de fête en Espagne après la qualification de la Roja en finale",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/15/cette-fois-c-est-pour-de-vrai-nous-sommes-en-finale-en-espagne-une-nuit-de-fete-apres-la-qualification-de-la-roja-en-finale-de-la-coupe-du-monde-2026_6723508_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-15T06:33:43Z",
+        "extrait": "Des places de Madrid aux rues de Saragosse, le pays a célébré jusque tard dans la nuit la victoire sur l’équipe de France (2-0) en demi-finales du Mondial. Sei…",
+        "tension": false
+      }
+    ]
+  },
+  {
     "motCle": "vêtements",
     "categorie": "famille",
-    "score": 54,
+    "score": 43,
     "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-07-14T08:02:06.094328Z"
+    "derniereMaj": "2026-07-15T08:17:29.959304Z"
   }
 ]
