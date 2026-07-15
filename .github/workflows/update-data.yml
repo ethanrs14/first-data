@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,7 +36,17 @@ jobs:
           git add data/signaux.json
           if git diff --staged --quiet; then
             echo "Aucun changement dans signaux.json"
-          else
-            git commit -m "chore: update signaux RSS [automated]"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update signaux RSS [automated]"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin main; then
+              echo "Push réussi"
+              exit 0
+            fi
+            echo "Push rejeté, tentative $attempt/3..."
+            sleep 3
+          done
+          echo "Échec du push après 3 tentatives"
+          exit 1
