@@ -5,32 +5,252 @@
     "type": "predefini",
     "categorie": "retail",
     "score": 100,
-    "niveau": "confirme",
+    "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
-        "titre": "[PS+] Control Ultimate Edition: Le Jeu + DLC La Fondation + DLC AWE (5,99€ pour les Non Abonnés) sur PS5 & PS4 (Dématérialisé)",
-        "url": "https://www.dealabs.com/bons-plans/ps-control-ultimate-edition-avec-dlc-la-fondation-dlc-awe-599eur-pour-les-non-abonnes-sur-ps5-ps4-dematerialise-3375700",
-        "source": "dealabs.com",
-        "date": "2026-07-14T23:25:12Z",
-        "extrait": "3,99€ - PlayStation Store Offre sur le PSN. Control Ultimate Edition réunit le jeu original et ses deux extensions (\"\"La Fondation\"\" et \"\"AWE\"\") dans un pack a…",
-        "tension": true
-      },
-      {
-        "titre": "Everybody 1-2 Switch sur Nintendo Switch 1|2",
-        "url": "https://www.dealabs.com/bons-plans/everybody-1-2-switch-3375704",
-        "source": "dealabs.com",
-        "date": "2026-07-14T23:34:33Z",
-        "extrait": "7,51€ - Boulanger Everybody 1-2-Switch ! est un jeu vidéo de 2023. C'est la suite de 1-2-Switch et c'est une collection de 17 mini-jeux en équipe. Pourquoi Eve…",
+        "titre": "« L’empire est devenu impossible à gérer » : le pari risqué de Xbox pour assurer sa survie",
+        "url": "https://www.lemonde.fr/pixels/article/2026/07/19/l-empire-est-devenu-impossible-a-gerer-le-pari-risque-de-xbox-pour-assurer-sa-survie_6726098_4408996.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-19T16:00:04Z",
+        "extrait": "Après l’annonce d’une restructuration de grande ampleur début juillet, le deuxième éditeur mondial de jeux vidéo, propriété de Microsoft, est en proie à une cr…",
         "tension": false
       },
       {
-        "titre": "Assassin's Creed Shadows sur Nintendo Switch 2 - Version Française",
-        "url": "https://www.dealabs.com/bons-plans/assassins-creed-shadows-nintendo-switch-2-version-francaise-3375672",
+        "titre": "Hell is us Xbox série (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/hello-is-us-xbox-serie-xbox-store-3378034",
         "source": "dealabs.com",
-        "date": "2026-07-14T22:06:09Z",
-        "extrait": "28,99€ - JoyBuy Assassin's Creed Shadows pour Nintendo Switch 2 - édition carte de jeu physique française. L'épique action-aventure en monde ouvert se déroulan…",
+        "date": "2026-07-18T20:22:31Z",
+        "extrait": "15,99€ - Xbox Store La Deluxe Edition de Hell is Us débloque les contenus suivants: - Le Hollow Walker Pack, comprenant une apparence exclusive pour Rémi et so…",
+        "tension": false
+      },
+      {
+        "titre": "[Megathread XBOX] Soldes été 2026 : Toutes les meilleures offres - Ex: Titanfall 2: Édition Ultime sur Xbox One & Series XIS (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/megathread-xbox-soldes-ete-2026-toutes-les-meilleures-offres-ex-titanfall-2-edition-ultime-sur-xbox-one-series-xis-dematerialise-3378435",
+        "source": "dealabs.com",
+        "date": "2026-07-19T17:26:00Z",
+        "extrait": "4,49€ - Xbox Store Les soldes XBOX été 2026 ont débuté et se termineront le 29 juillet. L'occasion peut-être ou pas de faire de belles affaires comme Titanfall…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "climatiseurs",
+    "produitLabel": "Climatiseurs portables",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Climatiseur mobile et déshumidificateur Beko BP209H 9000 BTU/h Classe A (via coupon)",
+        "url": "https://www.dealabs.com/bons-plans/beko-bp209h-climatiseur-mobile-et-deshumidificateur-9000-btuh-classe-a-via-coupon-3377868",
+        "source": "dealabs.com",
+        "date": "2026-07-18T13:12:55Z",
+        "extrait": "449,99€ - JoyBuy Le Beko BP209H est un climatiseur mobile local performant et polyvalent, idéal pour traverser les vagues de chaleur en maintenant une températ…",
+        "tension": true
+      },
+      {
+        "titre": "Climatiseur Portable Olimpia Dolceclima Compact 8 SW 8000 BTU/h Classe A",
+        "url": "https://www.dealabs.com/bons-plans/olimpia-dolceclima-compact-8-sw-climatiseur-portable-8000-btuh-classe-a-3377862",
+        "source": "dealabs.com",
+        "date": "2026-07-18T13:07:32Z",
+        "extrait": "399€ - JoyBuy Le Olimpia Dolceclima Compact 8 SW est un climatiseur mobile monobloc compact et pratique, idéal pour rafraîchir les petites et moyennes surfaces…",
+        "tension": true
+      },
+      {
+        "titre": "Climatiseur Mobile Voltomat 9000 BTU - Houilles (78)",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-mobile-9000-btu-voltomat-3378183",
+        "source": "dealabs.com",
+        "date": "2026-07-19T09:25:45Z",
+        "extrait": "699€ - Auchan Climatiseur, mobile de la marque VOLTOMAT, 9000 BTU, disponible à Auchan, houilles en 78 au prix de 699 €",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "piscines gonflables",
+    "produitLabel": "Piscines gonflables",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "8 Dalles de protection mousse piscine Intex",
+        "url": "https://www.dealabs.com/bons-plans/8-dalles-de-protection-mousse-piscine-intex-3378048",
+        "source": "dealabs.com",
+        "date": "2026-07-18T20:52:24Z",
+        "extrait": "4€ - Intex Idéal pour protéger le fond de votre bassin Intex Les dalles de protection en mousse Intex sont des accessoires indispensables pour protéger le fond…",
+        "tension": true
+      },
+      {
+        "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
+        "url": "https://www.dealabs.com/bons-plans/piscine-rectangulaires-gonflable-intex-262-x-175-x-56-cm-3378141",
+        "source": "dealabs.com",
+        "date": "2026-07-19T07:35:15Z",
+        "extrait": "14,98€ - Amazon Bon prix Action , gifi ~18€ Marque Intex Couleur Couleurs Assorties Dimensions du produit 2,62L x 1,75l x 0,56H mètres Forme Carrée Matériau Pl…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "ventilateurs",
+    "produitLabel": "Ventilateurs",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Ventilateur PWM Corsair iCUE Link RX120 - RGB, 120 mm",
+        "url": "https://www.dealabs.com/bons-plans/ventilateur-pwm-corsair-icue-link-rx120-rgb-120-mm-3378156",
+        "source": "dealabs.com",
+        "date": "2026-07-19T08:01:49Z",
+        "extrait": "18,42€ - Amazon - Vitesses contrôlées par PWM via iCUE LINK : définissez des vitesses de ventilation précises jusqu'à 2 100 tr/minute tout en fournissant un fl…",
+        "tension": true
+      },
+      {
+        "titre": "Barbecue masterbuild au Charbon de Bois Portable",
+        "url": "https://www.dealabs.com/bons-plans/barbecue-masterbuild-au-charbon-de-bois-portable-3377908",
+        "source": "dealabs.com",
+        "date": "2026-07-18T14:28:52Z",
+        "extrait": "129,95€ - iBOOD Acheté il y a 15 jours grâce au dernier deal et franchement le système est vraiment génial. J'étais vraiment curieux de savoir si ca allait êtr…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "drapeaux",
+    "produitLabel": "Drapeaux / fan flags",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "REPORTAGE. \"Heureusement pour le coach, on perd 6-4 et pas 4-0\" : les supporters français entre amertume et fierté après la défaite en petite finale",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/reportage-heureusement-pour-le-coach-on-perd-6-4-et-pas-4-0-les-supporters-francais-partages-entre-amertume-et-fierte-apres-la-defaite-en-petite-finale_8113733.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-19T07:11:52Z",
+        "extrait": "L'équipe de France de football termine quatrième de la Coupe du monde après sa défaite face à l’Angleterre à Miami. Un match fou qui a donné beaucoup d'émotion…",
+        "tension": false
+      },
+      {
+        "titre": "137° - Maillot héritage PSG Extérieur 2000/01 - Plusieurs tailles disponibles",
+        "url": "https://www.dealabs.com/bons-plans/maillot-heritage-psg-200001-3378337",
+        "source": "dealabs.com",
+        "date": "2026-07-19T19:51:31Z",
+        "extrait": "32,20€ - Fanatics Le Paris Saint-Germain revisite à nouveau l'histoire du Club en rééditant un maillot qui a marqué les mémoires des supporters parisiens et de…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "maillots",
+    "produitLabel": "Maillots",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Tour de France : Remco Evenepoel s’impose devant Tadej Pogacar dans le final de la 15ᵉ étape, leur rival Jonas Vingegaard contraint à l’abandon après une chute",
+        "url": "https://www.lemonde.fr/sport/live/2026/07/19/en-direct-tour-de-france-suivez-la-quinzieme-etape-entre-champagnole-et-le-plateau-de-solaison_6725885_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-19T11:05:03Z",
+        "extrait": "Le coureur belge de 26 ans s’est imposé dimanche au plateau de Solaison (Haute-Savoie), devant Tadej Pogacar, toujours porteur du maillot jaune. Victime d’une…",
+        "tension": false
+      },
+      {
+        "titre": "VIDÉO « Une première mi-temps catastrophique », retour sur le dernier match des Bleus au Mondial 2026",
+        "url": "https://www.lemonde.fr/videos/video/2026/07/19/video-une-premiere-mi-temps-catastrophique-retour-sur-le-dernier-match-des-bleus-au-mondial-2026_6725717_1669088.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-19T09:40:55Z",
+        "extrait": "Le match qui a opposé la France à l’Angleterre se termine sur une défaite spectaculaire pour l’équipe de France, qui termine à la quatrième place.",
+        "tension": false
+      },
+      {
+        "titre": "Kylian Mbappé, un doublé pour finir la Coupe du monde 2026, un titre temporaire de meilleur buteur et un rôle de leader « exemplaire »",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/19/kylian-mbappe-devient-le-meilleur-buteur-de-la-coupe-du-monde-de-football_6725446_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-19T05:30:03Z",
+        "extrait": "Le capitaine des Bleus a marqué deux fois lors de la défaite de l’équipe de France face à l’Angleterre (4-6), samedi. Sa place de numéro 1 au classement des me…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "chaussures",
+    "produitLabel": "Chaussures",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Chaussures Asics Gel Kayano 14 - Cream Blue Coast, Tailles du 40 au 46,5",
+        "url": "https://www.dealabs.com/bons-plans/asics-gel-kayano-14-cream-blue-coast-plusieurs-tailles-disponibles-3378084",
+        "source": "dealabs.com",
+        "date": "2026-07-19T00:39:39Z",
+        "extrait": "75,63€ - CornerStreet La GEL-KAYANO 14 revient avec son look de la fin des années 2000, comme un clin d'œil à notre légendaire gamme GEL-KAYANO. Doté de matéri…",
+        "tension": false
+      },
+      {
+        "titre": "Poupée Barbie Fashionistas HYT94 - Robe Sans Bretelle Rose avec cheveux roses pastel, barrette et chaussures à talons et brides roses",
+        "url": "https://www.dealabs.com/bons-plans/poupee-barbie-fashionistas-robe-sans-bretelle-rose-avec-cheveux-roses-pastel-barrette-et-chaussures-a-talons-et-brides-roses-3378514",
+        "source": "dealabs.com",
+        "date": "2026-07-19T20:23:48Z",
+        "extrait": "5,50€ - Amazon Barbie Poupée Barbie Fashionistas Robe Sans Bretelle Rose avec cheveux roses pastel, barrette et chaussures à talons et brides roses.",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "vêtements",
+    "produitLabel": "Vêtements",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Funko Pop! Disney 1644 Winnie The Pooh - Tigger with Balloon, Tigrou",
+        "url": "https://www.dealabs.com/bons-plans/funko-pop-disney-1644-winnie-the-pooh-tigger-with-balloon-tigrou-3378158",
+        "source": "dealabs.com",
+        "date": "2026-07-19T08:04:41Z",
+        "extrait": "6,02€ - Amazon - TAILLE DE COLLECTION IDÉALE - D'une hauteur d'environ 9,5 cm (3,75 pouces), cette mini-figurine en vinyle complète d'autres objets de collecti…",
+        "tension": true
+      },
+      {
+        "titre": "[Précommande] LEGO Architecture 21067 - Tower Bridge , 3745 pièces + custom minifigurine offerte",
+        "url": "https://www.dealabs.com/bons-plans/precommande-lego-architecture-21067-tower-bridge-3745-pieces-custom-minifigurine-offerte-3377937",
+        "source": "dealabs.com",
+        "date": "2026-07-18T15:59:48Z",
+        "extrait": "254,98€ - JB Spielwaren Un beau set de la gamme architecture ici ! Vous pouvez choisir entre minifig ou vignette sur le site comme GWP A choisir : sur la page…",
+        "tension": true
+      },
+      {
+        "titre": "Écran PC 32\" LG 32GX870A - OLED, 4K UHD (3840x2160), 240Hz, 0,03 ms, DisplayHDR True Black 400, AMD FreeSync Premium Pro",
+        "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-lg-32gx870a-oled-4k-uhd-3840x2160-240hz-003-ms-displayhdr-true-black-400amd-freesync-premium-pro-3378387",
+        "source": "dealabs.com",
+        "date": "2026-07-19T15:39:18Z",
+        "extrait": "575,41€ - Amazon.it Bon prix pour cet Écran PC 32\" LG 32GX870A - OLED, 4K UHD (3840x2160), 240Hz, 0,03 ms, DisplayHDR True Black 400AMD, FreeSync Premium Pro.…",
         "tension": false
       }
     ]
@@ -40,10 +260,10 @@
     "produitLabel": "Smartphones",
     "type": "predefini",
     "categorie": "retail",
-    "score": 100,
+    "score": 80,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
         "titre": "Sélection de Jeux PS4 & PS5 en promotion - Ex : Captain Tsubasa: Rise of New Champions (Dématérialisé)",
@@ -64,218 +284,82 @@
     ]
   },
   {
-    "motCle": "climatiseurs",
-    "produitLabel": "Climatiseurs portables",
-    "type": "predefini",
+    "motCle": "intex sont des accessoires indispensables",
+    "produitLabel": "Intex Sont Des Accessoires Indispensables",
+    "type": "emergent",
     "categorie": "maison",
-    "score": 100,
+    "score": 74,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
-        "titre": "Climatiseur Portable Daitsu 12000BTU Blanc (youget.pt)",
-        "url": "https://www.dealabs.com/bons-plans/climatiseur-3375416",
+        "titre": "8 Dalles de protection mousse piscine Intex",
+        "url": "https://www.dealabs.com/bons-plans/8-dalles-de-protection-mousse-piscine-intex-3378048",
         "source": "dealabs.com",
-        "date": "2026-07-14T13:05:14Z",
-        "extrait": "599€ je sais c'est beaucoup trop cher j'ai eu la chance de prendre le whirphool a 407€ mais rupture de stock",
+        "date": "2026-07-18T20:52:24Z",
+        "extrait": "4€ - Intex Idéal pour protéger le fond de votre bassin Intex Les dalles de protection en mousse Intex sont des accessoires indispensables pour protéger le fond…",
         "tension": true
-      },
-      {
-        "titre": "[Membres] Climatiseur Mobile Klarstein AireLux Smart - 14000 BTU, Gris",
-        "url": "https://www.dealabs.com/bons-plans/klarstein-airelux-smart-14000-btu-climatiseur-mobile-gris-3375588",
-        "source": "dealabs.com",
-        "date": "2026-07-14T18:34:28Z",
-        "extrait": "756,99€ - Klarstein Marque fiable je pense, mieux que beaucoup d'offres décevantes.... Reduction pour nouveaux comptes 73€ et voir si cumulable newsletter... A…",
-        "tension": false
-      },
-      {
-        "titre": "Climatiseur mobile Cecotec ForceClima 9400 Soundless Heating - 9000 BTU pompe à chaleur",
-        "url": "https://www.dealabs.com/bons-plans/climatiseur-portable-cecotec-forceclima-9400-soundless-heating-9000-btu-pompe-a-chaleur-3375449",
-        "source": "dealabs.com",
-        "date": "2026-07-14T14:10:19Z",
-        "extrait": "349€ - PcComponentes Climatiseur mobile 9000 BTU pour pièces jusqu'à 20 m². Cinq modes (refroidissement, ventilation, déshumidification 24 l/j et nuit), 2 vite…",
-        "tension": false
       }
     ]
   },
   {
-    "motCle": "ventilateurs",
-    "produitLabel": "Ventilateurs",
-    "type": "predefini",
-    "categorie": "maison",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
-    "articles": [
-      {
-        "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
-        "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-daikin-atxc35c-arxc35c-12000-btu-35-kw-inverter-r32-aa-wi-fi-ready-dagimarket-3375537",
-        "source": "dealabs.com",
-        "date": "2026-07-14T17:15:29Z",
-        "extrait": "433€ - Dagimarket Le Daikin ATXC35C / ARXC35C est un climatiseur monosplit réversible Inverter de 12 000 BTU (3,5 kW) utilisant le fluide frigorigène R32. Il c…",
-        "tension": true
-      },
-      {
-        "titre": "Ventilateur de Plafond Iralan - avec Lumière, 6 Vitesses, 52\"",
-        "url": "https://www.dealabs.com/bons-plans/iralan-ventilateur-de-plafond-avec-lumiere-6-vitesses-52-pouces-3375384",
-        "source": "dealabs.com",
-        "date": "2026-07-14T12:13:42Z",
-        "extrait": "59,87€ - AliExpress Il s'agit d'un ventilateur éclairé moderne et simple qui utilise des lumières LED de haute qualité et offre 3 températures de couleur. Le m…",
-        "tension": true
-      },
-      {
-        "titre": "[Membres] Climatiseur Mobile Klarstein AireLux Smart - 14000 BTU, Gris",
-        "url": "https://www.dealabs.com/bons-plans/klarstein-airelux-smart-14000-btu-climatiseur-mobile-gris-3375588",
-        "source": "dealabs.com",
-        "date": "2026-07-14T18:34:28Z",
-        "extrait": "756,99€ - Klarstein Marque fiable je pense, mieux que beaucoup d'offres décevantes.... Reduction pour nouveaux comptes 73€ et voir si cumulable newsletter... A…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "drapeaux",
-    "produitLabel": "Drapeaux / fan flags",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 100,
-    "niveau": "surveille",
-    "evenementLieId": "cdm-2026-finale",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
-    "articles": [
-      {
-        "titre": "\"On mérite la défaite\" : les supporters de l'équipe de France abattus après l'élimination de la Coupe du monde en demi-finale.",
-        "url": "https://www.franceinfo.fr/sports/foot/equipe-de-france/on-merite-la-defaite-les-supporters-de-l-equipe-de-france-abattus-apres-l-elimination-de-la-coupe-du-monde-en-demi-finale_8108432.html#xtor=RSS-3-%5Bgeneral%5D",
-        "source": "francetvinfo.fr",
-        "date": "2026-07-15T07:10:42Z",
-        "extrait": "Le rêve d'une troisième étoile s'est arrêté mardi 14 juillet à Dallas. Battus 2-0 par l'Espagne, les Bleus quittent la Coupe du monde aux portes de la finale.…",
-        "tension": false
-      },
-      {
-        "titre": "TEMOIGNAGES. \"Dégoûté\", \"coup de marteau\", \"incompréhensible\"... Les supporters sous le choc après l'élimination de l'équipe de France contre l'Espagne",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/temoignages-degoute-coup-de-marteau-incomprehensible-apres-la-defaite-de-l-equipe-de-france-la-deception-des-supporters_8108327.html#xtor=RSS-3-%5Bgeneral%5D",
-        "source": "francetvinfo.fr",
-        "date": "2026-07-15T07:00:56Z",
-        "extrait": "Les Bleus ont échoué à se qualifier pour une troisième finale de mondial de foot d'affilée, mardi, face à la \"Roja\" au grand dam de leur fans.",
-        "tension": false
-      },
-      {
-        "titre": "REPORTAGE. \"C'est sûr qu'on va la gagner cette Coupe du monde !\" : en Espagne, la joie immense des supporters de la \"Roja\" après la victoire \"méritée\" contre la France",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/reportage-c-est-sur-qu-on-va-la-gagner-cette-coupe-du-monde-en-espagne-la-joie-immense-des-supporters-de-la-roja-apres-la-victoire-contre-la-france_8108357.html#xtor=RSS-3-%5Bgeneral%5D",
-        "source": "francetvinfo.fr",
-        "date": "2026-07-15T06:08:51Z",
-        "extrait": "Les Espagnols ont donné une leçon aux Bleus en demi-finale de la Coupe du monde et se sont imposés 2 à 0 à Arlington, près de Dallas, offrant un moment de joie…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "maillots",
-    "produitLabel": "Maillots",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
-    "articles": [
-      {
-        "titre": "Coupe du monde 2026 : les Bleus ont perdu la maîtrise de leur sujet",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/15/coupe-du-monde-2026-en-demi-finales-les-bleus-ont-perdu-la-maitrise-de-leur-sujet_6723516_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-15T07:00:03Z",
-        "extrait": "Surclassée par l’Espagne, l’équipe de France n’a rien montré de ce qui avait fait d’elle l’une des sélections les plus redoutables de la compétition.",
-        "tension": false
-      },
-      {
-        "titre": "Coupe du monde 2026 : une nuit de fête en Espagne après la qualification de la Roja en finale",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/15/cette-fois-c-est-pour-de-vrai-nous-sommes-en-finale-en-espagne-une-nuit-de-fete-apres-la-qualification-de-la-roja-en-finale-de-la-coupe-du-monde-2026_6723508_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-15T06:33:43Z",
-        "extrait": "Des places de Madrid aux rues de Saragosse, le pays a célébré jusque tard dans la nuit la victoire sur l’équipe de France (2-0) en demi-finales du Mondial. Sei…",
-        "tension": false
-      },
-      {
-        "titre": "Coupe du monde 2026 : la « génération magnifique » de l’Espagne, impitoyable machine à gagner",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/15/coupe-du-monde-2026-la-generation-magnifique-de-l-espagne-impitoyable-machine-a-gagner_6723501_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-15T05:28:18Z",
-        "extrait": "Collectif soudé et sûr de sa force, la Roja s’est qualifiée pour la finale du Mondial 2026 en dominant, mardi, l’équipe de France (2-0). Un succès qui valide l…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "chaussures",
-    "produitLabel": "Chaussures",
+    "motCle": "électroménager",
+    "produitLabel": "Électroménager",
     "type": "predefini",
     "categorie": "retail",
-    "score": 100,
+    "score": 69,
     "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
-        "titre": "Chaussures Nike Air Max 90 Drift - Baskets, Tailles du 41 au 46",
-        "url": "https://www.dealabs.com/bons-plans/baskets-nike-air-max-90-drift-taille-41-a-46-3370982",
+        "titre": "Séjour 8J/7N pour 4 personnes, Résidence Odalys Côté Canal Sallèles d’Aude - Piscines extérieures, Terrasse - Ex : Du 05/09 au 12/09/2026",
+        "url": "https://www.dealabs.com/bons-plans/sejour-8j7n-pour-4-personnes-residence-odalys-cote-canal-salleles-daude-piscines-exterieures-terrasse-ex-du-0509-au-12092026-3378305",
         "source": "dealabs.com",
-        "date": "2026-07-15T07:06:23Z",
-        "extrait": "80€ - JD Sports La Nike Air Max 90 Drift Homme est une sneaker résistante et confortable. résistante : la Air Max 90 Drift. Tissu indéchirable. Caoutchouc. Cui…",
+        "date": "2026-07-19T12:42:02Z",
+        "extrait": "179€ - Veepee Si vous cherchez une semaine de vacances à prix contenu en France, ce séjour Odalys à Sallèles d’Aude est une option intéressante. La résidence e…",
         "tension": true
-      },
-      {
-        "titre": "Chaussures de running trail homme Hoka Speedgoat 7",
-        "url": "https://www.dealabs.com/bons-plans/hoka-speedgoat-7-hommes-plusieurs-tailles-dispo-3375524",
-        "source": "dealabs.com",
-        "date": "2026-07-14T16:58:27Z",
-        "extrait": "99,99€ - Decathlon Si vous etes team decathlon plutot qu'Intersport, la speedgoat 7 est dispo a moins de 100€. La livraison en click&amp;collect est gratuite q…",
-        "tension": false
-      },
-      {
-        "titre": "Baskets New Balance 509 Black / Black du 40 au 47.5",
-        "url": "https://www.dealabs.com/bons-plans/new-balance-509-black-black-du-40-au-475-3375044",
-        "source": "dealabs.com",
-        "date": "2026-07-13T19:31:53Z",
-        "extrait": "65,60€ - Asphaltgold Le New Balance 509 apporte une bouffée d'air frais dans les rues. Avec son design minimaliste en noir classique, il s'intègre parfaitement…",
-        "tension": false
       }
     ]
   },
   {
-    "motCle": "vêtements",
-    "produitLabel": "Vêtements",
+    "motCle": "cartables",
+    "produitLabel": "Cartables",
     "type": "predefini",
-    "categorie": "retail",
-    "score": 100,
+    "categorie": "famille",
+    "score": 69,
     "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "evenementLieId": "rentree-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
-        "titre": "Chaussures Nike Air Max 90 Drift - Baskets, Tailles du 41 au 46",
-        "url": "https://www.dealabs.com/bons-plans/baskets-nike-air-max-90-drift-taille-41-a-46-3370982",
-        "source": "dealabs.com",
-        "date": "2026-07-15T07:06:23Z",
-        "extrait": "80€ - JD Sports La Nike Air Max 90 Drift Homme est une sneaker résistante et confortable. résistante : la Air Max 90 Drift. Tissu indéchirable. Caoutchouc. Cui…",
+        "titre": "Comment réduire la facture des fournitures scolaires en plein été ?",
+        "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-budget/comment-reduire-la-facture-des-fournitures-scolaires-en-plein-ete_8064206.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-18T08:00:02Z",
+        "extrait": "Alors que le prix des fournitures scolaires a progressé de 2% en un an, quelques réflexes permettent de limiter les dépenses : réutilisation, seconde main, ach…",
         "tension": true
-      },
+      }
+    ]
+  },
+  {
+    "motCle": "fournitures",
+    "produitLabel": "Fournitures scolaires",
+    "type": "predefini",
+    "categorie": "famille",
+    "score": 69,
+    "niveau": "confirme",
+    "evenementLieId": "rentree-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
       {
-        "titre": "Guitare Électrique Fender US Signature Michael Landau Coma Stratocaster Coma Red",
-        "url": "https://www.dealabs.com/bons-plans/guitare-electrique-fender-us-signature-michael-landau-coma-stratocaster-coma-red-3375788",
-        "source": "dealabs.com",
-        "date": "2026-07-15T06:58:27Z",
-        "extrait": "1 804,05€ - SonoVente.com Alors effectivement, à son tarif habituel, votre banquier risque d'en faire un, de coma, devant votre inconscience, surtout si vous n…",
+        "titre": "Comment réduire la facture des fournitures scolaires en plein été ?",
+        "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-budget/comment-reduire-la-facture-des-fournitures-scolaires-en-plein-ete_8064206.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-18T08:00:02Z",
+        "extrait": "Alors que le prix des fournitures scolaires a progressé de 2% en un an, quelques réflexes permettent de limiter les dépenses : réutilisation, seconde main, ach…",
         "tension": true
-      },
-      {
-        "titre": "Le Slip français s’aventure en Bourse",
-        "url": "https://www.lemonde.fr/economie/article/2026/07/14/le-slip-francais-s-aventure-en-bourse_6723297_3234.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-14T11:56:18Z",
-        "extrait": "La marque de sous-vêtements masculins créée en 2011 lève 3,7 millions d’euros sur le segment Euronext Growth Paris, consacré aux PME. Ces fonds doivent lui per…",
-        "tension": false
       }
     ]
   },
@@ -284,10 +368,10 @@
     "produitLabel": "Daikin Atxc35c Arxc35c",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -304,10 +388,10 @@
     "produitLabel": "Daikin Brp069b45 En Option",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -324,10 +408,10 @@
     "produitLabel": "Dyson V8 Advanced",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
         "titre": "Aspirateur Dyson V8 Advanced",
@@ -340,14 +424,74 @@
     ]
   },
   {
+    "motCle": "intex de plus de 2",
+    "produitLabel": "Intex De Plus De 2",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
+        "url": "https://www.dealabs.com/bons-plans/piscine-rectangulaires-gonflable-intex-262-x-175-x-56-cm-3378141",
+        "source": "dealabs.com",
+        "date": "2026-07-19T07:35:15Z",
+        "extrait": "14,98€ - Amazon Bon prix Action , gifi ~18€ Marque Intex Couleur Couleurs Assorties Dimensions du produit 2,62L x 1,75l x 0,56H mètres Forme Carrée Matériau Pl…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "intex family",
+    "produitLabel": "Intex Family",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
+        "url": "https://www.dealabs.com/bons-plans/piscine-rectangulaires-gonflable-intex-262-x-175-x-56-cm-3378141",
+        "source": "dealabs.com",
+        "date": "2026-07-19T07:35:15Z",
+        "extrait": "14,98€ - Amazon Bon prix Action , gifi ~18€ Marque Intex Couleur Couleurs Assorties Dimensions du produit 2,62L x 1,75l x 0,56H mètres Forme Carrée Matériau Pl…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "TV 4K",
+    "produitLabel": "TV 4K / OLED",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
+    "articles": [
+      {
+        "titre": "167° - Écran PC 32\" LG 32GX870A - OLED, 4K UHD (3840x2160), 240Hz, 0,03 ms, DisplayHDR True Black 400, AMD FreeSync Premium Pro",
+        "url": "https://www.dealabs.com/bons-plans/ecran-pc-32-lg-32gx870a-oled-4k-uhd-3840x2160-240hz-003-ms-displayhdr-true-black-400amd-freesync-premium-pro-3378387",
+        "source": "dealabs.com",
+        "date": "2026-07-19T19:23:07Z",
+        "extrait": "575,41€ - Amazon.it Bon prix pour cet Écran PC 32\" LG 32GX870A - OLED, 4K UHD (3840x2160), 240Hz, 0,03 ms, DisplayHDR True Black 400AMD, FreeSync Premium Pro.…",
+        "tension": false
+      }
+    ]
+  },
+  {
     "motCle": "daikin atxc35c",
     "produitLabel": "Daikin Atxc35c",
     "type": "emergent",
     "categorie": "maison",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -360,34 +504,14 @@
     ]
   },
   {
-    "motCle": "piscines gonflables",
-    "produitLabel": "Piscines gonflables",
-    "type": "predefini",
-    "categorie": "maison",
-    "score": 54,
-    "niveau": "surveille",
-    "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
-    "articles": [
-      {
-        "titre": "Robot Piscine sans Fil Gosvor LiteVac 800 - Aspirateur Automatique Piscine Hors Sol, 80 Min d’Autonomie",
-        "url": "https://www.dealabs.com/bons-plans/gosvor-litevac-800-robot-piscine-sans-fil-aspirateur-automatique-piscine-hors-sol-80-min-dautonomie-3374673",
-        "source": "dealabs.com",
-        "date": "2026-07-13T09:50:17Z",
-        "extrait": "64€ - AliExpress Gosvor Pool Cleaner Robot: Ideal Pool Type: Above Ground Pool Size: 760sq.ft (80m) /30ft (9m) in length Mobile App: NO Battery Life: Auto Mode…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "billets",
     "produitLabel": "Billets / places",
     "type": "predefini",
     "categorie": "sport",
-    "score": 54,
+    "score": 43,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z",
+    "derniereMaj": "2026-07-19T20:35:53.191311Z",
     "articles": [
       {
         "titre": "Coupe du monde 2026 : une nuit de fête en Espagne après la qualification de la Roja en finale",
@@ -402,8 +526,8 @@
   {
     "motCle": "vêtements",
     "categorie": "famille",
-    "score": 34,
+    "score": 27,
     "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-07-15T08:39:51.906906Z"
+    "derniereMaj": "2026-07-19T20:35:53.191311Z"
   }
 ]
