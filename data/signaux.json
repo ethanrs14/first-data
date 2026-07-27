@@ -7,30 +7,230 @@
     "score": 100,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
-        "titre": "« L’empire est devenu impossible à gérer » : le pari risqué de Xbox pour assurer sa survie",
-        "url": "https://www.lemonde.fr/pixels/article/2026/07/19/l-empire-est-devenu-impossible-a-gerer-le-pari-risque-de-xbox-pour-assurer-sa-survie_6726098_4408996.html",
+        "titre": "Days Gone Remastered sur PS5 (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/days-gone-remastered-sur-ps5-dematerialise-3382424",
+        "source": "dealabs.com",
+        "date": "2026-07-27T00:33:06Z",
+        "extrait": "19,99€ - PlayStation Store Offre sur le PSN. Progressez à travers un monde désolé et sans merci dans l'expérience définitive de Days Gone, repensé pour la cons…",
+        "tension": false
+      },
+      {
+        "titre": "Spider-Man 2 sur PS5 (via avantage immédiat avec la carte)",
+        "url": "https://www.dealabs.com/bons-plans/spider-man-2-ps5-3382393",
+        "source": "dealabs.com",
+        "date": "2026-07-26T22:08:30Z",
+        "extrait": "32,13€ - E.Leclerc Le nouveau jeu de la série Marvel’s Spider-Man, à venir sur consoles PlayStation®5. Les deux Spider-Man, Peter Parker et Miles Morales, sont…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "smartphones",
+    "produitLabel": "Smartphones",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Pack Tablette Tactile 11\" Xiaomi Redmi Pad 2 Play 128 Go Gris + coque et stylet",
+        "url": "https://www.dealabs.com/bons-plans/pack-tablette-tactile-xiaomi-redmi-pad-2-play-11-128-go-gris-coque-et-stylet-3382111",
+        "source": "dealabs.com",
+        "date": "2026-07-26T10:52:47Z",
+        "extrait": "209,99€ - Fnac Résolution de l'écran 2560x1600, 274 ppp Aspect de la dalle Ecran mate Taille de l'écran (pouces) 11 \" Écran Mat 2.5K ultra-précis Définition WQ…",
+        "tension": true
+      },
+      {
+        "titre": "Démarchage téléphonique : à partir du 11 août, les entreprises devront obtenir le consentement des consommateurs",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/26/demarchage-telephonique-a-partir-du-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs_6733043_3234.html",
         "source": "lemonde.fr",
-        "date": "2026-07-19T16:00:01Z",
-        "extrait": "Après l’annonce d’une restructuration de grande ampleur début juillet, le deuxième éditeur mondial de jeux vidéo, propriété de Microsoft, est en proie à une cr…",
+        "date": "2026-07-26T06:13:34Z",
+        "extrait": "Désormais, les entreprises devront recueillir le consentement des consommateurs avant toute prospection commerciale par téléphone, ce consentement étant « ente…",
         "tension": false
       },
       {
-        "titre": "The Outer Worlds 2 Premium Upgrade - PC & Xbox Series X|S (Dématérialisé, Microsoft Store)",
-        "url": "https://www.dealabs.com/bons-plans/the-outer-worlds-2-premium-upgrade-pc-xbox-series-xs-microsoft-store-3378469",
+        "titre": "Lot de 4 Traceurs Ugreen - pour Android, Bluetooth, Localiser de Google Find Hub & Recharge USB C (vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/4-tags-ugreen-android-rechargeables-3382395",
         "source": "dealabs.com",
-        "date": "2026-07-19T18:55:03Z",
-        "extrait": "5,99€ - Instant Gaming The Outer Worlds 2 – Premium Upgrade Edition (PC &amp; Xbox Series X|S) – 4,99 € au lieu de 30 € (-83%) Le Premium Upgrade de The Outer…",
+        "date": "2026-07-26T22:15:39Z",
+        "extrait": "25,70€ - Amazon Prix le moins chers depuis un bon moment. À propos de ce produit [ Certification Find Hub (Uniquement Android) ] Le tracker d'objets peut être…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "ventilateurs",
+    "produitLabel": "Ventilateurs",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Ventilateur de plafond IRALAN CY01-FAN avec lumière LED - moteur CC réversible, 6 vitesses, 3 températures (3CCT), télécommande, 105cm",
+        "url": "https://www.dealabs.com/bons-plans/ventilateur-de-plafond-iralan-cy01-fan-avec-lumiere-led-moteur-cc-reversible-6-vitesses-3-temperatures-3cct-telecommande-105cm-3382484",
+        "source": "dealabs.com",
+        "date": "2026-07-27T06:19:14Z",
+        "extrait": "55,42€ - AliExpress Un ventilateur de plafond moderne combinant éclairage LED réglable et moteur à courant continu silencieux, avec un mode été/hiver pour bras…",
+        "tension": true
+      },
+      {
+        "titre": "Incendie en Gironde : certains résidents d'Ehpad réfugiés au Parc des expositions de Bordeaux \"ne vont pas très bien\", s'inquiète une représentante du secteur",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-en-gironde-certains-residents-d-ehpad-refugies-au-parc-des-expositions-de-bordeaux-ne-vont-pas-tres-bien-s-inquiete-une-representante-du-secteur_8123303.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-27T05:27:53Z",
+        "extrait": "\"La chaleur est importante, il fait plus de 33 degrés, il n'y a pas de ventilateur\", raconte Alexandra Penin, présidente de la Fédération des associations de d…",
         "tension": false
       },
       {
-        "titre": "Hell Is Us sur PS5 et Xbox Series (Avec carte de fidélité)",
-        "url": "https://www.dealabs.com/bons-plans/hell-is-us-sur-ps5-3378563",
+        "titre": "Ventilateur de plafond silencieux Wind Calm - 40W",
+        "url": "https://www.dealabs.com/bons-plans/ventilateur-de-plafond-silencieux-40w-3382150",
         "source": "dealabs.com",
-        "date": "2026-07-19T22:29:28Z",
-        "extrait": "16,25€ - E.Leclerc sur PS5 sur Xbox Hell is Us est un jeu d'action-aventure à la 3ème personne mêlant d'intenses combats au corps à corps avec l'excitation de…",
+        "date": "2026-07-26T11:57:07Z",
+        "extrait": "144,95€ - Create Le WIND CALM est un ventilateur de plafond silencieux conçu pour améliorer votre confort. *caractéristiques du produit :* - Puissance de 40W -…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "TV 4K",
+    "produitLabel": "TV 4K / OLED",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "170° - Câble d’antenne TV Coaxial - 10M",
+        "url": "https://www.dealabs.com/bons-plans/cable-dantenne-tv-coaxial-10m-3382208",
+        "source": "dealabs.com",
+        "date": "2026-07-27T04:09:15Z",
+        "extrait": "3,59€ - Amazon PremiumCord Câble d'antenne TV coaxial 10m, 75 ohm, IEC mâle vers femelle, blindé - pour DVB-C, DVB-T/T2, 4K UHD 2160p, Full HD 1080p 3D, couleu…",
+        "tension": false
+      },
+      {
+        "titre": "194° - TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
+        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
+        "source": "dealabs.com",
+        "date": "2026-07-27T04:07:17Z",
+        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "maillots",
+    "produitLabel": "Maillots",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Tour de France 2026 : Mads Pedersen, le maillot vert qui ne brillait pas aux sprints",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/26/tour-de-france-2026-mads-pedersen-le-maillot-vert-qui-ne-brillait-pas-aux-sprints_6732768_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-26T04:01:06Z",
+        "extrait": "A l’aube de la dernière étape, à Paris, dimanche, le Danois est assuré de remporter la tunique verte du classement par points s’il termine la Grande Boucle. Il…",
+        "tension": false
+      },
+      {
+        "titre": "Tour de France : Richard Carapaz remporte l’étape reine à l’Alpe-d’Huez, Tadej Pagacar vers un cinquième sacre",
+        "url": "https://www.lemonde.fr/sport/live/2026/07/25/en-direct-tour-de-france-suivez-la-vingtieme-etape-entre-le-bourg-d-oisans-et-l-alpe-d-huez_6732132_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-25T09:15:05Z",
+        "extrait": "Le coureur équatorien de 33 ans s’est de nouveau imposé, cette fois à l’Alpe-d’Huez, samedi, à l’arrivée de la 20ᵉ et copieuse étape du Tour de France 2026. Ap…",
+        "tension": false
+      },
+      {
+        "titre": "Un Tour de France entre « Seixasmania » et respect des exploits de Tadej Pogacar",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/25/un-tour-de-france-entre-seixasmania-et-respect-des-exploits-de-tadej-pogacar_6731717_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-07-25T04:00:08Z",
+        "extrait": "Si certains regrettent la mainmise du maillot jaune sur la Grande Boucle, à nouveau vainqueur vendredi à l’Alpe-d’Huez, l’important est ailleurs pour la plupar…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "chaussures",
+    "produitLabel": "Chaussures",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
+        "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-baskets-philips-sneaker-cleaner-3-brosses-incluses-a-piles-3382157",
+        "source": "dealabs.com",
+        "date": "2026-07-26T12:14:45Z",
+        "extrait": "15,93€ - Amazon KIT DE NETTOYAGE POUR LES BASKETS : nettoyage efficace avec jusqu'à 500 rotations par minutes, ce sneaker cleaner est équipé de 3 têtes de bros…",
+        "tension": true
+      },
+      {
+        "titre": "[Unidays] 30% de réduction supplémentaires sur une sélection New Balance Outlet (Ex. : New Balance 1000)",
+        "url": "https://www.dealabs.com/bons-plans/selection-new-balance-en-promotion-ex-new-balance-1000-a-85-eur-avec-le-code-nbsale30-plusieurs-tailles-disponibles-3382290",
+        "source": "dealabs.com",
+        "date": "2026-07-26T16:19:25Z",
+        "extrait": "71,40€ - New Balance plusieurs modèles en vente ici : https://www.newbalance.fr/fr/outlet-1/?prefn1=gender&amp;prefv1=Homme&amp;prefn2=productClass&amp;prefv2=…",
+        "tension": false
+      },
+      {
+        "titre": "Baskets New Balance 2000 - Coloris noir et gris, Tailles du 41 ½ au 47 ½",
+        "url": "https://www.dealabs.com/bons-plans/new-balance-2000-coloris-noir-et-gris-du-41-au-47-3382139",
+        "source": "dealabs.com",
+        "date": "2026-07-26T11:53:24Z",
+        "extrait": "72€ - Snipes Salut la commu. Prix de malade pour cette paire de New Balance 2000 coloris noir et gris. Large gamme de pointures disponibles. Elles sont ultra c…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "vêtements",
+    "produitLabel": "Vêtements",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
+        "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-baskets-philips-sneaker-cleaner-3-brosses-incluses-a-piles-3382157",
+        "source": "dealabs.com",
+        "date": "2026-07-26T12:14:45Z",
+        "extrait": "15,93€ - Amazon KIT DE NETTOYAGE POUR LES BASKETS : nettoyage efficace avec jusqu'à 500 rotations par minutes, ce sneaker cleaner est équipé de 3 têtes de bros…",
+        "tension": true
+      },
+      {
+        "titre": "Jeu Casse-Tête Rubik's Cube - 3x3, sans autocollant",
+        "url": "https://www.dealabs.com/bons-plans/jeu-casse-tete-rubiks-cube-3x3-sans-autocollant-3382296",
+        "source": "dealabs.com",
+        "date": "2026-07-26T16:42:08Z",
+        "extrait": "5,60€ - Amazon LE RUBIK’S CUBE ORIGINAL - Combinant les mathématiques, l'art et la science, le casse-tête Rubiks Cube emblématique stimule votre cerveau et vou…",
+        "tension": false
+      },
+      {
+        "titre": "Home trainer Wahoo Kickr Core 2 avec Zwift Cog & Clivk",
+        "url": "https://www.dealabs.com/bons-plans/home-trainer-wahoo-kickr-core-2-avec-zwift-cog-clivk-3382405",
+        "source": "dealabs.com",
+        "date": "2026-07-26T22:33:20Z",
+        "extrait": "399,99€ - Amazon Très bon prix! Dispo aussi avec la cassette 11 vitesses. À propos de ce produit KICKR CORE Zwift est la façon la plus intelligente de commence…",
         "tension": false
       }
     ]
@@ -40,10 +240,10 @@
     "produitLabel": "Climatiseurs portables",
     "type": "predefini",
     "categorie": "maison",
-    "score": 100,
+    "score": 80,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Climatiseur mobile et déshumidificateur Beko BP209H 9000 BTU/h Classe A (via coupon)",
@@ -76,10 +276,10 @@
     "produitLabel": "Piscines gonflables",
     "type": "predefini",
     "categorie": "maison",
-    "score": 100,
+    "score": 80,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "8 Dalles de protection mousse piscine Intex",
@@ -100,42 +300,14 @@
     ]
   },
   {
-    "motCle": "ventilateurs",
-    "produitLabel": "Ventilateurs",
-    "type": "predefini",
-    "categorie": "maison",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "Ventilateur PWM Corsair iCUE Link RX120 - RGB, 120 mm",
-        "url": "https://www.dealabs.com/bons-plans/ventilateur-pwm-corsair-icue-link-rx120-rgb-120-mm-3378156",
-        "source": "dealabs.com",
-        "date": "2026-07-19T08:01:49Z",
-        "extrait": "18,42€ - Amazon - Vitesses contrôlées par PWM via iCUE LINK : définissez des vitesses de ventilation précises jusqu'à 2 100 tr/minute tout en fournissant un fl…",
-        "tension": true
-      },
-      {
-        "titre": "Barbecue masterbuild au Charbon de Bois Portable",
-        "url": "https://www.dealabs.com/bons-plans/barbecue-masterbuild-au-charbon-de-bois-portable-3377908",
-        "source": "dealabs.com",
-        "date": "2026-07-18T14:28:52Z",
-        "extrait": "129,95€ - iBOOD Acheté il y a 15 jours grâce au dernier deal et franchement le système est vraiment génial. J'étais vraiment curieux de savoir si ca allait êtr…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "drapeaux",
     "produitLabel": "Drapeaux / fan flags",
     "type": "predefini",
     "categorie": "sport",
-    "score": 100,
+    "score": 80,
     "niveau": "surveille",
     "evenementLieId": "cdm-2026-finale",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "RECIT. Des ruines de Knsyna et de l'Euro 2012 au sommet du monde : comment Didier Deschamps a réconcilié les Français avec l'équipe de France",
@@ -156,50 +328,14 @@
     ]
   },
   {
-    "motCle": "maillots",
-    "produitLabel": "Maillots",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 100,
-    "niveau": "surveille",
-    "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "Tour de France : Remco Evenepoel s’impose devant Tadej Pogacar dans le final de la 15ᵉ étape, leur rival Jonas Vingegaard contraint à l’abandon après une chute",
-        "url": "https://www.lemonde.fr/sport/live/2026/07/19/en-direct-tour-de-france-suivez-la-quinzieme-etape-entre-champagnole-et-le-plateau-de-solaison_6725885_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-19T11:05:03Z",
-        "extrait": "Le coureur belge de 26 ans s’est imposé dimanche au plateau de Solaison (Haute-Savoie), devant Tadej Pogacar, toujours porteur du maillot jaune. Victime d’une…",
-        "tension": false
-      },
-      {
-        "titre": "VIDÉO « Une première mi-temps catastrophique », retour sur le dernier match des Bleus au Mondial 2026",
-        "url": "https://www.lemonde.fr/videos/video/2026/07/19/video-une-premiere-mi-temps-catastrophique-retour-sur-le-dernier-match-des-bleus-au-mondial-2026_6725717_1669088.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-19T09:40:55Z",
-        "extrait": "Le match qui a opposé la France à l’Angleterre se termine sur une défaite spectaculaire pour l’équipe de France, qui termine à la quatrième place.",
-        "tension": false
-      },
-      {
-        "titre": "Kylian Mbappé, un doublé pour finir la Coupe du monde 2026, un titre de meilleur buteur et un rôle de leader « exemplaire »",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/19/kylian-mbappe-devient-le-meilleur-buteur-de-la-coupe-du-monde-de-football_6725446_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-19T05:30:03Z",
-        "extrait": "Le capitaine des Bleus a marqué deux fois lors de la défaite de l’équipe de France face à l’Angleterre (4-6), samedi. Sa place de numéro 1 au classement des me…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "transports",
     "produitLabel": "Transports",
     "type": "predefini",
     "categorie": "sport",
-    "score": 100,
+    "score": 80,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "114° - Boîte à outils Foxter - 41,5x22,6x20 cm",
@@ -228,102 +364,142 @@
     ]
   },
   {
-    "motCle": "chaussures",
-    "produitLabel": "Chaussures",
-    "type": "predefini",
+    "motCle": "philips sneaker cleaner",
+    "produitLabel": "Philips Sneaker Cleaner",
+    "type": "emergent",
     "categorie": "retail",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "Baskets Air Max Dn8 Nike - Amorti Air Max, design lifestyle, coloris noir et vert, Tailles 41 à 45",
-        "url": "https://www.dealabs.com/bons-plans/sneakers-air-max-dn8-nike-amorti-air-max-design-lifestyle-coloris-noir-et-vert-pointures-41-a-45-3378302",
-        "source": "dealabs.com",
-        "date": "2026-07-19T12:32:47Z",
-        "extrait": "59,99€ - Veepee Si vous cherchez une paire de sneakers confortable avec un look assez marqué, ces Air Max Dn8 restent dans la lignée des modèles lifestyle de l…",
-        "tension": true
-      },
-      {
-        "titre": "Baskets Reebok club C Terrace blanc- Tailles du 34 au 47",
-        "url": "https://www.dealabs.com/bons-plans/baskets-reebok-club-c-terrace-blanc-tailles-du-34-au-47-3378560",
-        "source": "dealabs.com",
-        "date": "2026-07-19T22:27:51Z",
-        "extrait": "16,90€ - Showroomprivé https://www.showroomprive.com/link/product/40709519",
-        "tension": false
-      },
-      {
-        "titre": "Poupée Barbie Fashionistas HYT94 - Robe Sans Bretelle Rose avec cheveux roses pastel, barrette et chaussures à talons et brides roses",
-        "url": "https://www.dealabs.com/bons-plans/poupee-barbie-fashionistas-robe-sans-bretelle-rose-avec-cheveux-roses-pastel-barrette-et-chaussures-a-talons-et-brides-roses-3378514",
-        "source": "dealabs.com",
-        "date": "2026-07-19T20:23:48Z",
-        "extrait": "5,50€ - Amazon Barbie Poupée Barbie Fashionistas Robe Sans Bretelle Rose avec cheveux roses pastel, barrette et chaussures à talons et brides roses.",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "vêtements",
-    "produitLabel": "Vêtements",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "Switch Ethernet 2.5G 8 ports Tenda TEM2010F - 2 ports SFP 2.5G, Mode VLAN, Mode dédié NAS, Idéal PC & Stockage",
-        "url": "https://www.dealabs.com/bons-plans/switch-ethernet-25g-8-ports-tenda-tem2010f-2-ports-sfp-25g-mode-vlan-mode-dedie-nas-ideal-pc-stockage-3378373",
-        "source": "dealabs.com",
-        "date": "2026-07-19T14:54:30Z",
-        "extrait": "65,99€ - Amazon À propos de cet article 【Bande Passante Haute Vitesse 2,5 G】Équipés de 8*2,5G GE et de 2*2,5G SFP, tous les ports prennent en charge la transmi…",
-        "tension": true
-      },
-      {
-        "titre": "Aspirateur Laveur de Sol Intelligent Sans fil dreame H12S - 3 Modes",
-        "url": "https://www.dealabs.com/bons-plans/aspirateur-laveur-de-sol-intelligent-sans-fil-dreame-h12s-3-modes-3378223",
-        "source": "dealabs.com",
-        "date": "2026-07-19T10:34:44Z",
-        "extrait": "159€ - Amazon Marque dreame Caractéristique spéciale 3 Modes de Nettoyage, Aspiration de 16 000 Pa, Détection de la Saleté, Nettoyage des Bords, Séchage àl'air…",
-        "tension": true
-      },
-      {
-        "titre": "The Plucky Squire Deluxe Edition sur PS5",
-        "url": "https://www.dealabs.com/bons-plans/the-plucky-squire-deluxe-edition-ps5-3378372",
-        "source": "dealabs.com",
-        "date": "2026-07-19T14:53:39Z",
-        "extrait": "20,99€ - Fnac The Plucky Squire (Le Vaillant Petit Page)–Devolver Deluxe inclura les articles exclusifs suivants, en plus du jeu physique : - Un magnifique art…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "smartphones",
-    "produitLabel": "Smartphones",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 87,
+    "score": 74,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
-        "titre": "Écouteurs sans fil Apple AirPods Pro 3 (via 30€ Fidélité & Retrait ou Drive ) - Antibes (06)",
-        "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-pro-3-via-30eur-fidelite-retrait-ou-drive-3378461",
+        "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
+        "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-baskets-philips-sneaker-cleaner-3-brosses-incluses-a-piles-3382157",
         "source": "dealabs.com",
-        "date": "2026-07-19T18:42:16Z",
-        "extrait": "194€ - Carrefour Valable dans de nombreux autres magasins Carrefour selon disponibilité ! À propos de ce produit LA MEILLEURE RÉDUCTION ACTIVE DU BRUIT INTRA-A…",
+        "date": "2026-07-26T12:14:45Z",
+        "extrait": "15,93€ - Amazon KIT DE NETTOYAGE POUR LES BASKETS : nettoyage efficace avec jusqu'à 500 rotations par minutes, ce sneaker cleaner est équipé de 3 têtes de bros…",
         "tension": true
-      },
+      }
+    ]
+  },
+  {
+    "motCle": "samsung 8kg ecobubble",
+    "produitLabel": "Samsung 8kg Ecobubble",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
       {
-        "titre": "Manette de Jeu GameSir G8 Plus - Bluetooth, avec Joysticks & Gâchettes à Effet Hall, pour Switch1&2, iOS & Android",
-        "url": "https://www.dealabs.com/bons-plans/gamesir-g8-plus-manette-de-jeu-bluetooth-pour-switch-ios-android-tablettes-avec-joysticksgachettes-a-effet-hall-3362179",
+        "titre": "Lave-Linge Hublot Samsung Ecobubble - 8 Kg, Blanc Ou Noir",
+        "url": "https://www.dealabs.com/bons-plans/lave-linge-hublot-samsung-8kg-ecobubble-blanc-ou-noir-3382156",
         "source": "dealabs.com",
-        "date": "2026-06-26T01:34:49Z",
-        "extrait": "53,71€ - Banggood GameSir G8 Plus Manette de Jeu Mobile sans fil bluetooth avec Joysticks/Gâchettes à Effet Hall compatible : Switch1&amp;2 iOS Android Tablett…",
-        "tension": false
+        "date": "2026-07-26T12:06:41Z",
+        "extrait": "329,99€ - Veepee Description LAVE-LINGE HUBLOT SAMSUNG 8KG ECOBUBBLE™ | BLANC OU NOIR SmartThings | ecobubble™ TECHNOLOGY | DIGITAL INVERTER™ TECHNOLOGY LIBÉRE…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung ecobubble",
+    "produitLabel": "Samsung Ecobubble",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Lave-Linge Hublot Samsung Ecobubble - 8 Kg, Blanc Ou Noir",
+        "url": "https://www.dealabs.com/bons-plans/lave-linge-hublot-samsung-8kg-ecobubble-blanc-ou-noir-3382156",
+        "source": "dealabs.com",
+        "date": "2026-07-26T12:06:41Z",
+        "extrait": "329,99€ - Veepee Description LAVE-LINGE HUBLOT SAMSUNG 8KG ECOBUBBLE™ | BLANC OU NOIR SmartThings | ecobubble™ TECHNOLOGY | DIGITAL INVERTER™ TECHNOLOGY LIBÉRE…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung peuvent laver a froid",
+    "produitLabel": "Samsung Peuvent Laver A Froid",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Lave-Linge Hublot Samsung Ecobubble - 8 Kg, Blanc Ou Noir",
+        "url": "https://www.dealabs.com/bons-plans/lave-linge-hublot-samsung-8kg-ecobubble-blanc-ou-noir-3382156",
+        "source": "dealabs.com",
+        "date": "2026-07-26T12:06:41Z",
+        "extrait": "329,99€ - Veepee Description LAVE-LINGE HUBLOT SAMSUNG 8KG ECOBUBBLE™ | BLANC OU NOIR SmartThings | ecobubble™ TECHNOLOGY | DIGITAL INVERTER™ TECHNOLOGY LIBÉRE…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "philips sneaker cleaner",
+    "produitLabel": "Philips Sneaker Cleaner",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
+        "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-baskets-philips-sneaker-cleaner-3-brosses-incluses-a-piles-3382157",
+        "source": "dealabs.com",
+        "date": "2026-07-26T12:14:45Z",
+        "extrait": "15,93€ - Amazon KIT DE NETTOYAGE POUR LES BASKETS : nettoyage efficace avec jusqu'à 500 rotations par minutes, ce sneaker cleaner est équipé de 3 têtes de bros…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "électroménager",
+    "produitLabel": "Électroménager",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 69,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "T-Shirt Uni en Maille Jersey - Bleu Gris, Tailles du 3XL au 7XL",
+        "url": "https://www.dealabs.com/bons-plans/t-shirt-uni-en-maille-jersey-bleu-gris-tailles-3xl-au-7xl-3381960",
+        "source": "dealabs.com",
+        "date": "2026-07-26T06:33:57Z",
+        "extrait": "2,40€ - Kiabi Un indispensable à ajouter à sa garde-robe ! Ce t-shirt en jersey 100 % coton mise sur la simplicité et le confort pour un usage quotidien. Grâce…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "high-tech",
+    "produitLabel": "High-tech",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 69,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Spiderman 2 sur PS5",
+        "url": "https://www.dealabs.com/bons-plans/spiderman-2-sur-ps5-3382467",
+        "source": "dealabs.com",
+        "date": "2026-07-27T05:54:27Z",
+        "extrait": "29,99€ - Carrefour Bon prix pour un jeu en physique ;) En livraison uniquement Les deux Spider-Man, Peter Parker et Miles Morales, sont de retour pour une nouv…",
+        "tension": true
       }
     ]
   },
@@ -332,10 +508,10 @@
     "produitLabel": "Intex Sont Des Accessoires Indispensables",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "8 Dalles de protection mousse piscine Intex",
@@ -348,14 +524,54 @@
     ]
   },
   {
+    "motCle": "tcl 65p8k",
+    "produitLabel": "Tcl 65p8k",
+    "type": "emergent",
+    "categorie": "sport",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "cdm-2026-finale",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "194° - TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
+        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
+        "source": "dealabs.com",
+        "date": "2026-07-27T04:07:17Z",
+        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "tcl 65p8k",
+    "produitLabel": "Tcl 65p8k",
+    "type": "emergent",
+    "categorie": "sport",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "194° - TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
+        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
+        "source": "dealabs.com",
+        "date": "2026-07-27T04:07:17Z",
+        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
+        "tension": false
+      }
+    ]
+  },
+  {
     "motCle": "cartables",
     "produitLabel": "Cartables",
     "type": "predefini",
     "categorie": "famille",
-    "score": 69,
+    "score": 55,
     "niveau": "confirme",
     "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Comment réduire la facture des fournitures scolaires en plein été ?",
@@ -372,10 +588,10 @@
     "produitLabel": "Fournitures scolaires",
     "type": "predefini",
     "categorie": "famille",
-    "score": 69,
+    "score": 55,
     "niveau": "confirme",
     "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Comment réduire la facture des fournitures scolaires en plein été ?",
@@ -388,14 +604,74 @@
     ]
   },
   {
+    "motCle": "TV",
+    "produitLabel": "Téléviseurs",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
+        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
+        "source": "dealabs.com",
+        "date": "2026-07-26T19:44:38Z",
+        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "TV",
+    "produitLabel": "Téléviseurs",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "194° - TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
+        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
+        "source": "dealabs.com",
+        "date": "2026-07-27T04:07:17Z",
+        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "billets",
+    "produitLabel": "Billets / places",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "jo-2028-paris",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
+    "articles": [
+      {
+        "titre": "Samuel Vessat s'empare du record de Leslie Djhone sur 400m, Marie-Julie Bonnin décroche son billet pour les Europes... Ce qu'il faut retenir des championnats de France d'athlétisme",
+        "url": "https://www.franceinfo.fr/sports/athletisme/samuel-vessat-s-empare-du-record-de-leslie-djhone-sur-400m-marie-julie-bonnin-decroche-son-billet-pour-les-europes-ce-qu-il-faut-retenir-des-championnats-de-france-d-athletisme_8122922.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-07-26T16:22:49Z",
+        "extrait": "Alors que les championnats d'Europe se dérouleront du 10 au 16 août, les athlètes français se sont disputé le titre national à Albi, entre vendredi et dimanche.",
+        "tension": false
+      }
+    ]
+  },
+  {
     "motCle": "intex de plus de 2",
     "produitLabel": "Intex De Plus De 2",
     "type": "emergent",
     "categorie": "maison",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
@@ -412,10 +688,10 @@
     "produitLabel": "Intex Family",
     "type": "emergent",
     "categorie": "maison",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
@@ -428,54 +704,14 @@
     ]
   },
   {
-    "motCle": "électroménager",
-    "produitLabel": "Électroménager",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 55,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "Séjour 8J/7N pour 4 personnes, Résidence Odalys Côté Canal Sallèles d’Aude - Piscines extérieures, Terrasse - Ex : Du 05/09 au 12/09/2026",
-        "url": "https://www.dealabs.com/bons-plans/sejour-8j7n-pour-4-personnes-residence-odalys-cote-canal-salleles-daude-piscines-exterieures-terrasse-ex-du-0509-au-12092026-3378305",
-        "source": "dealabs.com",
-        "date": "2026-07-19T12:42:02Z",
-        "extrait": "179€ - Veepee Si vous cherchez une semaine de vacances à prix contenu en France, ce séjour Odalys à Sallèles d’Aude est une option intéressante. La résidence e…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "TV 4K",
-    "produitLabel": "TV 4K / OLED",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 54,
-    "niveau": "surveille",
-    "evenementLieId": "cdm-2026-finale",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "149° - Blu-Ray & 4K Ultra HD The Dark Knight",
-        "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-the-dark-knight-master-4k-3378226",
-        "source": "dealabs.com",
-        "date": "2026-07-20T04:00:08Z",
-        "extrait": "14,99€ - Fnac \"The Dark Knight constitue sans nul doute l'épisode le plus emblématique de la trilogie signée Christopher Nolan. L'arrivée du film en Ultra Haut…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "daikin atxc35c arxc35c",
     "produitLabel": "Daikin Atxc35c Arxc35c",
     "type": "emergent",
     "categorie": "maison",
-    "score": 29,
+    "score": 23,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -492,10 +728,10 @@
     "produitLabel": "Daikin Brp069b45 En Option",
     "type": "emergent",
     "categorie": "maison",
-    "score": 29,
+    "score": 23,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -512,10 +748,10 @@
     "produitLabel": "Dyson V8 Advanced",
     "type": "emergent",
     "categorie": "maison",
-    "score": 29,
+    "score": 23,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Aspirateur Dyson V8 Advanced",
@@ -532,10 +768,10 @@
     "produitLabel": "Daikin Atxc35c",
     "type": "emergent",
     "categorie": "maison",
-    "score": 23,
+    "score": 18,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
+    "derniereMaj": "2026-07-27T07:11:21.644260Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -546,32 +782,5 @@
         "tension": true
       }
     ]
-  },
-  {
-    "motCle": "billets",
-    "produitLabel": "Billets / places",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 21,
-    "niveau": "surveille",
-    "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z",
-    "articles": [
-      {
-        "titre": "Coupe du monde 2026 : une nuit de fête en Espagne après la qualification de la Roja en finale",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/15/cette-fois-c-est-pour-de-vrai-nous-sommes-en-finale-en-espagne-une-nuit-de-fete-apres-la-qualification-de-la-roja-en-finale-de-la-coupe-du-monde-2026_6723508_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-07-15T06:33:43Z",
-        "extrait": "Des places de Madrid aux rues de Saragosse, le pays a célébré jusque tard dans la nuit la victoire sur l’équipe de France (2-0) en demi-finales du Mondial. Sei…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "vêtements",
-    "categorie": "famille",
-    "score": 12,
-    "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-07-20T07:07:51.937394Z"
   }
 ]
