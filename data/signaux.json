@@ -1,5 +1,41 @@
 [
   {
+    "motCle": "consoles",
+    "produitLabel": "Consoles de jeux",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Manette GameSir G7 Pro - Xbox Filaire/PC Sans Fil, TMR, 1000Hz, Violet (Vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/manette-gamesir-g7-pro-xbox-filairepc-sans-fil-tmr-1000hz-violet-3389960",
+        "source": "dealabs.com",
+        "date": "2026-08-09T13:07:19Z",
+        "extrait": "85,49€ - Amazon Détails &amp; caractéristiques CONNECTIVITÉ TRI-MODE — XBOX / PC / ANDROID : Filaire pour Xbox, sans fil 2,4G &amp; filaire pour PC, Bluetooth…",
+        "tension": true
+      },
+      {
+        "titre": "Civilization 7 sur Nintendo Switch",
+        "url": "https://www.dealabs.com/bons-plans/civilization-6-switch-3390208",
+        "source": "dealabs.com",
+        "date": "2026-08-09T22:46:58Z",
+        "extrait": "13,69€ - E.Leclerc Excellent prix ! La version Switch 2 est en promo pour 20€ mais c'est un code de téléchargement donc boîte vide. Sid Meier's Civilization VI…",
+        "tension": false
+      },
+      {
+        "titre": "Coque pour Nintendo Switch 2 (vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/coque-nintendo-switch-2-prime-3390182",
+        "source": "dealabs.com",
+        "date": "2026-08-09T20:46:03Z",
+        "extrait": "12,99€ - Amazon Coque de protection pour nintendo switch 2 à moitié prix et de bonne qualité je pense. Attention pas dockable mais rapide à enlever. À propos d…",
+        "tension": false
+      }
+    ]
+  },
+  {
     "motCle": "smartphones",
     "produitLabel": "Smartphones",
     "type": "predefini",
@@ -7,30 +43,122 @@
     "score": 100,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Enceinte Bluetooth JBL Clip 5 - mousqueton intégré, son JBL Pro, basses percutantes, 12 heures d'autonomie",
-        "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-jbl-clip-5-mousqueton-integre-son-jbl-pro-basses-percutantes-12-heures-dautonomie-3386344",
+        "titre": "Passerelle multimédia Apple TV 4K Wi‑FI avec 64 Go de stockage (3e génération, 2022)",
+        "url": "https://www.dealabs.com/bons-plans/passerelle-multimedia-apple-tv-4k-wifi-avec-64-go-de-stockage-3e-generation-2022-3390037",
         "source": "dealabs.com",
-        "date": "2026-08-03T02:16:42Z",
-        "extrait": "34€ - Amazon À propos de cet article Emmenez-la partout : Clipsez-la simplement à votre ceinture, sangle ou boucle et profitez d'un son JBL Pro puissant et des…",
+        "date": "2026-08-09T15:50:45Z",
+        "extrait": "161€ - Amazon Retour au bon prix d'avant l'augmentation de fin juin ! À propos de ce produit 4K Dolby Vision et HDR10+ pour une qualité d’image éclatante Dolby…",
         "tension": true
       },
       {
-        "titre": "Pantalon de randonnée MH500 Quechua - bleu ou noir, taille 38 à 48",
-        "url": "https://www.dealabs.com/bons-plans/pantalon-de-randonnee-mh500-quechua-bleu-ou-noir-taille-38-a-48-3386277",
+        "titre": "Manette GameSir G7 Pro - Xbox Filaire/PC Sans Fil, TMR, 1000Hz, Violet (Vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/manette-gamesir-g7-pro-xbox-filairepc-sans-fil-tmr-1000hz-violet-3389960",
         "source": "dealabs.com",
-        "date": "2026-08-02T19:33:38Z",
-        "extrait": "19,99€ - Decathlon Ce pantalon est équipé pour garder toutes vos affaires personnelles à portée de main. Téléphone, clés, portefeuille... peuvent être rangés d…",
+        "date": "2026-08-09T13:07:19Z",
+        "extrait": "85,49€ - Amazon Détails &amp; caractéristiques CONNECTIVITÉ TRI-MODE — XBOX / PC / ANDROID : Filaire pour Xbox, sans fil 2,4G &amp; filaire pour PC, Bluetooth…",
         "tension": true
       },
       {
-        "titre": "Pantalon de randonnée NH500 Regular Quechua - Marron, Plusieurs tailles disponibles",
-        "url": "https://www.dealabs.com/bons-plans/pantalon-de-randonnee-nh500-regular-quechua-marron-taille-38-a-54-3386371",
+        "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
+        "url": "https://www.dealabs.com/bons-plans/chargeur-secteur-belkin-usb-c-boostcharge-30w-3389665",
         "source": "dealabs.com",
-        "date": "2026-08-03T06:36:19Z",
-        "extrait": "13,99€ - Decathlon Ce pantalon de randonnée est conçu pour vos sorties en plaine, forêt ou littoral. Disponible en deux longueurs, il offre douceur et liberté…",
+        "date": "2026-08-08T18:52:12Z",
+        "extrait": "12,99€ - Amazon DESIGN COMPACT IDÉAL POUR LES DÉPLACEMENTS : doté d'un design à la fois compact et léger, ce chargeur secteur durable de Belkin est l'accessoir…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "électroménager",
+    "produitLabel": "Électroménager",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Lot de 12 Boxers en coton Antonio Rossi - coupe ajustée, taille S à XXL",
+        "url": "https://www.dealabs.com/bons-plans/lot-de-12-boxers-en-coton-antonio-rossi-coupe-ajustee-taille-s-a-xxl-3390041",
+        "source": "dealabs.com",
+        "date": "2026-08-09T15:57:52Z",
+        "extrait": "33,26€ - Amazon RICHE EN COTON : Fabriqué à partir d'un riche mélange de coton, ce boxer pour homme est très doux sur la peau pour un confort tout au long de l…",
+        "tension": false
+      },
+      {
+        "titre": "Lot de 2 sweat à capuche Pier One - Blanc et gris, tailles XS, M ou L",
+        "url": "https://www.dealabs.com/bons-plans/lot-de-2-sweat-a-capuche-pier-one-blanc-et-gris-tailles-xs-m-ou-l-3389918",
+        "source": "dealabs.com",
+        "date": "2026-08-09T11:50:31Z",
+        "extrait": "13,99€ - Zalando Matière et entretien Composition : 60% coton, 28% polyester, 12% viscose Matière : Sweat Conseils d'entretien : Lavage en machine à 30 °C, lav…",
+        "tension": false
+      },
+      {
+        "titre": "Sweat Levi's Col Camionneur Original - Housemark",
+        "url": "https://www.dealabs.com/bons-plans/sweat-levis-col-camionneur-original-housemark-3389914",
+        "source": "dealabs.com",
+        "date": "2026-08-09T11:40:41Z",
+        "extrait": "33€ - Levi's Ce qu’il y a de bien avec un sweat c’est qu’à peine enfilé il offre instantanément un look aussi stylé que chaud. Ce sweat col camionneur Original…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "climatiseurs",
+    "produitLabel": "Climatiseurs portables",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Climatiseur mobile Elsay - 7000 BTU - E.Leclerc Villemur (31) et Atout-Sud (44)",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-mobile-7000-btu-selection-dexperts-elsay-a-159eur-3389626",
+        "source": "dealabs.com",
+        "date": "2026-08-08T18:02:45Z",
+        "extrait": "159€ - E.Leclerc Climatiseur mobile 7000 BTU - Sélection d'Experts - Elsay à 159€ Climatiseur mobile 7000 BTU - Sélection d'Experts - Elsay - Puissance Frigori…",
+        "tension": false
+      },
+      {
+        "titre": "Climatiseur mobile TCL P09F4CW1 - 9000 BTU/h, Classe A, Déshumidificateur, Kit fenêtre & télécommande inclus",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-mobile-3-en-1-tcl-p09f4cw1-9000-btuh-classe-a-deshumidificateur-kit-fenetre-telecommande-inclus-3389592",
+        "source": "dealabs.com",
+        "date": "2026-08-08T15:16:02Z",
+        "extrait": "344,90€ - JoyBuy Description du Produit Le climatiseur portable TCL P09F4CW1 est un climatiseur portable de 9 000 BTU. Il est équipé d'une télécommande et d'un…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "piscines gonflables",
+    "produitLabel": "Piscines gonflables",
+    "type": "predefini",
+    "categorie": "maison",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Robot Piscine sans Fil (via coupon - vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/robot-piscine-sans-fil-3390062",
+        "source": "dealabs.com",
+        "date": "2026-08-09T16:21:22Z",
+        "extrait": "170,99€ - Amazon Robot Piscine sans Fil, Robot aspirateur Piscine sans Fil, 200Min d’Autonomie, Retour Automatique, Filtration Ultra-Fine, Navigation Intellige…",
+        "tension": false
+      },
+      {
+        "titre": "Robot Piscine sans fil Bocxi - Retour Automatique, Filtration Ultra-Fine (Via Coupon - Vendeur Tiers)",
+        "url": "https://www.dealabs.com/bons-plans/robot-piscine-sans-fil-robot-aspirateur-piscine-sans-fil-200min-dautonomie-retour-automatique-filtration-ultra-fine-3389849",
+        "source": "dealabs.com",
+        "date": "2026-08-09T09:11:43Z",
+        "extrait": "170,99€ - Amazon 1. Conception et Performance d'Aspiration Robot sans fil et ultra-léger : Fonctionne sur batterie pour des performances puissantes et constant…",
         "tension": false
       }
     ]
@@ -41,32 +169,32 @@
     "type": "predefini",
     "categorie": "maison",
     "score": 100,
-    "niveau": "confirme",
+    "niveau": "surveille",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Ventilateur de plafond avec lumière 132cm, télécommande, 3 températures de couleurs, 6 vitesses, mode été/hiver",
-        "url": "https://www.dealabs.com/bons-plans/ventilateur-de-plafond-avec-lumiere-132cm-telecommande-bluetooth-3-temperatures-de-couleurs-6-vitesses-mode-etehiver-3385919",
+        "titre": "Purificateur d'air spécial animaux Dreame AP10 - Filtration 5 étapes, Captation poils 99.9%, Écran PM2.5, Perchoir chat",
+        "url": "https://www.dealabs.com/bons-plans/purificateur-dair-special-animaux-dreame-ap10-filtration-5-etapes-captation-poils-999-ecran-pm25-perchoir-chat-3390000",
         "source": "dealabs.com",
-        "date": "2026-08-01T23:36:50Z",
-        "extrait": "54,69€ - AliExpress Fonctionnalités Ceci est un ventilateur éclairé moderne et simple qui utilise des lumières LED de haute qualité et fournit 3 températures d…",
-        "tension": true
-      },
-      {
-        "titre": "Climatiseur Hisense Halo+ - 12000 BTU, R32, Wifi ,CBMR120RG-ATMR120RW, A++ A+",
-        "url": "https://www.dealabs.com/bons-plans/climatiseur-hisense-halo-12000-btu-r32-wifi-cbmr120rg-atmr120rw-a-a-3386267",
-        "source": "dealabs.com",
-        "date": "2026-08-02T19:11:56Z",
-        "extrait": "343,02€ - eBay Description Codes de produit Code d'unité interne: CBMR120RG Code d'unité externe: Atm120rw Classe d'énergie Refroidissement: A ++ Chauffage: A…",
+        "date": "2026-08-09T14:12:57Z",
+        "extrait": "249€ - Boulanger Description Technologie de purification avancée pour un air plus pur Le purificateur d'air DREAME AP10 est spécialement conçu pour les foyers…",
         "tension": false
       },
       {
-        "titre": "Chargeur à Induction INIU, Certifié Qi2 - 15W Charge Rapide sans Fil avec Ventilateur, compatible MagSafe (Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/iniu-chargeur-induction-iphone-certifie-qi2-15w-charge-rapide-sans-fil-avec-ventilateur-compatible-magsafe-3386164",
+        "titre": "Climatiseur mobile TCL P09F4CW1 - 9000 BTU/h, Classe A, Déshumidificateur, Kit fenêtre & télécommande inclus",
+        "url": "https://www.dealabs.com/bons-plans/climatiseur-mobile-3-en-1-tcl-p09f4cw1-9000-btuh-classe-a-deshumidificateur-kit-fenetre-telecommande-inclus-3389592",
         "source": "dealabs.com",
-        "date": "2026-08-02T14:47:23Z",
-        "extrait": "11,50€ - Amazon.es [Charge la plus rapide certifiée Qi2 de 15W] Rechargez votre iPhone 16 Pro jusqu’à 77 % en seulement 1 heure, soit deux fois plus vite que l…",
+        "date": "2026-08-08T15:16:02Z",
+        "extrait": "344,90€ - JoyBuy Description du Produit Le climatiseur portable TCL P09F4CW1 est un climatiseur portable de 9 000 BTU. Il est équipé d'une télécommande et d'un…",
+        "tension": false
+      },
+      {
+        "titre": "Ventilateur sur pied Werka Pro",
+        "url": "https://www.dealabs.com/bons-plans/ventilateur-sur-pied-werka-pro-3389472",
+        "source": "dealabs.com",
+        "date": "2026-08-08T09:15:41Z",
+        "extrait": "19,99€ - Provence Outillage Retrait gratuit en magasin. Le ventilateur sur pied WERKA PRO est conçu pour offrir un confort optimal durant les chaudes journées…",
         "tension": false
       }
     ]
@@ -79,30 +207,30 @@
     "score": 100,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Tour de France Femmes 2026 : Lorena Wiebes remporte la deuxième étape et conserve son maillot jaune",
-        "url": "https://www.lemonde.fr/sport/live/2026/08/02/en-direct-tour-de-france-femmes-2026-suivez-la-deuxieme-etape-entre-aigle-et-geneve_6737294_3242.html",
+        "titre": "La victoire de Demi Vollering au Tour de France consacre le triomphe de « la meilleure cycliste au monde » et d’un collectif dévoué à la quête du maillot jaune",
+        "url": "https://www.lemonde.fr/sport/article/2026/08/10/la-victoire-de-demi-vollering-au-tour-de-france-consacre-le-triomphe-de-la-meilleure-cycliste-au-monde-et-d-un-collectif-devoue-a-la-quete-du-maillot-jaune_6742907_3242.html",
         "source": "lemonde.fr",
-        "date": "2026-08-02T12:15:02Z",
-        "extrait": "Comme lors de la première étape, la Neerlandaise s’est imposée au sprint, dimanche à Genève. Une nouvelle victoire qui lui permet de garder le maillot jaune.",
+        "date": "2026-08-09T22:31:25Z",
+        "extrait": "La Néerlandaise a remporté, dimanche, la deuxième Grande Boucle de sa carrière. Dans une épreuve longtemps indécise, elle a pu compter sur le soutien sans fail…",
         "tension": false
       },
       {
-        "titre": "Tour de France Femmes 2026 : Lorena Wiebes remporte au sprint la première étape et endosse le maillot jaune",
-        "url": "https://www.lemonde.fr/sport/live/2026/08/01/en-direct-tour-de-france-femmes-2026-suivez-la-premiere-etape-a-lausanne-et-sur-les-routes-de-suisse_6737222_3242.html",
+        "titre": "Tour de France Femmes 2026 : le duel entre Demi Vollering et Katarzyna Niewiadoma offre un suspense haletant avant la dernière étape",
+        "url": "https://www.lemonde.fr/sport/article/2026/08/09/tour-de-france-femmes-2026-le-duel-entre-demi-vollering-et-katarzyna-niewiadoma-offre-un-suspense-haletant-avant-la-derniere-etape_6741851_3242.html",
         "source": "lemonde.fr",
-        "date": "2026-08-01T12:10:06Z",
-        "extrait": "La Néerlandaise Lorena Wiebes a pris le meilleur sur ses concurentes au sprint, samedi à Lausanne (Suisse) et remporte la première étape du Tour de France Femm…",
+        "date": "2026-08-09T03:30:04Z",
+        "extrait": "Demi Vollering a repris le maillot jaune à Katarzyna Niewiadoma, en remportant la huitième étape, à la veille de la dernière journée de course, qui a lieu dima…",
         "tension": false
       },
       {
-        "titre": "Lorena Wiebes survole le début du Tour de France, Arthur Gea s'offre un premier titre, grosse frayeur pour Sébastien Ogier... Le récap sport du week-end",
-        "url": "https://www.franceinfo.fr/sports/lorena-wiebes-survole-le-debut-du-tour-de-france-arthur-gea-s-offre-un-premier-titre-grosse-frayeur-pour-sebastien-ogier-le-recap-sport-du-week-end_8132006.html#xtor=RSS-3-%5Bgeneral%5D",
-        "source": "francetvinfo.fr",
-        "date": "2026-08-03T03:30:01Z",
-        "extrait": "La Néerlandaise a remporté au sprint les deux premières étapes de la Grande Boucle et a endossé le maillot jaune.",
+        "titre": "Tour de France Femmes 2026 : Demi Vollering s’impose à Nice et prend le maillot jaune avant la dernière étape",
+        "url": "https://www.lemonde.fr/sport/live/2026/08/08/en-direct-tour-de-france-femmes-2026-suivez-la-huitieme-etape-entre-sisteron-et-nice_6741361_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-08-08T11:35:02Z",
+        "extrait": "Grâce à une attaque pleine d’audace à six kilomètres de l’arrivée, la coureuse néerlandaise de la formation FDJ United-Suez s’est adjugée la septième étape à N…",
         "tension": false
       }
     ]
@@ -113,60 +241,24 @@
     "type": "predefini",
     "categorie": "retail",
     "score": 100,
-    "niveau": "confirme",
+    "niveau": "surveille",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Baskets DC Shoes Ascend - cuir et nubuck, semelle IMPACT-ALG, amorti renforcé, plusieurs coloris, tailles 38 à 46.5",
-        "url": "https://www.dealabs.com/bons-plans/baskets-dc-shoes-ascend-cuir-et-nubuck-semelle-impact-alg-amorti-renforce-plusieurs-coloris-tailles-38-a-465-3386319",
+        "titre": "Pantalon chino Jack Jones",
+        "url": "https://www.dealabs.com/bons-plans/pantalon-chino-jack-jones-3389920",
         "source": "dealabs.com",
-        "date": "2026-08-02T22:31:52Z",
-        "extrait": "36,62€ - DC Shoes Baskets DC Shoes Ascend avec un style skate assez marqué, mais qui reste facile à porter tous les jours. Le design est plutôt massif avec pas…",
-        "tension": true
-      },
-      {
-        "titre": "Parka courte waterproof à capuche Jules - Noir ou vert clair, taille S à XXL",
-        "url": "https://www.dealabs.com/bons-plans/parka-courte-waterproof-a-capuche-jules-noir-ou-vert-clair-taille-s-a-xxl-3385886",
-        "source": "dealabs.com",
-        "date": "2026-08-01T21:56:59Z",
-        "extrait": "30€ - Jules Découvrez la parka courte à capuche Jules, idéale pour affronter les intempéries avec style. Cette veste imperméable est dotée d'une fermeture zipp…",
+        "date": "2026-08-09T11:50:22Z",
+        "extrait": "12€ - Modz Pantalon chino homme Jack &amp; Jones de couleur bleu, une pièce polyvalente et facile à intégrer dans une garde-robe quotidienne. Son style chino a…",
         "tension": false
       },
       {
-        "titre": "Baskets New Balance 1906 Alkaline Green & Blue Bird",
-        "url": "https://www.dealabs.com/bons-plans/new-balance-1906-sneaker-alkaline-green-blue-bird-3386197",
+        "titre": "10 paires de chaussettes courtes en coton Effeet (vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/10-paires-de-chaussettes-courtes-femme-en-coton-colorees-et-respirantes-motifs-amusants-3389620",
         "source": "dealabs.com",
-        "date": "2026-08-02T15:59:38Z",
-        "extrait": "81€ - END. Clothing La sneaker New Balance 1906R allie confort high-tech et style classique. Et si vous aimez les couleurs fluo, ce modèle est fait pour vous.…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "high-tech",
-    "produitLabel": "High-tech",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
-    "articles": [
-      {
-        "titre": "Enceinte Bluetooth JBL Clip 5 - mousqueton intégré, son JBL Pro, basses percutantes, 12 heures d'autonomie",
-        "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-jbl-clip-5-mousqueton-integre-son-jbl-pro-basses-percutantes-12-heures-dautonomie-3386344",
-        "source": "dealabs.com",
-        "date": "2026-08-03T02:16:42Z",
-        "extrait": "34€ - Amazon À propos de cet article Emmenez-la partout : Clipsez-la simplement à votre ceinture, sangle ou boucle et profitez d'un son JBL Pro puissant et des…",
-        "tension": true
-      },
-      {
-        "titre": "Baskets New Balance 1906 Alkaline Green & Blue Bird",
-        "url": "https://www.dealabs.com/bons-plans/new-balance-1906-sneaker-alkaline-green-blue-bird-3386197",
-        "source": "dealabs.com",
-        "date": "2026-08-02T15:59:38Z",
-        "extrait": "81€ - END. Clothing La sneaker New Balance 1906R allie confort high-tech et style classique. Et si vous aimez les couleurs fluo, ce modèle est fait pour vous.…",
+        "date": "2026-08-08T17:00:08Z",
+        "extrait": "9,99€ - Amazon Ajoutez une touche de couleur et d’originalité à vos tenues avec ce lot de 10 paires de chaussettes courtes pour femme. Conçues principalement e…",
         "tension": false
       }
     ]
@@ -179,58 +271,250 @@
     "score": 100,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Sécateur électrique sans fil Parkside PAGS 4 A1 Lithium 4V (4Ah)",
-        "url": "https://www.dealabs.com/bons-plans/parkside-secateur-electrique-sans-fil-pags-4-a1-lithium-4v-4ah-3385622",
+        "titre": "Lego Editions 43014 Scuderia Ferrari HP Casque de Charles Leclerc (kingdultes.com)",
+        "url": "https://www.dealabs.com/bons-plans/lego-editions-43014-scuderia-ferrari-hp-casque-de-charles-leclerc-3389490",
         "source": "dealabs.com",
-        "date": "2026-08-01T10:33:35Z",
-        "extrait": "17,99€ - Lidl Description Longueur de coupe: maximum 14 mm PARKSIDE® Sécateur électrique sans fil PAGS 4 A1, 4 V Dites adieu à la fatigue de la main lors de vo…",
+        "date": "2026-08-08T09:57:41Z",
+        "extrait": "63€ À 89.99 € chez LEGO Et 10% de vos achats crédités sur votre compte avec le programme de fidélité, pour de futurs achats Description : L'imagination s’enfla…",
         "tension": true
       },
       {
-        "titre": "Visseuse à chocs brushless Parkside Performance PPDSSA 20-Li B2 20V (machine seule)",
-        "url": "https://www.dealabs.com/bons-plans/visseuse-a-chocs-brushless-parkside-performance-ppdssa-20-li-b2-20v-machine-seule-3386317",
+        "titre": "Manette GameSir G7 Pro - Xbox Filaire/PC Sans Fil, TMR, 1000Hz, Violet (Vendeur tiers)",
+        "url": "https://www.dealabs.com/bons-plans/manette-gamesir-g7-pro-xbox-filairepc-sans-fil-tmr-1000hz-violet-3389960",
         "source": "dealabs.com",
-        "date": "2026-08-02T22:19:08Z",
-        "extrait": "34,99€ - Lidl Desserrez les écrous les plus tenaces et montez vos roues de voiture en un temps record. Avec un couple impressionnant de 600 Nm, cette boulonneu…",
+        "date": "2026-08-09T13:07:19Z",
+        "extrait": "85,49€ - Amazon Détails &amp; caractéristiques CONNECTIVITÉ TRI-MODE — XBOX / PC / ANDROID : Filaire pour Xbox, sans fil 2,4G &amp; filaire pour PC, Bluetooth…",
         "tension": true
       },
       {
-        "titre": "Trancheur et râpes à légumes KitchenAid (5KSMVSA)",
-        "url": "https://www.dealabs.com/bons-plans/kitchenaid-accessoire-5ksmvsa-trancheur-et-rapes-a-legumes-3385946",
+        "titre": "Garage pour robot tondeuse Parkside PUMRG A1",
+        "url": "https://www.dealabs.com/bons-plans/garage-pour-robot-tondeuse-parkside-3390003",
         "source": "dealabs.com",
-        "date": "2026-08-02T06:07:07Z",
-        "extrait": "48,47€ - Amazon Trois lames pour tout réaliser Fourni avec 3 cylindres en acier inoxydable pour trancher (3mm), râper gros (6mm) et râper fin (4mm). Conçu pour…",
+        "date": "2026-08-09T14:19:44Z",
+        "extrait": "20€ - Lidl Accès total : Toit relevable pour une programmation rapide et aisée. Installation éclair : Livré avec 6 vis de fixation et sa clé Allen pour un mont…",
         "tension": false
       }
     ]
   },
   {
-    "motCle": "consoles",
-    "produitLabel": "Consoles de jeux",
-    "type": "predefini",
+    "motCle": "samsung exynos 2600 10 coeurs",
+    "produitLabel": "Samsung Exynos 2600 10 Coeurs",
+    "type": "emergent",
     "categorie": "retail",
-    "score": 80,
-    "niveau": "surveille",
+    "score": 74,
+    "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Days Gone Remastered sur PS5 (Dématérialisé)",
-        "url": "https://www.dealabs.com/bons-plans/days-gone-remastered-sur-ps5-dematerialise-3382424",
+        "titre": "Smartphone 6.3\" Samsung S26 - 256 Go",
+        "url": "https://www.dealabs.com/bons-plans/samsung-s26-noir-3389969",
         "source": "dealabs.com",
-        "date": "2026-07-27T00:33:06Z",
-        "extrait": "19,99€ - PlayStation Store Offre sur le PSN. Progressez à travers un monde désolé et sans merci dans l'expérience définitive de Days Gone, repensé pour la cons…",
-        "tension": false
-      },
+        "date": "2026-08-09T13:19:24Z",
+        "extrait": "649€ - Alternate Description du produit Cet article est un produit destiné au marché européen. Il peut différer des produits allemands originaux sur les points…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung s26",
+    "produitLabel": "Samsung S26",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
       {
-        "titre": "Spider-Man 2 sur PS5 (via avantage immédiat avec la carte)",
-        "url": "https://www.dealabs.com/bons-plans/spider-man-2-ps5-3382393",
+        "titre": "Smartphone 6.3\" Samsung S26 - 256 Go",
+        "url": "https://www.dealabs.com/bons-plans/samsung-s26-noir-3389969",
         "source": "dealabs.com",
-        "date": "2026-07-26T22:08:30Z",
-        "extrait": "32,13€ - E.Leclerc Le nouveau jeu de la série Marvel’s Spider-Man, à venir sur consoles PlayStation®5. Les deux Spider-Man, Peter Parker et Miles Morales, sont…",
+        "date": "2026-08-09T13:19:24Z",
+        "extrait": "649€ - Alternate Description du produit Cet article est un produit destiné au marché européen. Il peut différer des produits allemands originaux sur les points…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "qlima qsplit mini",
+    "produitLabel": "Qlima Qsplit Mini",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Mini climatiseur Qlima Qsplit pour caravane et camping-car - 1,46 kW, 5000 BTU",
+        "url": "https://www.dealabs.com/bons-plans/qlima-qsplit-mini-climatiseur-pour-caravane-et-camping-car-146-kw-5000-btu-3390237",
+        "source": "dealabs.com",
+        "date": "2026-08-10T05:21:47Z",
+        "extrait": "599,99€ - JoyBuy Présentation Le Qlima Qsplit Mini est un climatiseur split réversible conçu pour assurer le refroidissement et le chauffage de votre intérieur…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "qlima qsplit pour caravane",
+    "produitLabel": "Qlima Qsplit Pour Caravane",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Mini climatiseur Qlima Qsplit pour caravane et camping-car - 1,46 kW, 5000 BTU",
+        "url": "https://www.dealabs.com/bons-plans/qlima-qsplit-mini-climatiseur-pour-caravane-et-camping-car-146-kw-5000-btu-3390237",
+        "source": "dealabs.com",
+        "date": "2026-08-10T05:21:47Z",
+        "extrait": "599,99€ - JoyBuy Présentation Le Qlima Qsplit Mini est un climatiseur split réversible conçu pour assurer le refroidissement et le chauffage de votre intérieur…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung s24",
+    "produitLabel": "Samsung S24",
+    "type": "emergent",
+    "categorie": "maison",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "canicule-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Sélection de 65 articles Amazon en promotion - Ex : Glacière Ninja FrostVault 42 L",
+        "url": "https://www.dealabs.com/bons-plans/selection-de-65-articles-amazon-en-promotion-ex-lg-ultragear-oled-32gs95uv-w-32-240hz-4k-3840x2160-003-ms-3389844",
+        "source": "dealabs.com",
+        "date": "2026-08-09T09:00:23Z",
+        "extrait": "158,18€ - Amazon Grosse sélection Amazon du week-end, avec en tête le LG UltraGear 32GS95UV 32\" OLED 4K 240Hz à 692,76€, soit environ 190€ sous le meilleur pri…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung et iphone est certifie",
+    "produitLabel": "Samsung Et Iphone Est Certifie",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
+        "url": "https://www.dealabs.com/bons-plans/chargeur-secteur-belkin-usb-c-boostcharge-30w-3389665",
+        "source": "dealabs.com",
+        "date": "2026-08-08T18:52:12Z",
+        "extrait": "12,99€ - Amazon DESIGN COMPACT IDÉAL POUR LES DÉPLACEMENTS : doté d'un design à la fois compact et léger, ce chargeur secteur durable de Belkin est l'accessoir…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung galaxy s24",
+    "produitLabel": "Samsung Galaxy S24",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
+        "url": "https://www.dealabs.com/bons-plans/chargeur-secteur-belkin-usb-c-boostcharge-30w-3389665",
+        "source": "dealabs.com",
+        "date": "2026-08-08T18:52:12Z",
+        "extrait": "12,99€ - Amazon DESIGN COMPACT IDÉAL POUR LES DÉPLACEMENTS : doté d'un design à la fois compact et léger, ce chargeur secteur durable de Belkin est l'accessoir…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung galaxy s25",
+    "produitLabel": "Samsung Galaxy S25",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
+        "url": "https://www.dealabs.com/bons-plans/chargeur-secteur-belkin-usb-c-boostcharge-30w-3389665",
+        "source": "dealabs.com",
+        "date": "2026-08-08T18:52:12Z",
+        "extrait": "12,99€ - Amazon DESIGN COMPACT IDÉAL POUR LES DÉPLACEMENTS : doté d'un design à la fois compact et léger, ce chargeur secteur durable de Belkin est l'accessoir…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "TV",
+    "produitLabel": "Téléviseurs",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 69,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Passerelle multimédia Apple TV 4K Wi‑FI avec 64 Go de stockage (3e génération, 2022)",
+        "url": "https://www.dealabs.com/bons-plans/passerelle-multimedia-apple-tv-4k-wifi-avec-64-go-de-stockage-3e-generation-2022-3390037",
+        "source": "dealabs.com",
+        "date": "2026-08-09T15:50:45Z",
+        "extrait": "161€ - Amazon Retour au bon prix d'avant l'augmentation de fin juin ! À propos de ce produit 4K Dolby Vision et HDR10+ pour une qualité d’image éclatante Dolby…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "high-tech",
+    "produitLabel": "High-tech",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 69,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
+        "url": "https://www.dealabs.com/bons-plans/chargeur-secteur-belkin-usb-c-boostcharge-30w-3389665",
+        "source": "dealabs.com",
+        "date": "2026-08-08T18:52:12Z",
+        "extrait": "12,99€ - Amazon DESIGN COMPACT IDÉAL POUR LES DÉPLACEMENTS : doté d'un design à la fois compact et léger, ce chargeur secteur durable de Belkin est l'accessoir…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung 60w ep-t6010n usb-c sans",
+    "produitLabel": "Samsung 60w Ep-t6010n Usb-c Sans",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
+    "articles": [
+      {
+        "titre": "[Edenred/Bourso/The Corner/Ulys] Chargeur secteur Samsung 60W EP-T6010N USB-C sans câble (via ODR de 20€)",
+        "url": "https://www.dealabs.com/bons-plans/edenredboursothe-cornerulys-chargeur-secteur-samsung-60w-ep-t6010n-usb-c-sans-cable-via-odr-de-20eur-3390193",
+        "source": "dealabs.com",
+        "date": "2026-08-09T21:23:32Z",
+        "extrait": "14,15€ - Samsung Offre valable chez Edenred pour ma part et sûrement aussi comme souvent chez les autres partenaires dont je vous laisse vérifier la viabilité…",
         "tension": false
       }
     ]
@@ -240,10 +524,10 @@
     "produitLabel": "Bosch Aerotwin Avant 650",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Sélection de 35 articles Amazon en promotion - Ex : Abri de jardin Keter Darwin, Coupe-bordures Worx, Bordure de jardin Vounot",
@@ -260,10 +544,10 @@
     "produitLabel": "Bosch Professional 18v System",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Sélection de 35 articles Amazon en promotion - Ex : Abri de jardin Keter Darwin, Coupe-bordures Worx, Bordure de jardin Vounot",
@@ -280,10 +564,10 @@
     "produitLabel": "Bosch Professional Gba 18 V",
     "type": "emergent",
     "categorie": "maison",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Sélection de 35 articles Amazon en promotion - Ex : Abri de jardin Keter Darwin, Coupe-bordures Worx, Bordure de jardin Vounot",
@@ -296,85 +580,21 @@
     ]
   },
   {
-    "motCle": "électroménager",
-    "produitLabel": "Électroménager",
+    "motCle": "TV",
+    "produitLabel": "Téléviseurs",
     "type": "predefini",
-    "categorie": "retail",
-    "score": 69,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "categorie": "sport",
+    "score": 54,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
-        "titre": "Station d'énergie portable électrique Anker Solix C300X AC - Batterie 288 Wh, générateur solaire 2x (600W Max)",
-        "url": "https://www.dealabs.com/bons-plans/station-denergie-portable-electrique-anker-solix-c300x-ac-avec-sangle-depaule-batterie-288-wh-generateur-solaire-2x-600w-max-3385474",
-        "source": "dealabs.com",
-        "date": "2026-08-01T07:10:54Z",
-        "extrait": "171,17€ - AliExpress station d’énergie portable Anker SOLIX C300X AC est un modèle compact et ultra-nomade, idéal pour le camping, les voyages ou comme aliment…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "climatiseurs",
-    "produitLabel": "Climatiseurs portables",
-    "type": "predefini",
-    "categorie": "maison",
-    "score": 64,
-    "niveau": "confirme",
-    "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
-    "articles": [
-      {
-        "titre": "Climatiseur mobile et déshumidificateur Beko BP209H 9000 BTU/h Classe A (via coupon)",
-        "url": "https://www.dealabs.com/bons-plans/beko-bp209h-climatiseur-mobile-et-deshumidificateur-9000-btuh-classe-a-via-coupon-3377868",
-        "source": "dealabs.com",
-        "date": "2026-07-18T13:12:55Z",
-        "extrait": "449,99€ - JoyBuy Le Beko BP209H est un climatiseur mobile local performant et polyvalent, idéal pour traverser les vagues de chaleur en maintenant une températ…",
-        "tension": true
-      },
-      {
-        "titre": "Climatiseur Portable Olimpia Dolceclima Compact 8 SW 8000 BTU/h Classe A",
-        "url": "https://www.dealabs.com/bons-plans/olimpia-dolceclima-compact-8-sw-climatiseur-portable-8000-btuh-classe-a-3377862",
-        "source": "dealabs.com",
-        "date": "2026-07-18T13:07:32Z",
-        "extrait": "399€ - JoyBuy Le Olimpia Dolceclima Compact 8 SW est un climatiseur mobile monobloc compact et pratique, idéal pour rafraîchir les petites et moyennes surfaces…",
-        "tension": true
-      },
-      {
-        "titre": "Climatiseur Mobile Voltomat 9000 BTU - Houilles (78)",
-        "url": "https://www.dealabs.com/bons-plans/climatiseur-mobile-9000-btu-voltomat-3378183",
-        "source": "dealabs.com",
-        "date": "2026-07-19T09:25:45Z",
-        "extrait": "699€ - Auchan Climatiseur, mobile de la marque VOLTOMAT, 9000 BTU, disponible à Auchan, houilles en 78 au prix de 699 €",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "piscines gonflables",
-    "produitLabel": "Piscines gonflables",
-    "type": "predefini",
-    "categorie": "maison",
-    "score": 64,
-    "niveau": "confirme",
-    "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
-    "articles": [
-      {
-        "titre": "8 Dalles de protection mousse piscine Intex",
-        "url": "https://www.dealabs.com/bons-plans/8-dalles-de-protection-mousse-piscine-intex-3378048",
-        "source": "dealabs.com",
-        "date": "2026-07-18T20:52:24Z",
-        "extrait": "4€ - Intex Idéal pour protéger le fond de votre bassin Intex Les dalles de protection en mousse Intex sont des accessoires indispensables pour protéger le fond…",
-        "tension": true
-      },
-      {
-        "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
-        "url": "https://www.dealabs.com/bons-plans/piscine-rectangulaires-gonflable-intex-262-x-175-x-56-cm-3378141",
-        "source": "dealabs.com",
-        "date": "2026-07-19T07:35:15Z",
-        "extrait": "14,98€ - Amazon Bon prix Action , gifi ~18€ Marque Intex Couleur Couleurs Assorties Dimensions du produit 2,62L x 1,75l x 0,56H mètres Forme Carrée Matériau Pl…",
+        "titre": "Athlétisme : un guide pour lutter contre les cadrages sexistes",
+        "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/athletisme-un-guide-pour-lutter-contre-les-cadrages-sexistes_8138396.html#xtor=RSS-3-%5Bgeneral%5D",
+        "source": "francetvinfo.fr",
+        "date": "2026-08-10T06:00:01Z",
+        "extrait": "Avant les championnats d'Europe qui débutent lundi 10 août, la Fédération européenne d’athlétisme publie un guide pour éviter les cadrages suggestifs à la télé…",
         "tension": false
       }
     ]
@@ -384,10 +604,10 @@
     "produitLabel": "Transports",
     "type": "predefini",
     "categorie": "sport",
-    "score": 64,
+    "score": 51,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "114° - Boîte à outils Foxter - 41,5x22,6x20 cm",
@@ -420,10 +640,10 @@
     "produitLabel": "Philips Sneaker Cleaner",
     "type": "emergent",
     "categorie": "retail",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
@@ -440,10 +660,10 @@
     "produitLabel": "Samsung 8kg Ecobubble",
     "type": "emergent",
     "categorie": "maison",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Lave-Linge Hublot Samsung Ecobubble - 8 Kg, Blanc Ou Noir",
@@ -460,10 +680,10 @@
     "produitLabel": "Samsung Ecobubble",
     "type": "emergent",
     "categorie": "maison",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Lave-Linge Hublot Samsung Ecobubble - 8 Kg, Blanc Ou Noir",
@@ -480,10 +700,10 @@
     "produitLabel": "Samsung Peuvent Laver A Froid",
     "type": "emergent",
     "categorie": "maison",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Lave-Linge Hublot Samsung Ecobubble - 8 Kg, Blanc Ou Noir",
@@ -500,10 +720,10 @@
     "produitLabel": "Philips Sneaker Cleaner",
     "type": "emergent",
     "categorie": "retail",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
@@ -520,10 +740,10 @@
     "produitLabel": "Billets / places",
     "type": "predefini",
     "categorie": "sport",
-    "score": 54,
+    "score": 43,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "241° - Jusqu'à 140€ offerts en ticket E.Leclerc pour l'achat de pneus Goodyear - Ex : 35€ offerts par pneu de 20\" et plus",
@@ -540,10 +760,10 @@
     "produitLabel": "Intex Sont Des Accessoires Indispensables",
     "type": "emergent",
     "categorie": "maison",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "8 Dalles de protection mousse piscine Intex",
@@ -560,10 +780,10 @@
     "produitLabel": "Tcl 65p8k",
     "type": "emergent",
     "categorie": "sport",
-    "score": 47,
+    "score": 37,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "194° - TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
@@ -580,10 +800,10 @@
     "produitLabel": "Cartables",
     "type": "predefini",
     "categorie": "famille",
-    "score": 44,
+    "score": 35,
     "niveau": "confirme",
     "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Comment réduire la facture des fournitures scolaires en plein été ?",
@@ -600,10 +820,10 @@
     "produitLabel": "Fournitures scolaires",
     "type": "predefini",
     "categorie": "famille",
-    "score": 44,
+    "score": 35,
     "niveau": "confirme",
     "evenementLieId": "rentree-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Comment réduire la facture des fournitures scolaires en plein été ?",
@@ -616,54 +836,14 @@
     ]
   },
   {
-    "motCle": "TV",
-    "produitLabel": "Téléviseurs",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 43,
-    "niveau": "surveille",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
-    "articles": [
-      {
-        "titre": "TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
-        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
-        "source": "dealabs.com",
-        "date": "2026-07-26T19:44:38Z",
-        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "TV",
-    "produitLabel": "Téléviseurs",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 43,
-    "niveau": "surveille",
-    "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
-    "articles": [
-      {
-        "titre": "194° - TV 65\" TCL 65P8K - QLED, 4K, 144Hz, Google TV, 4xHDMI 2.1, WiFi, Dolby Vision, Son Onkyo 35W, Caisson de Basse Intégré",
-        "url": "https://www.dealabs.com/bons-plans/tv-led-tcl-qled-65p8k-164-cm-2025-via-coupon-de-50-euros-3382353",
-        "source": "dealabs.com",
-        "date": "2026-07-27T04:07:17Z",
-        "extrait": "499,99€ - JoyBuy Le TCL 65P8K (gamme 2025) est un téléviseur 65 pouces basé sur une dalle VA QLED avec rétroéclairage Direct LED sans gradation locale. Spécifi…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "intex de plus de 2",
     "produitLabel": "Intex De Plus De 2",
     "type": "emergent",
     "categorie": "maison",
-    "score": 37,
+    "score": 29,
     "niveau": "surveille",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
@@ -680,10 +860,10 @@
     "produitLabel": "Intex Family",
     "type": "emergent",
     "categorie": "maison",
-    "score": 37,
+    "score": 29,
     "niveau": "surveille",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Piscine Rectangulaires Gonflable Intex - 262x175x56cm",
@@ -700,10 +880,10 @@
     "produitLabel": "Daikin Atxc35c Arxc35c",
     "type": "emergent",
     "categorie": "maison",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -720,10 +900,10 @@
     "produitLabel": "Daikin Brp069b45 En Option",
     "type": "emergent",
     "categorie": "maison",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
@@ -740,10 +920,10 @@
     "produitLabel": "Dyson V8 Advanced",
     "type": "emergent",
     "categorie": "maison",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Aspirateur Dyson V8 Advanced",
@@ -760,10 +940,10 @@
     "produitLabel": "Daikin Atxc35c",
     "type": "emergent",
     "categorie": "maison",
-    "score": 14,
+    "score": 11,
     "niveau": "confirme",
     "evenementLieId": "canicule-2026",
-    "derniereMaj": "2026-08-03T07:10:54.094983Z",
+    "derniereMaj": "2026-08-10T06:30:45.190513Z",
     "articles": [
       {
         "titre": "Climatiseur réversible Daikin ATXC35C / ARXC35C 12000 BTU (3,5 kW) Inverter R32 A++/A+ Wi-Fi Ready (Dagimarket)",
