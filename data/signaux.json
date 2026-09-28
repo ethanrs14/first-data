@@ -5,32 +5,60 @@
     "type": "predefini",
     "categorie": "retail",
     "score": 100,
-    "niveau": "confirme",
+    "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
-        "titre": "2J/1N pour 2 pers au Luxembourg à l' Hôtel Melià Luxembourg 4* - petit déj et diner inclu, Entrée au musée Mudam ex: du 01 au 02 Juin",
-        "url": "https://www.dealabs.com/bons-plans/2j1n-pour-2-pers-au-luxembourg-a-l-hotel-melia-luxembourg-4-petit-dej-et-diner-inclu-entree-au-musee-mudam-ex-du-01-au-02-juin-3416155",
+        "titre": "TV 55\" LG OLED55G6 (2026) - OLED Evo AI, 4K UHD, 139cm, 120 Hz, Dolby Vision, Wi-Fi, Bluetooth, AirPlay 2 (via ODR de 100€)",
+        "url": "https://www.dealabs.com/bons-plans/tv-55-lg-oled55g6-2026-oled-evo-ai-4k-uhd-139cm-120-hz-dolby-vision-wi-fi-bluetooth-airplay-2-via-odr-de-100eur-3420692",
         "source": "dealabs.com",
-        "date": "2026-09-20T15:53:20Z",
-        "extrait": "78€ - Showroomprivé Résumé Meliá Luxembourg (4*) Chambre double classique + Petit-déjeuner + Dîner + Visite de musée + Bouteille incluse + Accès à l'espace dét…",
-        "tension": true
-      },
-      {
-        "titre": "TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
-        "url": "https://www.dealabs.com/bons-plans/tv-philips-qled-75pus7810-75-4k-3416236",
-        "source": "dealabs.com",
-        "date": "2026-09-20T18:17:31Z",
-        "extrait": "594€ - PcComponentes TV Philips QLED 75PUS7810 75\" 4K UltraHD 60Hz Smart TV Titan OS HDR10+ Dolby Atmos Grand écran au design minimaliste, couleurs vives et co…",
+        "date": "2026-09-27T20:28:06Z",
+        "extrait": "1 479€ - Easylounge Prix sympa pour cette TV 55\" LG OLED55G6 (2026) - OLED Evo AI, 4K UHD, 139cm, 120 Hz, Dolby Vision, Wi-Fi, Bluetooth, AirPlay 2. (y) Lien O…",
         "tension": false
       },
       {
-        "titre": "TV 50\" Mini LED Samsung TU50M74H 2026 - 4K, 60 Hz, Mini LED HDR Smart TV",
-        "url": "https://www.dealabs.com/bons-plans/tv-50-mini-led-samsung-tu50m74h-2026-4k-60-hz-mini-led-hdr-smart-tv-3415532",
+        "titre": "TV 40'' Hisense QLED FHD 40A5S - 100 cm",
+        "url": "https://www.dealabs.com/bons-plans/tv-40-hisense-qled-hd-100-cm-40a5s-3420614",
         "source": "dealabs.com",
-        "date": "2026-09-19T11:37:33Z",
-        "extrait": "349,99€ - JoyBuy Le Samsung M74H est un téléviseur Mini LED 4K de 50 pouces affichant une résolution de 3 840 × 2 160 pixels. Il associe le processeur Mini LED…",
+        "date": "2026-09-27T16:59:08Z",
+        "extrait": "209,99€ - Carrefour TV QLED HD 40 pouces (100 cm) Hisense 40A5S Cette TV Hisense 40A5S propose une diagonale de 40 pouces, soit environ 100 cm, dans un format…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "consoles",
+    "produitLabel": "Consoles de jeux",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "Manette sans fil Turtle Beach Rematch Donkey Kong sous licence officielle de Nintendo Switch",
+        "url": "https://www.dealabs.com/bons-plans/turtle-beach-rematch-donkey-kong-manette-sans-fil-sous-licence-officielle-de-nintendo-wlenticulaire-bouton-c-indisponible-pour-switch-12-3420700",
+        "source": "dealabs.com",
+        "date": "2026-09-27T20:49:53Z",
+        "extrait": "29,99€ - Amazon Améliorez votre jeu avec la manette sans fil Rematch inspirée de Donkey Kong™ sur Nintendo Switch™, Nintendo Switch™ Lite et Nintendo Switch™ –…",
+        "tension": true
+      },
+      {
+        "titre": "Battlefield 6 sur PS5 et Xbox Series X",
+        "url": "https://www.dealabs.com/bons-plans/battlefield-6-sur-ps5-et-xbox-series-x-3420721",
+        "source": "dealabs.com",
+        "date": "2026-09-27T22:20:39Z",
+        "extrait": "28,64€ - E.Leclerc Xbox Series X LE NOUVEAU STANDARD DU JEU DE TIR À LA PREMIÈRE PERSONNE: Avec un système de combat armé repensé et des mouvements tactiques v…",
+        "tension": true
+      },
+      {
+        "titre": "Split Fiction sur PS5 & Xbox Series X",
+        "url": "https://www.dealabs.com/bons-plans/split-fiction-sur-ps5-3420718",
+        "source": "dealabs.com",
+        "date": "2026-09-27T22:01:21Z",
+        "extrait": "27,81€ - E.Leclerc Offres chez Leclerc. Livraison en magasin offerte. Vivez des moments inoubliables en explorant les nombreux mondes de Split Fiction, un pass…",
         "tension": false
       }
     ]
@@ -43,30 +71,166 @@
     "score": 100,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
-        "titre": "Smartphone Xiaomi Redmi Note 15 Pro Plus 5G - 12 Go Ram, 512 Go, NFC Batterie 6500 mAh, Charge Hyper Rapide 100W",
-        "url": "https://www.dealabs.com/bons-plans/smartphone-xiaomi-redmi-note-15-pro-plus-5g-12-go-512-go-nfc-batterie-6500-mah-charge-hyper-rapide-100-w-3415792",
+        "titre": "Battlefield 6 sur PS5 et Xbox Series X",
+        "url": "https://www.dealabs.com/bons-plans/battlefield-6-sur-ps5-et-xbox-series-x-3420721",
         "source": "dealabs.com",
-        "date": "2026-09-19T19:23:05Z",
-        "extrait": "295,20€ - AliExpress Xiaomi HyperCharge 100W Batterie 6500mAh longue autonomie. Résistance eau et poussière IP68 Verre renforcé Corning® Gorilla® Glass Victus™…",
+        "date": "2026-09-27T22:20:39Z",
+        "extrait": "28,64€ - E.Leclerc Xbox Series X LE NOUVEAU STANDARD DU JEU DE TIR À LA PREMIÈRE PERSONNE: Avec un système de combat armé repensé et des mouvements tactiques v…",
         "tension": true
       },
       {
-        "titre": "SUV Geely Starray Pro EM-i - Hybride rechargeable 262 ch, batterie 18,4 kWh, boîte automatique, garantie 8 ans",
-        "url": "https://www.dealabs.com/bons-plans/suv-geely-starray-pro-em-i-hybride-rechargeable-262-ch-batterie-184-kwh-boite-automatique-garantie-8-ans-3416242",
+        "titre": "Smartphone 6,3\" Google Pixel 10 - RAM 12 Go, 128 Go",
+        "url": "https://www.dealabs.com/bons-plans/pixel-10-google-3420709",
         "source": "dealabs.com",
-        "date": "2026-09-20T18:51:27Z",
-        "extrait": "27 370€ - LMDA Si vous cherchez un SUV hybride rechargeable neuf avec une dotation complète, ce Geely Starray Pro EM-i 2026 est proposé sur commande. Il dévelo…",
+        "date": "2026-09-27T21:37:08Z",
+        "extrait": "591€ - Google Store Promotion chez GOOGLE avec le code promo GBDAY2026 Pour fêter son anniversaire sur le Google Store , Google propose une remise de 20 % sur…",
+        "tension": false
+      },
+      {
+        "titre": "TV 55\" LG OLED55G6 (2026) - OLED Evo AI, 4K UHD, 139cm, 120 Hz, Dolby Vision, Wi-Fi, Bluetooth, AirPlay 2 (via ODR de 100€)",
+        "url": "https://www.dealabs.com/bons-plans/tv-55-lg-oled55g6-2026-oled-evo-ai-4k-uhd-139cm-120-hz-dolby-vision-wi-fi-bluetooth-airplay-2-via-odr-de-100eur-3420692",
+        "source": "dealabs.com",
+        "date": "2026-09-27T20:28:06Z",
+        "extrait": "1 479€ - Easylounge Prix sympa pour cette TV 55\" LG OLED55G6 (2026) - OLED Evo AI, 4K UHD, 139cm, 120 Hz, Dolby Vision, Wi-Fi, Bluetooth, AirPlay 2. (y) Lien O…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "électroménager",
+    "produitLabel": "Électroménager",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "Réfrigérateur combiné TCL RP409BIE0 - 409 L, Inox, Total No Frost, Écran tactile, 59,5 x 68 x185 cm",
+        "url": "https://www.dealabs.com/bons-plans/refrigerateur-combine-tcl-rp409bie0-409-l-inox-total-no-frost-ecran-tactile-595-x-68-x185-cm-3420078",
+        "source": "dealabs.com",
+        "date": "2026-09-26T11:56:57Z",
+        "extrait": "396,99€ - Cdiscount Avec 409 L, le combiné TCL RP409BIE0 vous offre un large volume tout en restant compact. La finition inox lui apporte modernité et durabili…",
+        "tension": false
+      },
+      {
+        "titre": "Lot de 7 Boxers Jack & Jones Huey (137903406) - Noir, Coupe ajustée confortable, Du S au 2XL",
+        "url": "https://www.dealabs.com/bons-plans/lot-de-7-boxers-jack-jones-huey-137903406-noir-coupe-ajustee-confortable-du-s-au-2xl-3419797",
+        "source": "dealabs.com",
+        "date": "2026-09-25T20:44:50Z",
+        "extrait": "29,49€ - TradeInn 29,49€ au lieu de 49,99€ soit 20,50€/41% de réduction ce qui fait l'unité à 4.21€ (y) Description : Les trunks Huey constituent un pack de 7…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "maillots",
+    "produitLabel": "Maillots",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "Aux Mondiaux de cyclisme, le forfait de Tadej Pogacar libère autant qu’il bouscule ses habituels concurrents",
+        "url": "https://www.lemonde.fr/sport/article/2026/09/27/aux-mondiaux-de-cyclisme-le-forfait-de-tadej-pogacar-libere-autant-qu-il-bouscule-ses-habituels-concurrents_6784169_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-09-27T11:00:11Z",
+        "extrait": "En l’absence du Slovène, double tenant du titre et forfait jusqu’à la fin de l’année, la course en ligne des Mondiaux de cyclisme se veut plus ouverte, samedi.…",
+        "tension": false
+      },
+      {
+        "titre": "Euro de Volley : la Pologne met fin au rêve des Bleus en finale",
+        "url": "https://www.lemonde.fr/sport/article/2026/09/27/euro-de-volley-la-pologne-met-fin-au-reve-des-bleus-en-finale_6783611_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-09-26T22:40:44Z",
+        "extrait": "L’équipe de France masculine s’est inclinée, samedi à Milan, face aux favoris polonais, implacables (1-3), et elle doit se contenter de la médaille d’argent ap…",
+        "tension": false
+      },
+      {
+        "titre": "France-Pologne : les Français s’inclinent en finale de l’Euro de volley face à des Polonais implacables",
+        "url": "https://www.lemonde.fr/sport/live/2026/09/26/en-direct-france-pologne-suivez-la-finale-de-l-euro-de-volley_6783375_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-09-26T17:00:08Z",
+        "extrait": "L’équipe de France de volley s’est inclinée (3-1) en finale du championnat d’Europe, samedi 26 septembre à Milan, face à une équipe polonaise intraitable. La P…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "chaussures",
+    "produitLabel": "Chaussures",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "Jean Levi's 505 Regular Fit Homme - Coupe droite, Dark Rinse, taille 31W/32L, autres tailles et coloris disponibles (via coupon)",
+        "url": "https://www.dealabs.com/bons-plans/jean-levis-505-regular-fit-homme-coupe-droite-dark-rinse-taille-31w32l-autres-tailles-et-coloris-disponibles-via-coupon-3420499",
+        "source": "dealabs.com",
+        "date": "2026-09-27T12:22:57Z",
+        "extrait": "49,90€ - Amazon Le Levi's 505 Regular Fit pour homme est proposé sur Amazon dans le coloris Dark Rinse , avec notamment la taille 31W / 32L disponible. D’autre…",
         "tension": true
       },
       {
-        "titre": "Sélection de cours en ligne gratuits: Copilot, Excel, Django, Python, Git, React, Hermes, Deepfake, NotebookLM, etc (Dématérialisé, Anglais)",
-        "url": "https://www.dealabs.com/bons-plans/selection-de-cours-en-ligne-gratuits-copilot-excel-django-python-git-react-hermes-deepfake-notebooklm-etc-dematerialise-anglais-3416289",
+        "titre": "[Membres Zalando Plus] Chaussures Nike Air Force One Blanche - Tailles 38.5 à 52.5",
+        "url": "https://www.dealabs.com/bons-plans/air-force-1-07-baskets-basses-white-taille-du-385-au-525-3420677",
         "source": "dealabs.com",
-        "date": "2026-09-20T20:19:35Z",
-        "extrait": "Udemy Hello ! Les feuilles tombent, les soirées s'allongent, et voilà une nouvelle vague de cours gratuits : Agents IA &amp; Agentic Engineering, Claude, ChatG…",
+        "date": "2026-09-27T19:58:01Z",
+        "extrait": "81,56€ - Zalando Nike Sportswear-AIR FORCE 1 07 - Baskets basses - white avec beaucoup de tailles dispo",
+        "tension": false
+      },
+      {
+        "titre": "Pantalon de randonnée Quechua MH500 vert olive - Tailles 38 à 48",
+        "url": "https://www.dealabs.com/bons-plans/pantalon-de-randonnee-quechua-mh500-vert-olive-tailles-38-a-48-3420769",
+        "source": "dealabs.com",
+        "date": "2026-09-28T05:55:50Z",
+        "extrait": "20,99€ - Decathlon Pantalon de randonnée homme MH500 – Vert olive Conçu pour les randonnées régulières, le Quechua MH500 associe liberté de mouvement, respirab…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "vêtements",
+    "produitLabel": "Vêtements",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "LEGO Star Wars 75404 Acclamator-Class Assault Ship (via 10,47€ sur la carte fidélité)",
+        "url": "https://www.dealabs.com/bons-plans/lego-75404-star-wars-acclamator-class-assault-ship-via-1040-en-fidelite-selon-magasins-3420707",
+        "source": "dealabs.com",
+        "date": "2026-09-27T21:30:08Z",
+        "extrait": "24,43€ - Intermarché Prix LEGO de 49.99. Dimensions – Le véhicule à construire dans ce set LEGO® Star Wars™ de 450 pièces mesure plus de 15 cm de haut, 23 cm d…",
+        "tension": false
+      },
+      {
+        "titre": "Obscure Collection sur PC (Dématérialisé)",
+        "url": "https://www.dealabs.com/bons-plans/obscure-collection-3420636",
+        "source": "dealabs.com",
+        "date": "2026-09-27T18:11:24Z",
+        "extrait": "3,74€ - Steam LE PACK COMPLET 1 ET 2 Il y a 2 ans, un groupe de lycéens a été pris au piège à l'intérieur de leur école. Ils y ont passé la nuit la plus longue…",
+        "tension": false
+      },
+      {
+        "titre": "Montre Casio W-800HD-1AVEF",
+        "url": "https://www.dealabs.com/bons-plans/montre-casio-w-800hd-1avef-3420659",
+        "source": "dealabs.com",
+        "date": "2026-09-27T19:06:15Z",
+        "extrait": "28€ - Mondial Montres [shortcode id=\"20618425\"/] En toute simplicité : une montre numérique épurée, dotée d’un grand écran pour lire l'heure d'un seul coup d'œ…",
         "tension": false
       }
     ]
@@ -76,10 +240,10 @@
     "produitLabel": "Téléviseurs",
     "type": "predefini",
     "categorie": "sport",
-    "score": 100,
+    "score": 80,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "172° - TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -100,150 +264,14 @@
     ]
   },
   {
-    "motCle": "maillots",
-    "produitLabel": "Maillots",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Tony Parker, pour ses débuts sur le banc de l’Asvel, s’incline face à Roanne et à son frère TJ",
-        "url": "https://www.lemonde.fr/sport/article/2026/09/19/tony-parker-pour-ses-debuts-sur-le-banc-de-l-asvel-s-incline-face-a-roanne-et-a-son-frere-tj_6777837_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-09-19T17:16:16Z",
-        "extrait": "A l’occasion de son premier match comme entraîneur du club de basket de Lyon-Villeurbanne, samedi, l’ancien meneur de l’équipe de France a été éliminé en demi-…",
-        "tension": false
-      },
-      {
-        "titre": "La mise en cause par la justice de l’ex-« flic » des Bleus plonge la FFF et le staff de Zidane dans l’embarras",
-        "url": "https://www.lemonde.fr/societe/article/2026/09/19/la-mise-en-cause-par-la-justice-de-l-ex-flic-des-bleus-plonge-la-fff-et-le-staff-de-zidane-dans-l-embarras_6777603_3224.html",
-        "source": "lemonde.fr",
-        "date": "2026-09-19T09:07:54Z",
-        "extrait": "Chargé de la sécurité privé et des aspects logistiques au sein du staff du nouveau sélectionneur de l’équipe de France, l’ancien commandant divisionnaire Moham…",
-        "tension": false
-      },
-      {
-        "titre": "Le banc de touche, « sanctuaire masculin » : la féminisation des staffs des clubs pro au point mort",
-        "url": "https://www.lemonde.fr/sport/article/2026/09/19/le-banc-de-touche-sanctuaire-masculin-la-feminisation-des-staffs-des-clubs-pro-au-point-mort_6777601_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-09-19T09:00:03Z",
-        "extrait": "A l’image du staff de l’équipe de France de Zinédine Zidane, composé de 23 hommes, les femmes peinent à se faire une place comme entraîneuses dans les sports c…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "chaussures",
-    "produitLabel": "Chaussures",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Pantalon de survêtement Lacoste en coton - Marine, Tailles 32, 34 et 42",
-        "url": "https://www.dealabs.com/bons-plans/pantalon-de-survetement-lacoste-en-coton-marine-tailles-32-34-et-42-3416290",
-        "source": "dealabs.com",
-        "date": "2026-09-20T20:24:52Z",
-        "extrait": "19€ - BAZARCHIC Pantalon de survêtement Lacoste à 19 € au lieu de 50 € sur BazarChic, soit −62 %. Une pièce simple et polyvalente de la marque Lacoste, idéale…",
-        "tension": true
-      },
-      {
-        "titre": "Lot de 2 Paires de Chaussettes de Running Run500 Fines Invisibles - Jaune, Rose",
-        "url": "https://www.dealabs.com/bons-plans/lot-de-2-paires-de-chaussettes-de-running-run500-fines-invisibles-jaune-rose-3416372",
-        "source": "dealabs.com",
-        "date": "2026-09-20T23:31:55Z",
-        "extrait": "2,99€ - Decathlon En jaune, en 39/42 et 43/46 : https://www.decathlon.fr/p/lot-de-2-paires-de-chaussettes-de-running-run500-fines-invisibles-jaune/348089/c269c…",
-        "tension": false
-      },
-      {
-        "titre": "Baskets basses Nike Sportswear V5 - multicolore du 36.5 au 44.5",
-        "url": "https://www.dealabs.com/bons-plans/nike-sportswear-v5-baskets-basses-multicolore-du-365-au-445-3415763",
-        "source": "dealabs.com",
-        "date": "2026-09-19T18:09:46Z",
-        "extrait": "46,90€ - Privé by Zalando Occasion: loisirs Caractéristiques: broderie Forme du talon: plateforme Bout de la chaussure: rond Fermeture: laçage Référence du mod…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "vêtements",
-    "produitLabel": "Vêtements",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 100,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Panneau de Contrôle Domotique Sonoff NSPanel Pro Gen2 - Zigbee, compatible Matter",
-        "url": "https://www.dealabs.com/bons-plans/panneau-de-controle-domotique-sonoff-nspanel-pro-gen2-3416008",
-        "source": "dealabs.com",
-        "date": "2026-09-20T10:03:49Z",
-        "extrait": "119,91€ - AliExpress Panneau de contrôle Smart House SONOFF NSPanel Pro Gen2 au format 86 avec relais double canal, intégration d'appareils, compatible avec Ap…",
-        "tension": true
-      },
-      {
-        "titre": "Jeu de cartes Asmodee Star Wars Unlimited : Ombres de la Galaxie - 24 Boosters",
-        "url": "https://www.dealabs.com/bons-plans/jeu-de-cartes-asmodee-star-wars-unlimited-ombres-de-la-galaxie-24-boosters-3415804",
-        "source": "dealabs.com",
-        "date": "2026-09-19T19:54:03Z",
-        "extrait": "54,95€ - Ludifolie Bon plan pour les amateurs de duels galactiques et de collection de cartes, avec ce display de Star Wars Unlimited : Ombres de la Galaxie -…",
-        "tension": true
-      },
-      {
-        "titre": "Niveau laser en croix Parkside Performance 12V PPKLLA 12 A1 - sans batterie et chargeur",
-        "url": "https://www.dealabs.com/bons-plans/niveau-laser-en-croix-parkside-performance-12v-ppklla-12-a1-sans-batterie-et-chargeur-3410020",
-        "source": "dealabs.com",
-        "date": "2026-09-20T22:20:28Z",
-        "extrait": "35,99€ - Lidl PARKSIDE PERFORMANCE® Niveau laser en croix sans fil 12 V, PPKLLA 12 A1, sans batterie – sans chargeur Caractéristiques Laser vert pour une proje…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "électroménager",
-    "produitLabel": "Électroménager",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 80,
-    "niveau": "surveille",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Batterie de cuisine inox Tefal Ingenio Emotion 5 pcs",
-        "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-inox-tefal-ingenio-emotion-5-pcs-3412056",
-        "source": "dealabs.com",
-        "date": "2026-09-13T18:28:56Z",
-        "extrait": "59,99€ - Boulanger Caractéristiques du produit Tous feux dont induction Choisir ce produit pour quels usages ? Revêtement intérieur L'inox offre une durée de v…",
-        "tension": false
-      },
-      {
-        "titre": "Gilet lesté lavable Domyos Corength - 0 à 5 kg, Ajustable, 10 poids de 500g",
-        "url": "https://www.dealabs.com/bons-plans/gilet-leste-lavable-domyos-corength-0-a-5-kg-ajustable-10-poids-de-500g-50-freeletics-3411743",
-        "source": "dealabs.com",
-        "date": "2026-09-13T08:09:01Z",
-        "extrait": "23,99€ - Decathlon Très bon plan chez Decathlon sur le gilet lesté réglable Domyos / Corength (0 à 5 kg) , qui passe à 23,99 € au lieu de 29,99 € grâce au code…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "bosch axt 2550 tc",
     "produitLabel": "Bosch Axt 2550 Tc",
     "type": "emergent",
     "categorie": "retail",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Broyeur végétaux électrique Bosch AXT 2550 TC, 2500W ø45mm + sac/gants/lunettes (via 40€ d'ODR)",
@@ -256,14 +284,54 @@
     ]
   },
   {
+    "motCle": "nike sous contrat depuis",
+    "produitLabel": "Nike Sous Contrat Depuis",
+    "type": "emergent",
+    "categorie": "sport",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "Derrière le transfert de Kylian Mbappé chez l’équipementier On, la dégringolade de Nike",
+        "url": "https://www.lemonde.fr/economie/article/2026/09/26/derriere-le-transfert-de-kylian-mbappe-chez-l-equipementier-on-la-degringolade-de-nike_6783106_3234.html",
+        "source": "lemonde.fr",
+        "date": "2026-09-26T08:00:20Z",
+        "extrait": "Sous contrat depuis vingt ans avec Nike, l’attaquant de l’équipe de France a préféré signer un contrat avec son challenger, On. Avec ce partenariat, la marque…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "nike sous contrat depuis vingt",
+    "produitLabel": "Nike Sous Contrat Depuis Vingt",
+    "type": "emergent",
+    "categorie": "sport",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
+    "articles": [
+      {
+        "titre": "Derrière le transfert de Kylian Mbappé chez l’équipementier On, la dégringolade de Nike",
+        "url": "https://www.lemonde.fr/economie/article/2026/09/26/derriere-le-transfert-de-kylian-mbappe-chez-l-equipementier-on-la-degringolade-de-nike_6783106_3234.html",
+        "source": "lemonde.fr",
+        "date": "2026-09-26T08:00:20Z",
+        "extrait": "Sous contrat depuis vingt ans avec Nike, l’attaquant de l’équipe de France a préféré signer un contrat avec son challenger, On. Avec ce partenariat, la marque…",
+        "tension": false
+      }
+    ]
+  },
+  {
     "motCle": "bosch axt 2550 tc",
     "produitLabel": "Bosch Axt 2550 Tc",
     "type": "emergent",
     "categorie": "retail",
-    "score": 74,
+    "score": 59,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Broyeur végétaux électrique Bosch AXT 2550 TC, 2500W ø45mm + sac/gants/lunettes (via 40€ d'ODR)",
@@ -280,10 +348,10 @@
     "produitLabel": "Philips Qled 75pus7810",
     "type": "emergent",
     "categorie": "retail",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -300,10 +368,10 @@
     "produitLabel": "Philips Qled 75pus7810 75",
     "type": "emergent",
     "categorie": "retail",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -320,10 +388,10 @@
     "produitLabel": "Nike Pour L",
     "type": "emergent",
     "categorie": "sport",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kylian Mbappé quitte Nike pour l’équipementier On, qui « s’attaque au football » avec fracas",
@@ -340,10 +408,10 @@
     "produitLabel": "Philips Qled 75pus7810",
     "type": "emergent",
     "categorie": "sport",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "172° - TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -360,10 +428,10 @@
     "produitLabel": "Philips Qled 75pus7810 75",
     "type": "emergent",
     "categorie": "sport",
-    "score": 59,
+    "score": 47,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "172° - TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -380,10 +448,10 @@
     "produitLabel": "Samsung Galaxy",
     "type": "emergent",
     "categorie": "retail",
-    "score": 59,
+    "score": 47,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Câble USB-C Ugreen Nexode - 240 W PD 3.1, écran LCD, 48 V/5 A, transfert 480 Mbps, 2 m (Vendeur Tiers)",
@@ -400,10 +468,10 @@
     "produitLabel": "High-tech",
     "type": "predefini",
     "categorie": "retail",
-    "score": 55,
+    "score": 44,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Blocs construction magnétiques - 100 Pièces (vendeur tiers)",
@@ -416,34 +484,14 @@
     ]
   },
   {
-    "motCle": "consoles",
-    "produitLabel": "Consoles de jeux",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 54,
-    "niveau": "surveille",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Manette sans fil pour Xbox Series X et S - Robot White ou Carbon Black",
-        "url": "https://www.dealabs.com/bons-plans/manette-xbox-carbon-black-pour-xbox-series-3416376",
-        "source": "dealabs.com",
-        "date": "2026-09-21T00:09:09Z",
-        "extrait": "42,44€ - E.Leclerc Version Carbon black Version Robot white Autres modèles à 45.60€ : Astral purple (sélection de magasins) Deep pink (sélection de magasins) E…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "hôtels",
     "produitLabel": "Hôtels",
     "type": "predefini",
     "categorie": "sport",
-    "score": 54,
+    "score": 43,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "188° - 2J/1N pour 2 pers au Luxembourg à l' Hôtel Melià Luxembourg 4* - petit déj et diner inclu, Entrée au musée Mudam ex: du 01 au 02 Juin",
@@ -460,10 +508,10 @@
     "produitLabel": "Transports",
     "type": "predefini",
     "categorie": "sport",
-    "score": 54,
+    "score": 43,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "142° - Vol Direct Aller/Retour Paris Orly avec French Bee <<=>> New-York États-Unis Du 16 Janvier au 23 Janvier (Bagage à main Inclus)",
@@ -480,10 +528,10 @@
     "produitLabel": "Bosch Pmf 180",
     "type": "emergent",
     "categorie": "retail",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
@@ -500,10 +548,10 @@
     "produitLabel": "Bosch Professional Gop10",
     "type": "emergent",
     "categorie": "retail",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
@@ -520,10 +568,10 @@
     "produitLabel": "Bosch Professional Star-lock",
     "type": "emergent",
     "categorie": "retail",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
@@ -540,10 +588,10 @@
     "produitLabel": "Bosch Pmf 180",
     "type": "emergent",
     "categorie": "retail",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
@@ -560,10 +608,10 @@
     "produitLabel": "Bosch Professional Gop10",
     "type": "emergent",
     "categorie": "retail",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
@@ -580,10 +628,10 @@
     "produitLabel": "Bosch Professional Star-lock",
     "type": "emergent",
     "categorie": "retail",
-    "score": 47,
+    "score": 37,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
@@ -600,10 +648,10 @@
     "produitLabel": "Bosch Et Avec De Nombreux",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kit Perceuse-visseuse percussion sans fil Bosch Professional 18V, GSB 18V-45, perforateur GBH 18V-22, meuleuse GWS 18V-8, 3 batteries 4.0Ah",
@@ -620,10 +668,10 @@
     "produitLabel": "Bosch Professional",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kit Perceuse-visseuse percussion sans fil Bosch Professional 18V, GSB 18V-45, perforateur GBH 18V-22, meuleuse GWS 18V-8, 3 batteries 4.0Ah",
@@ -640,10 +688,10 @@
     "produitLabel": "Bosch Professional 18v",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kit Perceuse-visseuse percussion sans fil Bosch Professional 18V, GSB 18V-45, perforateur GBH 18V-22, meuleuse GWS 18V-8, 3 batteries 4.0Ah",
@@ -660,10 +708,10 @@
     "produitLabel": "Bosch Et Avec De Nombreux",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kit Perceuse-visseuse percussion sans fil Bosch Professional 18V, GSB 18V-45, perforateur GBH 18V-22, meuleuse GWS 18V-8, 3 batteries 4.0Ah",
@@ -680,10 +728,10 @@
     "produitLabel": "Bosch Professional",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kit Perceuse-visseuse percussion sans fil Bosch Professional 18V, GSB 18V-45, perforateur GBH 18V-22, meuleuse GWS 18V-8, 3 batteries 4.0Ah",
@@ -700,10 +748,10 @@
     "produitLabel": "Bosch Professional 18v",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Kit Perceuse-visseuse percussion sans fil Bosch Professional 18V, GSB 18V-45, perforateur GBH 18V-22, meuleuse GWS 18V-8, 3 batteries 4.0Ah",
@@ -720,10 +768,10 @@
     "produitLabel": "Billets / places",
     "type": "predefini",
     "categorie": "sport",
-    "score": 27,
+    "score": 21,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "152° - 1 Billet pour le Parc Asterix les mercredis après-midi (à partir de 14Hà) du mois de Septembre (parking gratuit)",
@@ -740,10 +788,10 @@
     "produitLabel": "Samsung Galaxy A56 5g",
     "type": "emergent",
     "categorie": "retail",
-    "score": 23,
+    "score": 18,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Smartphone Samsung Galaxy A56 5G - 8+256 Go, Super AMOLED 6,7\" 120 Hz, Exynos 1580, 50 MP, 5000 mAh, 45 W",
@@ -760,10 +808,10 @@
     "produitLabel": "Samsung Mg23k3513ak",
     "type": "emergent",
     "categorie": "retail",
-    "score": 23,
+    "score": 18,
     "niveau": "surveille",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Micro-ondes Samsung MG23K3513AK - 23L, Gril, - 800W, plateau 28,8 cm, Cavité céramique émail, Noir",
@@ -780,10 +828,10 @@
     "produitLabel": "Samsung Mg23k3513ak Allie Design Elegant",
     "type": "emergent",
     "categorie": "retail",
-    "score": 23,
+    "score": 18,
     "niveau": "surveille",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Micro-ondes Samsung MG23K3513AK - 23L, Gril, - 800W, plateau 28,8 cm, Cavité céramique émail, Noir",
@@ -800,10 +848,10 @@
     "produitLabel": "Philips 65oled9512026 4k Ultra Hd",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "TV 65\" OLED PHILIPS 65OLED9512026 4K Ultra HD - version avec barre de son 3.1, Ambilight, 120Hz, AI Smart TV",
@@ -820,10 +868,10 @@
     "produitLabel": "Samsung Exynos 2600 10 Coeurs",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Smartphone 6.3\" Samsung S26 - 256 Go",
@@ -840,10 +888,10 @@
     "produitLabel": "Samsung S26",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Smartphone 6.3\" Samsung S26 - 256 Go",
@@ -860,10 +908,10 @@
     "produitLabel": "Adidas 24",
     "type": "emergent",
     "categorie": "sport",
-    "score": 18,
+    "score": 14,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "231° - Maillot de football Real Madrid Blanc/Noir Homme Adidas 24/25 Version Player",
@@ -880,10 +928,10 @@
     "produitLabel": "Adidas A Prix Bas",
     "type": "emergent",
     "categorie": "sport",
-    "score": 18,
+    "score": 14,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "231° - Maillot de football Real Madrid Blanc/Noir Homme Adidas 24/25 Version Player",
@@ -900,10 +948,10 @@
     "produitLabel": "Philips 65oled9512026 4k Ultra Hd",
     "type": "emergent",
     "categorie": "sport",
-    "score": 18,
+    "score": 14,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "146° - TV 65\" OLED PHILIPS 65OLED9512026 4K Ultra HD - version avec barre de son 3.1, Ambilight, 120Hz, AI Smart TV",
@@ -920,10 +968,10 @@
     "produitLabel": "Samsung Et Iphone Est Certifie",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
@@ -940,10 +988,10 @@
     "produitLabel": "Samsung Galaxy S24",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
@@ -960,10 +1008,10 @@
     "produitLabel": "Samsung Galaxy S25",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "Chargeur Secteur Belkin USB-C BoostCharge - 30W",
@@ -980,10 +1028,10 @@
     "produitLabel": "Projecteurs",
     "type": "predefini",
     "categorie": "sport",
-    "score": 16,
+    "score": 12,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "146° - TV 65\" OLED PHILIPS 65OLED9512026 4K Ultra HD - version avec barre de son 3.1, Ambilight, 120Hz, AI Smart TV",
@@ -1000,10 +1048,10 @@
     "produitLabel": "Merchandising officiel",
     "type": "predefini",
     "categorie": "sport",
-    "score": 16,
+    "score": 12,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "104° - Sélection de figurines et produits dérivés - Ex : Statue BDS ArtScale 1/10 Le Seigneur Des Anneaux, Saruman, 29cm (shopforgeek.com)",
@@ -1020,10 +1068,10 @@
     "produitLabel": "Samsung 60w Ep-t6010n Usb-c Sans",
     "type": "emergent",
     "categorie": "retail",
-    "score": 14,
+    "score": 11,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
+    "derniereMaj": "2026-09-28T06:25:02.089402Z",
     "articles": [
       {
         "titre": "[Edenred/Bourso/The Corner/Ulys] Chargeur secteur Samsung 60W EP-T6010N USB-C sans câble (via ODR de 20€)",
@@ -1032,46 +1080,6 @@
         "date": "2026-08-09T21:23:32Z",
         "extrait": "14,15€ - Samsung Offre valable chez Edenred pour ma part et sûrement aussi comme souvent chez les autres partenaires dont je vous laisse vérifier la viabilité…",
         "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "philips sneaker cleaner",
-    "produitLabel": "Philips Sneaker Cleaner",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
-        "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-baskets-philips-sneaker-cleaner-3-brosses-incluses-a-piles-3382157",
-        "source": "dealabs.com",
-        "date": "2026-07-26T12:14:45Z",
-        "extrait": "15,93€ - Amazon KIT DE NETTOYAGE POUR LES BASKETS : nettoyage efficace avec jusqu'à 500 rotations par minutes, ce sneaker cleaner est équipé de 3 têtes de bros…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "philips sneaker cleaner",
-    "produitLabel": "Philips Sneaker Cleaner",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-09-21T06:23:15.420269Z",
-    "articles": [
-      {
-        "titre": "Nettoyeur de Baskets Philips Sneaker Cleaner - 3 brosses incluses, à piles",
-        "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-baskets-philips-sneaker-cleaner-3-brosses-incluses-a-piles-3382157",
-        "source": "dealabs.com",
-        "date": "2026-07-26T12:14:45Z",
-        "extrait": "15,93€ - Amazon KIT DE NETTOYAGE POUR LES BASKETS : nettoyage efficace avec jusqu'à 500 rotations par minutes, ce sneaker cleaner est équipé de 3 têtes de bros…",
-        "tension": true
       }
     ]
   }
