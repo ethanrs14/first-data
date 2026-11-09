@@ -5,33 +5,33 @@
     "type": "predefini",
     "categorie": "retail",
     "score": 100,
-    "niveau": "confirme",
+    "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "Manette filaire Nacon Revolution X Pro - Compatible PC/Xbox, Noir",
-        "url": "https://www.dealabs.com/bons-plans/manette-filaire-nacon-revolution-x-pro-compatible-pcxbox-noir-3442212",
+        "titre": "Star Wars: Galactic Racer - Édition Standard sur PS5 ou Xbox Series X",
+        "url": "https://www.dealabs.com/bons-plans/star-wars-galactic-racer-edition-standard-sur-ps5-ou-xbox-series-x-3449364",
         "source": "dealabs.com",
-        "date": "2026-11-01T16:00:00Z",
-        "extrait": "19,99€ - Fnac Tout petit prix à venir pour cette manette Nacon :) → Livraison gratuite à domicile. ❖ Caractéristiques et description : Une manette premium idéa…",
-        "tension": true
+        "date": "2026-11-08T23:07:05Z",
+        "extrait": "33,58€ - E.Leclerc Offres chez Leclerc. ➤ Promotion qui démarre le 26 novembre. Star Wars: Galactic Racer - Édition Standard (PS5) Star Wars: Galactic Racer -…",
+        "tension": false
       },
       {
-        "titre": "Ecran Portable 14\" Siaviala pour fixation sur PC Portable de 13\" à 17.3\" - IPS Full HD, Extension d'écran Portable plug & play",
-        "url": "https://www.dealabs.com/bons-plans/14-extension-ecran-pc-portable-double-ecran-pc-portable-ips-full-hd-extension-decran-portable-plug-play-3443640",
+        "titre": "Resonance: A Plague Tale Legacy sur PS5 ou Xbox Series X",
+        "url": "https://www.dealabs.com/bons-plans/resonance-a-plague-tale-legacy-sur-ps5-ou-xbox-series-x-3449363",
         "source": "dealabs.com",
-        "date": "2026-11-01T18:21:23Z",
-        "extrait": "90,23€ - Amazon 【【Améliorez votre productivité de 200 %】 Le deuxième écran portable pour ordinateur portable SIAVIALA 14” prend en charge les modes étendu et m…",
-        "tension": true
+        "date": "2026-11-08T23:00:26Z",
+        "extrait": "26,85€ - E.Leclerc Offres chez Leclerc. ➤ Promotion qui démarre le 14 décembre. Pourquoi poster en avance ? Tout simplement pour vous permettre d'anticiper bie…",
+        "tension": false
       },
       {
-        "titre": "Mortal Kombat 11 Ultimate sur Xbox One, Series X|S & PC (Dématérialisé)",
-        "url": "https://www.dealabs.com/bons-plans/mortal-kombat-11-ultimate-sur-xbox-one-series-xs-et-pc-dematerialise-3443250",
+        "titre": "Dragon Quest VII Reimagined sur Nintendo Switch",
+        "url": "https://www.dealabs.com/bons-plans/dragon-quest-vii-reimagined-sur-nintendo-switch-3449327",
         "source": "dealabs.com",
-        "date": "2026-11-01T09:40:51Z",
-        "extrait": "5,99€ - Xbox Store Mortal Kombat 11 Ultimate, le jeu de combat de NetherRealm Studios, en version dématérialisée sur le Xbox Store. Le scénario suit les protec…",
-        "tension": true
+        "date": "2026-11-08T21:07:34Z",
+        "extrait": "36,94€ - Amazon Description « Le monde ne se résume pas à cette île... et on va le prouver ! » Embarquez pour une histoire où se mêlent le passé et le présent…",
+        "tension": false
       }
     ]
   },
@@ -43,30 +43,86 @@
     "score": 100,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "Ecran Portable 14\" Siaviala pour fixation sur PC Portable de 13\" à 17.3\" - IPS Full HD, Extension d'écran Portable plug & play",
-        "url": "https://www.dealabs.com/bons-plans/14-extension-ecran-pc-portable-double-ecran-pc-portable-ips-full-hd-extension-decran-portable-plug-play-3443640",
+        "titre": "Billet de train Eurostar de Paris vers Amsterdam dès 33€ (ou Aller/Retour dès 66€) - Ex : 9 et 19 Janvier 2027",
+        "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-vers-amsterdam-des-33eur-ou-allerretour-des-66eur-ex-9-et-19-janvier-2027-3449256",
         "source": "dealabs.com",
-        "date": "2026-11-01T18:21:23Z",
-        "extrait": "90,23€ - Amazon 【【Améliorez votre productivité de 200 %】 Le deuxième écran portable pour ordinateur portable SIAVIALA 14” prend en charge les modes étendu et m…",
+        "date": "2026-11-08T18:42:42Z",
+        "extrait": "33€ - SNCF Connect Tarif promotionnel très avantageux repéré sur SNCF Connect pour voyager à grande vitesse vers les Pays-Bas à bord de l' Eurostar (ex-Thalys)…",
         "tension": true
       },
       {
-        "titre": "Trottinette électrique TODIMART T3 - 36V 7.8Ah, 25km/h, 30km, pneus pleins 8.5\", pliable",
-        "url": "https://www.dealabs.com/bons-plans/trottinette-electrique-todimart-t3-36v-78ah-25kmh-30km-pneus-pleins-85-pliable-3443223",
+        "titre": "Pack tablette Lenovo Pack Idea Tab Plus ZAG7 - 12,1\", 128 Go, Gris Luna, livré sans chargeur",
+        "url": "https://www.dealabs.com/bons-plans/lenovo-pack-idea-tab-plus-zag7-121-128-go-gris-luna-3448975",
         "source": "dealabs.com",
-        "date": "2026-11-01T09:15:26Z",
-        "extrait": "84,09€ - AliExpress Prix intéressant sur la TODIMART T3, une trottinette électrique pliable pensée pour les trajets urbains courts avec moteur 36V, batterie 7.…",
+        "date": "2026-11-08T09:55:17Z",
+        "extrait": "299,99€ - Darty Ecran : 12.1\" 2.5K (2560x1600) IPS 600 nits, 90 Hz, Tactile ; Processeur : MediaTek Dimensity 6400 (8C, 2x A76 2.5GHz + 6x A55 2.0GHz) ; 6 Go R…",
         "tension": true
       },
       {
-        "titre": "Dashcam Baseus 4K VD1 Pro - Avant & Arrière",
-        "url": "https://www.dealabs.com/bons-plans/dash-cam-baseus-4k-vd1-pro-avant-et-arriere-3443183",
+        "titre": "Gants cyclisme Hiver Ekoï Perf Hipora Ice Proof - Tailles du S au 2XL",
+        "url": "https://www.dealabs.com/bons-plans/gants-cyclisme-hiver-ekoi-perf-hipora-ice-proof-tailles-du-s-au-2xl-3448750",
         "source": "dealabs.com",
-        "date": "2026-11-01T08:37:49Z",
-        "extrait": "75€ - AliExpress Caractéristiques principales * Caméra avant : 4K UHD — 3840 × 2160 pixels. * Caméra arrière : 1080p — 1920 × 1080 pixels, si le kit double cam…",
+        "date": "2026-11-07T21:36:19Z",
+        "extrait": "40€ - Ekoi HIPORA® : chaleur et imperméabilité La membrane HIPORA® utilise un revêtement en polyuréthane microporeux qui empêche l’eau de pénétrer tout en lais…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "maillots",
+    "produitLabel": "Maillots",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "A peine retraité, Gaël Monfils est nommé capitaine des Bleus en Coupe Davis",
+        "url": "https://www.lemonde.fr/sport/article/2026/11/07/a-peine-retraite-gael-monfils-est-nomme-capitaine-des-bleus-en-coupe-davis_6808273_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-11-07T12:32:01Z",
+        "extrait": "Quelques jours après l’annonce de sa retraite sportive, le Francilien a été choisi par la Fédération française de tennis pour succéder à Paul-Henri Mathieu, do…",
+        "tension": false
+      },
+      {
+        "titre": "Zinédine Zidane convoque Pablo Pagis pour la première fois et repositionne Kylian Mbappé « en pointe » pour les prochains matchs de l’équipe de France",
+        "url": "https://www.lemonde.fr/sport/article/2026/11/06/zinedine-zidane-convoque-pablo-pagis-et-rappelle-marcus-thuram-pour-les-deux-prochains-matchs-de-l-equipe-de-france_6807839_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-11-06T17:05:37Z",
+        "extrait": "Le sélectionneur des Bleus a retenu 23 joueurs pour les prochaines rencontres de Ligue des nations de la France, en Italie et contre la Turquie. Pablo Pagis a…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "billets",
+    "produitLabel": "Billets / places",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 100,
+    "niveau": "surveille",
+    "evenementLieId": "jo-2028-paris",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "161° - Billet de train Eurostar de Paris vers Amsterdam dès 33€ (ou Aller/Retour dès 66€) - Ex : 9 et 19 Janvier 2027",
+        "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-vers-amsterdam-des-33eur-ou-allerretour-des-66eur-ex-9-et-19-janvier-2027-3449256",
+        "source": "dealabs.com",
+        "date": "2026-11-09T01:39:48Z",
+        "extrait": "33€ - SNCF Connect Tarif promotionnel très avantageux repéré sur SNCF Connect pour voyager à grande vitesse vers les Pays-Bas à bord de l' Eurostar</str...",
+        "tension": false
+      },
+      {
+        "titre": "152° - Billet A/S Eurostar de Paris pour Bruxelles à 21€ - Ex : le 08 Janvier 2027",
+        "url": "https://www.dealabs.com/bons-plans/billet-as-eurostar-de-paris-pour-bruxelles-a-21eur-ex-le-08-janvier-2027-3449282",
+        "source": "dealabs.com",
+        "date": "2026-11-09T00:58:33Z",
+        "extrait": "21€ - Trainline Exemple du 08 janvier : Multitude d'autres dates disponibles au même prix : Bruxelles s'explore facilement à pied et s'articule auto...",
         "tension": false
       }
     ]
@@ -77,32 +133,32 @@
     "type": "predefini",
     "categorie": "retail",
     "score": 100,
-    "niveau": "surveille",
+    "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "Baskets Puma Anzarun Lite blanches - Tailles du 37 au 48",
-        "url": "https://www.dealabs.com/bons-plans/baskets-puma-anzarun-lite-blanches-tailles-du-37-au-48-3442519",
+        "titre": "Baskets Jordan Air 1 mid SE - Du 40,5 au 47",
+        "url": "https://www.dealabs.com/bons-plans/jordan-air-1-mid-se-3449186",
         "source": "dealabs.com",
-        "date": "2026-10-31T08:00:11Z",
-        "extrait": "27,90€ - Amazon Les Puma Anzarun Lite sont des baskets basses à porter au quotidien. Cette déclinaison Anzarun Lite est proposée en blanc Puma White / Puma Whi…",
+        "date": "2026-11-08T17:02:06Z",
+        "extrait": "64,99€ - Veepee Jordan - sneakers montantes Air 1 Mid SE - cuir - multicolore",
         "tension": false
       },
       {
-        "titre": "[Membres] Chaussures de Running Asics Gel-Excite 11 - tailles 41,5 à 47",
-        "url": "https://www.dealabs.com/bons-plans/membres-selection-de-chaussures-de-running-asics-gel-excite-11-tailles-415-a-47-3443370",
+        "titre": "Sélection de Chaussures Caterpillar - Ex : Bottes Colorado Moc To - Plusieurs coloris",
+        "url": "https://www.dealabs.com/bons-plans/selection-de-chaussures-caterpillar-ex-bottes-colorado-moc-to-plusieurs-coloris-3449319",
         "source": "dealabs.com",
-        "date": "2026-11-01T12:21:37Z",
-        "extrait": "44,99€ - Intersport [Membres} Sélection de chaussures de Running Asics Gel-Excite 11 - tailles 41,5 à 47 ASICS Gel-Excite 11 homme (1011C0CRBW) – 44,99 € au li…",
+        "date": "2026-11-08T20:49:23Z",
+        "extrait": "49,99€ - Veepee Disponibles en noir, marron foncé et marron. Pointures du 40 au 44.",
         "tension": false
       },
       {
-        "titre": "Chaussures Nike Sportswear Air Max 90 - Baskets Basses, Gris, Tailles du 35,5 au 44,5",
-        "url": "https://www.dealabs.com/bons-plans/nike-sportswear-air-max-90-baskets-basses-gris-du-355-au-445-3443298",
+        "titre": "Baskets basses Nike Sportswear P-6000 - blanc, vert, noir, gris, du 36 au 44.5",
+        "url": "https://www.dealabs.com/bons-plans/nike-sportswear-p-6000-baskets-basses-blanc-vert-du-36-au-445-3448412",
         "source": "dealabs.com",
-        "date": "2026-11-01T10:32:29Z",
-        "extrait": "67,90€ - Privé by Zalando Occasion: loisirs Sport: fitness et entraînement Forme du talon: plat Bout de la chaussure: rond Largeur de chaussure: classique Ferm…",
+        "date": "2026-11-07T11:13:56Z",
+        "extrait": "52,90€ - Privé by Zalando https://www.zalando-prive.fr/campaigns/ZZO4RN1/articles/NI111A0GD-Q13 Occasion: loisirs Sport: fitness et entraînement Forme du talon…",
         "tension": false
       }
     ]
@@ -113,60 +169,132 @@
     "type": "predefini",
     "categorie": "retail",
     "score": 100,
-    "niveau": "surveille",
+    "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "Baskets Puma Anzarun Lite blanches - Tailles du 37 au 48",
-        "url": "https://www.dealabs.com/bons-plans/baskets-puma-anzarun-lite-blanches-tailles-du-37-au-48-3442519",
+        "titre": "Lot de 8 boxers homme DIM - taille M et L",
+        "url": "https://www.dealabs.com/bons-plans/lot-de-8-boxers-homme-dim-taille-m-et-l-3449360",
         "source": "dealabs.com",
-        "date": "2026-10-31T08:00:11Z",
-        "extrait": "27,90€ - Amazon Les Puma Anzarun Lite sont des baskets basses à porter au quotidien. Cette déclinaison Anzarun Lite est proposée en blanc Puma White / Puma Whi…",
+        "date": "2026-11-08T22:45:41Z",
+        "extrait": "20,90€ - Amazon Ce lot DIM contient huit boxers homme, conçus comme sous-vêtements à porter près du corps sous un pantalon ou un short. La coupe couvre le bass…",
+        "tension": true
+      },
+      {
+        "titre": "Coffret de clés dynamométriques 5 pièces HBM Machines - Plage 5 à 210 Nm, Avec rallonge et adaptateurs, Mallette incluse",
+        "url": "https://www.dealabs.com/bons-plans/coffret-de-cles-dynamometriques-5-pieces-hbm-machines-plage-5-a-210-nm-avec-rallonge-et-adaptateurs-mallette-incluse-3449288",
+        "source": "dealabs.com",
+        "date": "2026-11-08T19:37:09Z",
+        "extrait": "23,99€ - HBM Machines Très bon prix repéré chez HBM Machines sur ce coffret complet de clés dynamométriques 5 pièces (référence fabricant H134456). Affiché ave…",
         "tension": false
       },
       {
-        "titre": "Dashcam Baseus 4K VD1 Pro - Avant & Arrière",
-        "url": "https://www.dealabs.com/bons-plans/dash-cam-baseus-4k-vd1-pro-avant-et-arriere-3443183",
+        "titre": "Game Boy LEGO Nintendo 72046 (via 10.25€ de fidélité)",
+        "url": "https://www.dealabs.com/bons-plans/game-boy-lego-nintendo-72046-via-1025eur-de-fidelite-3449425",
         "source": "dealabs.com",
-        "date": "2026-11-01T08:37:49Z",
-        "extrait": "75€ - AliExpress Caractéristiques principales * Caméra avant : 4K UHD — 3840 × 2160 pixels. * Caméra arrière : 1080p — 1920 × 1080 pixels, si le kit double cam…",
-        "tension": false
-      },
-      {
-        "titre": "Jouet Disney Super Mario - Chateau de Bowser",
-        "url": "https://www.dealabs.com/bons-plans/disney-super-mario-chateau-de-bowser-3443284",
-        "source": "dealabs.com",
-        "date": "2026-11-01T10:33:58Z",
-        "extrait": "26,44€ - Amazon Plongez dans l'univers épique de Super Mario avec ce château de Bowser sous licence officielle Nintendo. Garanti pour offrir une expérience aut…",
+        "date": "2026-11-09T03:28:41Z",
+        "extrait": "30,75€ - E.Leclerc Moins cher que l'offre carrefour ou intermarché (y) A 59.99 € chez LEGO livraison gratuite en magasin Retrouvez l’exaltation de vos premiers…",
         "tension": false
       }
     ]
   },
   {
-    "motCle": "billets",
-    "produitLabel": "Billets / places",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 80,
-    "niveau": "surveille",
-    "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "motCle": "samsung tq65s85h",
+    "produitLabel": "Samsung Tq65s85h",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "192° - Billet de bateau Corsica Ferry été 2027 - À destination de Corse, Sardaine et Baléares, Ex : Du 5 au 13 juin (à partir de 42€)",
-        "url": "https://www.dealabs.com/bons-plans/billet-de-bateau-corsica-ferry-ete-2027-a-destination-de-corse-sardaine-et-baleares-aller-simple-a-partir-de-42eur-3438684",
+        "titre": "TV 65\" Samsung TQ65S85H - OLED, 4K, 2026 (Via 200 € sur la carte de fidélité)",
+        "url": "https://www.dealabs.com/bons-plans/tv-oled-4k-65-samsung-tq65s85h-via-200-eur-sur-la-carte-de-fidelite-3449247",
         "source": "dealabs.com",
-        "date": "2026-10-26T02:47:11Z",
-        "extrait": "42€ - Corsica Ferries Corsica Ferries : réservations ouvertes pour l'été 2027 – Corse, Sardaigne et Baléares dès 42 € par personne Pour ceux qui commencent déj…",
-        "tension": false
-      },
+        "date": "2026-11-08T19:30:18Z",
+        "extrait": "1 099,99€ - Carrefour Le meilleur prix vu ! ;) Parfait pour profiter de ses films, séries et jeux vidéo sur grand écran dans le salon avec la qualité d'image O…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "samsung tq65s85h",
+    "produitLabel": "Samsung Tq65s85h",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 74,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
       {
-        "titre": "188° - Billet de train OUIGO Paris (Massy TGV) vers Bordeaux St-Jean dès 16€ (Aller/Retour à 32€) - Plusieurs dates, Ex : 14 Janvier 2027",
-        "url": "https://www.dealabs.com/bons-plans/billet-de-train-ouigo-paris-massy-tgv-vers-bordeaux-st-jean-des-16eur-allerretour-a-32eur-plusieurs-dates-ex-14-janvier-2027-3438660",
+        "titre": "TV 65\" Samsung TQ65S85H - OLED, 4K, 2026 (Via 200 € sur la carte de fidélité)",
+        "url": "https://www.dealabs.com/bons-plans/tv-oled-4k-65-samsung-tq65s85h-via-200-eur-sur-la-carte-de-fidelite-3449247",
         "source": "dealabs.com",
-        "date": "2026-10-25T23:35:48Z",
-        "extrait": "16€ - Trainline Billet de train OUIGO Paris (Massy TGV) vers Bordeaux St-Jean dès 16€ - Plusieurs dates, Ex : 14/01/2027 Trainline propose des billets de train…",
+        "date": "2026-11-08T19:30:18Z",
+        "extrait": "1 099,99€ - Carrefour Le meilleur prix vu ! ;) Parfait pour profiter de ses films, séries et jeux vidéo sur grand écran dans le salon avec la qualité d'image O…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "TV",
+    "produitLabel": "Téléviseurs",
+    "type": "predefini",
+    "categorie": "retail",
+    "score": 69,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "TV 65\" Samsung TQ65S85H - OLED, 4K, 2026 (Via 200 € sur la carte de fidélité)",
+        "url": "https://www.dealabs.com/bons-plans/tv-oled-4k-65-samsung-tq65s85h-via-200-eur-sur-la-carte-de-fidelite-3449247",
+        "source": "dealabs.com",
+        "date": "2026-11-08T19:30:18Z",
+        "extrait": "1 099,99€ - Carrefour Le meilleur prix vu ! ;) Parfait pour profiter de ses films, séries et jeux vidéo sur grand écran dans le salon avec la qualité d'image O…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "philips ep1200",
+    "produitLabel": "Philips Ep1200",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Machine à café Expresso broyeur Philips EP1200/00, Série 1200, 2 cafés, Broyeur céramique, Noir brossé",
+        "url": "https://www.dealabs.com/bons-plans/machine-a-cafe-expresso-broyeur-philips-ep120000-serie-1200-2-cafes-broyeur-ceramique-noir-brosse-3449330",
+        "source": "dealabs.com",
+        "date": "2026-11-08T21:13:00Z",
+        "extrait": "214,99€ - Cdiscount Machine à café Expresso avec broyeur – PHILIPS Série 1200 (EP1200/00) Description générale : La machine à café automatique Philips EP1200/0…",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "philips serie 1200",
+    "produitLabel": "Philips Serie 1200",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 59,
+    "niveau": "surveille",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Machine à café Expresso broyeur Philips EP1200/00, Série 1200, 2 cafés, Broyeur céramique, Noir brossé",
+        "url": "https://www.dealabs.com/bons-plans/machine-a-cafe-expresso-broyeur-philips-ep120000-serie-1200-2-cafes-broyeur-ceramique-noir-brosse-3449330",
+        "source": "dealabs.com",
+        "date": "2026-11-08T21:13:00Z",
+        "extrait": "214,99€ - Cdiscount Machine à café Expresso avec broyeur – PHILIPS Série 1200 (EP1200/00) Description générale : La machine à café automatique Philips EP1200/0…",
         "tension": false
       }
     ]
@@ -176,10 +304,10 @@
     "produitLabel": "High-tech",
     "type": "predefini",
     "categorie": "retail",
-    "score": 69,
+    "score": 55,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Trottinette électrique TODIMART T3 - 36V 7.8Ah, 25km/h, 30km, pneus pleins 8.5\", pliable",
@@ -187,86 +315,6 @@
         "source": "dealabs.com",
         "date": "2026-11-01T09:15:26Z",
         "extrait": "84,09€ - AliExpress Prix intéressant sur la TODIMART T3, une trottinette électrique pliable pensée pour les trajets urbains courts avec moteur 36V, batterie 7.…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "moulinex infinyforce pro avec kit",
-    "produitLabel": "Moulinex Infinyforce PRO Avec Kit",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 59,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
-        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
-        "source": "dealabs.com",
-        "date": "2026-10-25T20:39:43Z",
-        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "moulinex infinyforce pro pied mixeur",
-    "produitLabel": "Moulinex Infinyforce PRO Pied Mixeur",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 59,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
-        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
-        "source": "dealabs.com",
-        "date": "2026-10-25T20:39:43Z",
-        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "moulinex infinyforce pro avec kit",
-    "produitLabel": "Moulinex Infinyforce PRO Avec Kit",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 59,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
-        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
-        "source": "dealabs.com",
-        "date": "2026-10-25T20:39:43Z",
-        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "moulinex infinyforce pro pied mixeur",
-    "produitLabel": "Moulinex Infinyforce PRO Pied Mixeur",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 59,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
-        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
-        "source": "dealabs.com",
-        "date": "2026-10-25T20:39:43Z",
-        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
         "tension": true
       }
     ]
@@ -279,54 +327,14 @@
     "score": 54,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "Lego City 60494 Le Camion-Benne & la Chargeuse Frontale (Via Coupon)",
-        "url": "https://www.dealabs.com/bons-plans/lego-city-60494-le-camion-benne-et-la-chargeuse-frontale-via-coupon-3441129",
+        "titre": "Réfrigérateur Combiné Hisense FCN255WDE Gris - 255L, Total No Frost, Distributeur d'eau",
+        "url": "https://www.dealabs.com/bons-plans/refrigerateur-combine-hisense-fcn255wde-gris-255l-total-no-frost-distributeur-deau-3449160",
         "source": "dealabs.com",
-        "date": "2026-11-01T11:09:47Z",
-        "extrait": "63,74€ - Amazon [ x ] (confused) Coupon à cocher pour avoir le prix :o Description du set JEU DE CONSTRUCTION AVEC JOUETS CAMIONS POUR GARÇON OU FILLE DÈS 8 AN…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "TV",
-    "produitLabel": "Téléviseurs",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 54,
-    "niveau": "surveille",
-    "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Après les propos de Kylian Mbappé sur Mao, la télévision chinoise fait l’impasse sur la Liga",
-        "url": "https://www.lemonde.fr/sport/article/2026/11/01/apres-les-propos-de-kylian-mbappe-sur-mao-la-television-chinoise-fait-l-impasse-sur-la-liga_6804523_3242.html",
-        "source": "lemonde.fr",
-        "date": "2026-11-01T16:15:23Z",
-        "extrait": "La télévision publique n’a pas retransmis en direct, dimanche, la rencontre entre le Real Madrid et Santander. Les autres affiches de la 11ᵉ journée du champio…",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "maillots",
-    "produitLabel": "Maillots",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 54,
-    "niveau": "surveille",
-    "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Mondiaux de paracyclisme : portée par Tifany Huot-Marchand et Alexandre Léauté, l'équipe de France repart avec huit médailles dont six titres",
-        "url": "https://www.franceinfo.fr/sports/cyclisme/mondiaux-de-paracyclisme-portee-par-tifany-huot-marchand-et-alexandre-leaute-l-equipe-de-france-repart-avec-huit-medailles-dont-six-titres_8263220.html#xtor=RSS-3-%5Bgeneral%5D",
-        "source": "francetvinfo.fr",
-        "date": "2026-11-01T20:59:10Z",
-        "extrait": "Avec cinq des six titres tricolores, les deux paracyclistes ont porté l'équipe de France lors des Mondiaux aux Pays-Bas, qui se sont refermés dimanche.",
+        "date": "2026-11-08T16:31:04Z",
+        "extrait": "339€ - E.Leclerc Le réfrigérateur combiné Hisense FCN255WDE (finition grise) allie un design élégant à des fonctionnalités pensées pour simplifier votre quotid…",
         "tension": false
       }
     ]
@@ -339,14 +347,114 @@
     "score": 54,
     "niveau": "surveille",
     "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
-        "titre": "118° - Vol Aller/Retour Paris-Orly (ORY) <-> Île de Sal (Cap-Vert) dès 214€ - Du 24 Février au 8 Mars 2027 (sans bagage)",
-        "url": "https://www.dealabs.com/bons-plans/vol-allerretour-paris-orly-ory-ile-de-sal-sid-cap-vert-des-214eur-du-24-fevrier-au-8-mars-2027-bagage-inclus-3443680",
+        "titre": "161° - Billet de train Eurostar de Paris vers Amsterdam dès 33€ (ou Aller/Retour dès 66€) - Ex : 9 et 19 Janvier 2027",
+        "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-vers-amsterdam-des-33eur-ou-allerretour-des-66eur-ex-9-et-19-janvier-2027-3449256",
         "source": "dealabs.com",
-        "date": "2026-11-02T05:34:43Z",
-        "extrait": "214€ - easyJet Tarif attractif repéré sur la plateforme de correspondance officielle d' easyJet (Flight Connections) pour partir au soleil au Cap-Vert en pl...",
+        "date": "2026-11-09T01:39:48Z",
+        "extrait": "33€ - SNCF Connect Tarif promotionnel très avantageux repéré sur SNCF Connect pour voyager à grande vitesse vers les Pays-Bas à bord de l' Eurostar</str...",
+        "tension": false
+      }
+    ]
+  },
+  {
+    "motCle": "moulinex infinyforce pro avec kit",
+    "produitLabel": "Moulinex Infinyforce PRO Avec Kit",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 47,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
+        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
+        "source": "dealabs.com",
+        "date": "2026-10-25T20:39:43Z",
+        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "moulinex infinyforce pro pied mixeur",
+    "produitLabel": "Moulinex Infinyforce PRO Pied Mixeur",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 47,
+    "niveau": "confirme",
+    "evenementLieId": "black-friday-2026",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
+        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
+        "source": "dealabs.com",
+        "date": "2026-10-25T20:39:43Z",
+        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "moulinex infinyforce pro avec kit",
+    "produitLabel": "Moulinex Infinyforce PRO Avec Kit",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 47,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
+        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
+        "source": "dealabs.com",
+        "date": "2026-10-25T20:39:43Z",
+        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "moulinex infinyforce pro pied mixeur",
+    "produitLabel": "Moulinex Infinyforce PRO Pied Mixeur",
+    "type": "emergent",
+    "categorie": "retail",
+    "score": 47,
+    "niveau": "confirme",
+    "evenementLieId": "soldes-hiver-2027",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Mixeur Plongeant Moulinex InfinyForce Pro avec Kit Accessoires - 1200w",
+        "url": "https://www.dealabs.com/bons-plans/mixeur-plongeant-moulinex-infinyforce-pro-avec-kit-accessoires-1200w-3438720",
+        "source": "dealabs.com",
+        "date": "2026-10-25T20:39:43Z",
+        "extrait": "59,99€ - Amazon PUISSANCE MAXIMALE 1200W : Moteur ultra performant pour mixer, hacher et fouetter rapidement, même les ingrédients les plus durs, sans effort.…",
+        "tension": true
+      }
+    ]
+  },
+  {
+    "motCle": "TV",
+    "produitLabel": "Téléviseurs",
+    "type": "predefini",
+    "categorie": "sport",
+    "score": 43,
+    "niveau": "surveille",
+    "evenementLieId": "euro-2028",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
+    "articles": [
+      {
+        "titre": "Après les propos de Kylian Mbappé sur Mao, la télévision chinoise fait l’impasse sur la Liga",
+        "url": "https://www.lemonde.fr/sport/article/2026/11/01/apres-les-propos-de-kylian-mbappe-sur-mao-la-television-chinoise-fait-l-impasse-sur-la-liga_6804523_3242.html",
+        "source": "lemonde.fr",
+        "date": "2026-11-01T16:15:23Z",
+        "extrait": "La télévision publique n’a pas retransmis en direct, dimanche, la rencontre entre le Real Madrid et Santander. Les autres affiches de la 11ᵉ journée du champio…",
         "tension": false
       }
     ]
@@ -356,10 +464,10 @@
     "produitLabel": "Snacks / apéro",
     "type": "predefini",
     "categorie": "sport",
-    "score": 43,
+    "score": 34,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Un apéro avec Armel Le Cléac’h : « On fait des choses extraordinaires en mer, mais à terre, j’aime bien le côté ordinaire de la vie »",
@@ -376,10 +484,10 @@
     "produitLabel": "Samsung Magician⁵",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Disque SSD externe portable Samsung MU-PC1T0T/WW - 1 To",
@@ -396,10 +504,10 @@
     "produitLabel": "Samsung Mu-pc1t0t",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Disque SSD externe portable Samsung MU-PC1T0T/WW - 1 To",
@@ -416,10 +524,10 @@
     "produitLabel": "Samsung Ssd Externe T7",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Disque SSD externe portable Samsung MU-PC1T0T/WW - 1 To",
@@ -436,10 +544,10 @@
     "produitLabel": "Dyson Airwrap I",
     "type": "emergent",
     "categorie": "retail",
-    "score": 37,
+    "score": 29,
     "niveau": "surveille",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "fer à cheveux Dyson airwrap i.d - embout de sechage lissant coanda offert",
@@ -452,42 +560,14 @@
     ]
   },
   {
-    "motCle": "TV",
-    "produitLabel": "Téléviseurs",
-    "type": "predefini",
-    "categorie": "retail",
-    "score": 32,
-    "niveau": "surveille",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "TV 55\" LG OLED55G6 (2026) - OLED Evo AI, 4K UHD, 139cm, 120 Hz, Dolby Vision, Wi-Fi, Bluetooth, AirPlay 2 (via ODR de 100€)",
-        "url": "https://www.dealabs.com/bons-plans/tv-55-lg-oled55g6-2026-oled-evo-ai-4k-uhd-139cm-120-hz-dolby-vision-wi-fi-bluetooth-airplay-2-via-odr-de-100eur-3420692",
-        "source": "dealabs.com",
-        "date": "2026-09-27T20:28:06Z",
-        "extrait": "1 479€ - Easylounge Prix sympa pour cette TV 55\" LG OLED55G6 (2026) - OLED Evo AI, 4K UHD, 139cm, 120 Hz, Dolby Vision, Wi-Fi, Bluetooth, AirPlay 2. (y) Lien O…",
-        "tension": false
-      },
-      {
-        "titre": "TV 40'' Hisense QLED FHD 40A5S - 100 cm",
-        "url": "https://www.dealabs.com/bons-plans/tv-40-hisense-qled-hd-100-cm-40a5s-3420614",
-        "source": "dealabs.com",
-        "date": "2026-09-27T16:59:08Z",
-        "extrait": "209,99€ - Carrefour TV QLED HD 40 pouces (100 cm) Hisense 40A5S Cette TV Hisense 40A5S propose une diagonale de 40 pouces, soit environ 100 cm, dans un format…",
-        "tension": false
-      }
-    ]
-  },
-  {
     "motCle": "samsung jet 95s complete",
     "produitLabel": "Samsung Jet 95s Complete",
     "type": "emergent",
     "categorie": "retail",
-    "score": 29,
+    "score": 23,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "[Student Beans / Boursobank / Macif / Ulys] Aspirateur Samsung Jet 95S Complete",
@@ -504,10 +584,10 @@
     "produitLabel": "Samsung Jet 95s Complete",
     "type": "emergent",
     "categorie": "retail",
-    "score": 29,
+    "score": 23,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "[Student Beans / Boursobank / Macif / Ulys] Aspirateur Samsung Jet 95S Complete",
@@ -524,10 +604,10 @@
     "produitLabel": "Bosch Axt 2550 Tc",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Broyeur végétaux électrique Bosch AXT 2550 TC, 2500W ø45mm + sac/gants/lunettes (via 40€ d'ODR)",
@@ -544,10 +624,10 @@
     "produitLabel": "Nike Sous Contrat Depuis",
     "type": "emergent",
     "categorie": "sport",
-    "score": 18,
+    "score": 14,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Derrière le transfert de Kylian Mbappé chez l’équipementier On, la dégringolade de Nike",
@@ -564,10 +644,10 @@
     "produitLabel": "Nike Sous Contrat Depuis Vingt",
     "type": "emergent",
     "categorie": "sport",
-    "score": 18,
+    "score": 14,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Derrière le transfert de Kylian Mbappé chez l’équipementier On, la dégringolade de Nike",
@@ -584,10 +664,10 @@
     "produitLabel": "Bosch Axt 2550 Tc",
     "type": "emergent",
     "categorie": "retail",
-    "score": 18,
+    "score": 14,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Broyeur végétaux électrique Bosch AXT 2550 TC, 2500W ø45mm + sac/gants/lunettes (via 40€ d'ODR)",
@@ -604,10 +684,10 @@
     "produitLabel": "Philips Qled 75pus7810",
     "type": "emergent",
     "categorie": "retail",
-    "score": 14,
+    "score": 11,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -624,10 +704,10 @@
     "produitLabel": "Philips Qled 75pus7810 75",
     "type": "emergent",
     "categorie": "retail",
-    "score": 14,
+    "score": 11,
     "niveau": "surveille",
     "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -644,10 +724,10 @@
     "produitLabel": "Nike Pour L",
     "type": "emergent",
     "categorie": "sport",
-    "score": 14,
+    "score": 11,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Kylian Mbappé quitte Nike pour l’équipementier On, qui « s’attaque au football » avec fracas",
@@ -664,10 +744,10 @@
     "produitLabel": "Philips Qled 75pus7810",
     "type": "emergent",
     "categorie": "sport",
-    "score": 14,
+    "score": 11,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "172° - TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -684,10 +764,10 @@
     "produitLabel": "Philips Qled 75pus7810 75",
     "type": "emergent",
     "categorie": "sport",
-    "score": 14,
+    "score": 11,
     "niveau": "surveille",
     "evenementLieId": "euro-2028",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "172° - TV 75\" Philips QLED 75PUS7810 - 4K Dot Dolby Atmos Titan OS",
@@ -704,10 +784,10 @@
     "produitLabel": "Samsung Galaxy",
     "type": "emergent",
     "categorie": "retail",
-    "score": 14,
+    "score": 11,
     "niveau": "confirme",
     "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
+    "derniereMaj": "2026-11-09T06:15:02.927786Z",
     "articles": [
       {
         "titre": "Câble USB-C Ugreen Nexode - 240 W PD 3.1, écran LCD, 48 V/5 A, transfert 480 Mbps, 2 m (Vendeur Tiers)",
@@ -715,146 +795,6 @@
         "source": "dealabs.com",
         "date": "2026-09-13T16:34:32Z",
         "extrait": "15,99€ - Amazon Pratique pour avoir un seul câble capable de charger aussi bien un smartphone qu’une tablette ou un ordinateur portable, ce UGREEN Nexode prend…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "hôtels",
-    "produitLabel": "Hôtels",
-    "type": "predefini",
-    "categorie": "sport",
-    "score": 12,
-    "niveau": "surveille",
-    "evenementLieId": "jo-2028-paris",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "188° - 2J/1N pour 2 pers au Luxembourg à l' Hôtel Melià Luxembourg 4* - petit déj et diner inclu, Entrée au musée Mudam ex: du 01 au 02 Juin",
-        "url": "https://www.dealabs.com/bons-plans/2j1n-pour-2-pers-au-luxembourg-a-l-hotel-melia-luxembourg-4-petit-dej-et-diner-inclu-entree-au-musee-mudam-ex-du-01-au-02-juin-3416155",
-        "source": "dealabs.com",
-        "date": "2026-09-21T02:31:13Z",
-        "extrait": "78€ - Showroomprivé Résumé Meliá Luxembourg (4*) Chambre double classique + Petit-déjeuner + Dîner + Visite de musée + Bouteille incluse + Accès à l'espac...",
-        "tension": false
-      }
-    ]
-  },
-  {
-    "motCle": "bosch pmf 180",
-    "produitLabel": "Bosch Pmf 180",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/lames-scie-oscillante-universelle-joejoni-27-pieces-via-coupon-vendeur-tiers-3407420",
-        "source": "dealabs.com",
-        "date": "2026-09-06T06:54:39Z",
-        "extrait": "17,60€ - Amazon Accessoires Universels pour Outils Multifonctions : Ces accessoires multitool compatibles avec Dewalt DCS355N, DWE315 Corded, DCS355D1-GB, 20V…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "bosch professional gop10",
-    "produitLabel": "Bosch Professional Gop10",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/lames-scie-oscillante-universelle-joejoni-27-pieces-via-coupon-vendeur-tiers-3407420",
-        "source": "dealabs.com",
-        "date": "2026-09-06T06:54:39Z",
-        "extrait": "17,60€ - Amazon Accessoires Universels pour Outils Multifonctions : Ces accessoires multitool compatibles avec Dewalt DCS355N, DWE315 Corded, DCS355D1-GB, 20V…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "bosch professional star-lock",
-    "produitLabel": "Bosch Professional Star-lock",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "black-friday-2026",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/lames-scie-oscillante-universelle-joejoni-27-pieces-via-coupon-vendeur-tiers-3407420",
-        "source": "dealabs.com",
-        "date": "2026-09-06T06:54:39Z",
-        "extrait": "17,60€ - Amazon Accessoires Universels pour Outils Multifonctions : Ces accessoires multitool compatibles avec Dewalt DCS355N, DWE315 Corded, DCS355D1-GB, 20V…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "bosch pmf 180",
-    "produitLabel": "Bosch Pmf 180",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/lames-scie-oscillante-universelle-joejoni-27-pieces-via-coupon-vendeur-tiers-3407420",
-        "source": "dealabs.com",
-        "date": "2026-09-06T06:54:39Z",
-        "extrait": "17,60€ - Amazon Accessoires Universels pour Outils Multifonctions : Ces accessoires multitool compatibles avec Dewalt DCS355N, DWE315 Corded, DCS355D1-GB, 20V…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "bosch professional gop10",
-    "produitLabel": "Bosch Professional Gop10",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/lames-scie-oscillante-universelle-joejoni-27-pieces-via-coupon-vendeur-tiers-3407420",
-        "source": "dealabs.com",
-        "date": "2026-09-06T06:54:39Z",
-        "extrait": "17,60€ - Amazon Accessoires Universels pour Outils Multifonctions : Ces accessoires multitool compatibles avec Dewalt DCS355N, DWE315 Corded, DCS355D1-GB, 20V…",
-        "tension": true
-      }
-    ]
-  },
-  {
-    "motCle": "bosch professional star-lock",
-    "produitLabel": "Bosch Professional Star-lock",
-    "type": "emergent",
-    "categorie": "retail",
-    "score": 11,
-    "niveau": "confirme",
-    "evenementLieId": "soldes-hiver-2027",
-    "derniereMaj": "2026-11-02T06:15:00.718646Z",
-    "articles": [
-      {
-        "titre": "Lames Scie Oscillante Universelle Joejoni - 27 pièces (Via Coupon - Vendeur tiers)",
-        "url": "https://www.dealabs.com/bons-plans/lames-scie-oscillante-universelle-joejoni-27-pieces-via-coupon-vendeur-tiers-3407420",
-        "source": "dealabs.com",
-        "date": "2026-09-06T06:54:39Z",
-        "extrait": "17,60€ - Amazon Accessoires Universels pour Outils Multifonctions : Ces accessoires multitool compatibles avec Dewalt DCS355N, DWE315 Corded, DCS355D1-GB, 20V…",
         "tension": true
       }
     ]
